@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:0,https://flylinks.net,AlbMUSIC
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:0,https://flylinks.net,AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:0,https://flylinks.net,Apollon TV
+http://185.80.224.14:8095/hls/stream.m3u8
+#EXTINF:0,https://flylinks.net,EUROAL
+http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+#EXTINF:0,https://flylinks.net,Fine Living
+http://70.32.0.9:5000/live/543/playlist.m3u8
+#EXTINF:0,https://flylinks.net,Koha TV
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
+#EXTINF:0,https://flylinks.net,News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:0,https://flylinks.net,News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0,https://flylinks.net,Ora TV
+http://dcunilive36-lh.akamaihd.net:80/i/dclive_1@662093/master.m3u8
+#EXTINF:0,https://flylinks.net,Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0,https://flylinks.net,Report TV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0,https://flylinks.net,Rrokum
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0,https://flylinks.net,Rrokum TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTK 1 HD
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTK 1 HD
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTK 3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist_w2121045972.m3u8
+#EXTINF:0,https://flylinks.net,RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTK 4
+http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTK 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTK 4
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist_w599618358.m3u8
+#EXTINF:0,https://flylinks.net,RTSH 1 HD
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTSH 1 HD
+http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTSH 2 HD
+http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTSH 24
+http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTSH 3
+http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTSH Femije
+http://79.106.48.2/live/rtsh_femije_ott_p3/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTSH Film
+http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTSH Muzike
+http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTSH Shqip
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTSH Shqip
+http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:0,https://flylinks.net,RTV Pendimi
+http://tv.rtvpendimi.com:8081/hls/RTVPendimi.m3u8
+#EXTINF:0,https://flylinks.net,RTV ZiK
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:0,https://flylinks.net,Top Sound
+https://cdn.tvtopsound.com:1443/TopSoundTV/stream/TopSoundTV/live_720/chunks.m3u8
+#EXTINF:0,https://flylinks.net,TV Boin
+http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
+#EXTINF:0,https://flylinks.net,TV Dielli
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:0,https://flylinks.net,TV7
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
+#EXTINF:0,https://flylinks.net,Zjarr TV
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
