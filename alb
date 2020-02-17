@@ -1,65 +1,52 @@
 #EXTM3U
-#EXTINF:0,Top Channel
-http://ott.digitalb.tv/Tch/Tch.isml/playlist.m3u8
-#EXTINF:0,Klan TV
-http://ott.digitalb.tv/KlanTV/KlanTV.isml/playlist.m3u8
-#EXTINF:0,TVSH
-http://ott.digitalb.tv/TVSH/TVSH.isml/playlist.m3u8
-#EXTINF:0,Klan Kosova
-http://ott.digitalb.tv/KlanKosova/KlanKosova.isml/playlist.m3u8
-#EXTINF:0,Top News
-http://ott.digitalb.tv/Top-News/Top-News.isml/playlist.m3u8
-#EXTINF:0,News24 AL
-http://ott.digitalb.tv/News-24/News-24.isml/playlist.m3u8
-#EXTINF:0,Ora News AL
-http://ott.digitalb.tv/OraNews/OraNews.isml/playlist.m3u8
-#EXTINF:0,Report TV AL
-http://ott.digitalb.tv/ReportTV/ReportTV.isml/playlist.m3u8
-#EXTINF:0,Baby TV
-http://ott.digitalb.tv/BabyTV/BabyTV.isml/playlist.m3u8
-#EXTINF:0,Bang Bang
-http://ott.digitalb.tv/BangBang/BangBang.isml/playlist.m3u8
-#EXTINF:0,Cufo
-http://ott.digitalb.tv/CufoTV/CufoTV.isml/playlist.m3u8
-#EXTINF:0,BCTV
-http://ott.digitalb.tv/BCTV/BCTV.isml/playlist.m3u8
-#EXTINF:0,EXP-Shkenc
-http://ott.digitalb.tv/ExpShkence/ExpShkence.isml/playlist.m3u8
-#EXTINF:0,EXP-Histori
-http://ott.digitalb.tv/ExpHistori/ExpHistori.isml/playlist.m3u8
-#EXTINF:0,EXP-Natyre
-http://ott.digitalb.tv/ExpNatyra/ExpNatyra.isml/playlist.m3u8
-#EXTINF:0,T-HD
-http://ott.digitalb.tv/T-HD/T-HD.isml/playlist.m3u8
-#EXTINF:0,Film Aksion
-http://ott.digitalb.tv/Film-Aksion/Film-Aksion.isml/playlist.m3u8
-#EXTINF:0,Film Dy HD
-http://ott.digitalb.tv/FilmDyHD/FilmDyHD.isml/playlist.m3u8
-#EXTINF:0,Film Nje HD
-http://ott.digitalb.tv/FilmNjeHD/FilmNjeHD.isml/playlist.m3u8
-#EXTINF:0,SuperSonic AL
-http://ott.digitalb.tv/SuperSonic/SuperSonic.isml/playlist.m3u8
-#EXTINF:0,MusicAL
-http://ott.digitalb.tv/musicAL/musicAL.isml/playlist.m3u8
-#EXTINF:0,City TV
-http://ott.digitalb.tv/CityTV/CityTV.isml/Playlist.m3u8
-#EXTINF:0,Mad TV AL
-http://ott.digitalb.tv/MadTV/MadTV.isml/playlist.m3u8
-#EXTINF:0,MTV Live AL
-http://ott.digitalb.tv/MTV-Live/MTV-Live.isml/playlist.m3u8
-#EXTINF:0,My Music AL
-http://ott.digitalb.tv/MyMusic/MyMusic.isml/playlist.m3u8
-#EXTINF:0,EuroSport AL
-http://ott.digitalb.tv/EuroSport/EuroSport.isml/playlist.m3u8
-#EXTINF:0,SuperSport 1
-http://ott.digitalb.tv/SS1/SS1.isml/playlist.m3u8
-#EXTINF:0,SuperSport 2
-http://ott.digitalb.tv/SS2/SS2.isml/playlist.m3u8
-#EXTINF:0,SuperSport 3
-http://ott.digitalb.tv/SS3/SS3.isml/playlist.m3u8
-#EXTINF:0,SuperSport 4
-http://ott.digitalb.tv/SS4/SS4.isml/playlist.m3u8
-#EXTINF:0,SuperSport 5
-http://ott.digitalb.tv/SS5/SS5.isml/playlist.m3u8
-#EXTINF:0,SuperSport 6
-http://ott.digitalb.tv/SS6/SS6.isml/playlist.m3u8
+AL:News24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,RTSH 1
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+AL:ORA News
+http://145.239.2.153:8081/oranews/live/AL:REPORT
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+AL:SMILE
+http://stream.shqiptv.com:7080/TRINGSMILE-8772-sd/index.m3u8
+#EXTINF:-1,Channel One
+http://145.239.2.153:8081/channelone/channelone/playlist.m3u8
+#EXTINF:-1,In Tv
+http://80.90.86.195:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,7 News
+https://stream.shqiptv.com/tst/7NEWS-8761-sd/index.m3u8
+#EXTINF:-1,Arta News
+https://stream.shqiptv.com/tst/ARTANEWS-8745-sd/index.m3u8
+#EXTINF:-1,ABC News
+http://ipx1.streamstorm.to:8005/teuta/teuta/509
+#EXTINF:-1, VIZION PLUS
+http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+#EXTINF:-1,AL: TV Dukagjini HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1385
+#EXTINF:-1,TRING INTERNATIONAL
+http://95.107.132.104/out/u/236_1.m3u8
+#EXTINF:-1,TRING SHQIP
+http://95.107.132.104/out/u/18_1.m3u8
+#EXTINF:-1,LIVING TV
+http://95.107.132.106/out/u/545_1.m3u8
+#EXTINF:-1,TRING TRING
+http://95.107.132.104/out/u/353_1.m3u8
+#EXTINF:-Klan Kosova
+http://95.107.132.104/out/u/400_1.m3u8
+#EXTINF:-Fax News
+http://95.107.132.104/out/u/228_1.m3u8
+#EXTINF:-KTV
+http://95.107.132.104/out/u/38_1.m3u8
+#EXTINF:-RTV 21
+http://95.107.132.106/out/u/330_2.m3u8
+#EXTINF:-1,TRING SPORT 1 HD
+http://ipx1.streamstorm.to:8005/teuta/teuta/1011
+#EXTINF:-1,RTSH SAT HD
+http://79.106.48.164:33366/live/flori/flori/114.ts
+#EXTINF:-1,A2CNN
+http://79.106.48.164:33366/live/flori/flori/95.ts
+#EXTINF:-1,Top Channel
+http://79.106.48.164:33366/live/flori/flori/38.ts
+#EXTINF:-1,Klan Plus
+http://79.106.48.164:33366/live/flori/flori/44.ts
+#EXTINF:-1,Klan HD
+http://79.106.48.164:33366/live/flori/flori/45.ts
