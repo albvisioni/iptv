@@ -375,8 +375,8 @@ http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40877
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40878
 #EXTINF:-1,AL: Kitchen TV
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40879
-#EXTINF:-1,AL: KLAN 4K
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40880
+#EXTINF:-1,AL: KLAN PO
+http://95.107.132.131:3344/udp/235.0.0.1:9009
 #EXTINF:-1,AL: Klan FHD
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40881
 #EXTINF:-1,AL: Klan HD 1080
@@ -733,8 +733,8 @@ http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41058
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41059
 #EXTINF:-1,AL: Tom & Jerry
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41060
-#EXTINF:-1,AL: TOP Channel 4K
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41061
+#EXTINF:-1,AL: TOP Channel PO
+http://130.0.24.6:2831/udp/239.101.101.25:2345
 #EXTINF:-1,AL: Top Channel FHD
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41062
 #EXTINF:-1,AL: Top Estrada TV HD
