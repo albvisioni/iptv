@@ -1,319 +1,116 @@
+#EXTINF:-1,RTK
+http://akamai127.tibo.tv/rtk/index.m3u8
 #EXTINF:-1,Top Channel
-https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
-#EXTINF:-1,Klan HD
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/27.ts
-#EXTINF:-1,Vizion Plus
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/26.ts
-#EXTINF:-1,Klan Plus
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/86.ts
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/topchannel/playlist.m3u8
+#EXTINF:-1,RTV 21
+http://84.22.33.25:80/mpeg2_21sd/playlist.m3u8
+#EXTINF:-1,KTV
+http://84.22.33.25:80/ktvsd/mono.m3u8
 #EXTINF:-1,Klan Kosova
-http://95.107.132.104/out/u/399_1.m3u8
+http://84.22.48.253:8080/klanks/test.m3u8
+#EXTINF:-1,Klan HD
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/klantv/playlist.m3u8
+#EXTINF:-1,RTSH
+http://iphone-streaming.ustream.tv/uhls/18947414/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Alsat M
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/87.ts
-#EXTINF:-1,Bang Bang
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/42.ts
-#EXTINF:-1,Çufo
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/43.ts
-#EXTINF:-1,Tring Tring
-http://95.107.132.104/out/u/353_1.m3u8
-#EXTINF:-1,Tring Kids
-http://95.107.132.104/out/u/339_1.m3u8
-#EXTINF:-1,Exp Shkencë
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/64.ts
-#EXTINF:-1,Exp Natyra
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/65.ts
-#EXTINF:-1,Exp Histori
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/66.ts
-#EXTINF:-1,Tring World
-http://95.107.132.104/out/u/409_1.m3u8
-#EXTINF:-1,Tring Planet
-http://95.107.132.104/out/u/367_1.m3u8
-#EXTINF:-1,Tring Histori
-http://95.107.132.104/out/u/363_1.m3u8
-#EXTINF:-1,National Geographic
-http://95.107.132.104/out/u/83_1.m3u8
-#EXTINF:-1,Travel Channel
-http://95.107.132.104/out/u/395_1.m3u8
-#EXTINF:-1,Tip Tv
-http://95.107.132.104/out/u/359_1.m3u8
-#EXTINF:-1,Tring International
-http://95.107.132.104/out/u/239_1.m3u8
-#EXTINF:-1,T HD
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/56.ts
-#EXTINF:-1,Film Aksion HD
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/63.ts
-#EXTINF:-1,Film Hits HD
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/59.ts
-#EXTINF:-1,Film Autor
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/62.ts
-#EXTINF:-1,Film Komedi
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/58.ts
-#EXTINF:-1,Film Dramë
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/61.ts
-#EXTINF:-1,Film Një HD
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/57.ts
-#EXTINF:-1,Film Dy HD
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/60.ts
-#EXTINF:-1,Eurofilm
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/678.ts
-#EXTINF:-1,Tring Action HD
-http://95.107.132.104/out/u/12_1.m3u8
-#EXTINF:-1,Tring Super HD
-http://95.107.132.104/out/u/29_1.m3u8
-#EXTINF:-1,Tring Life
-http://95.107.132.104/out/u/25_1.m3u8
-#EXTINF:-1,Tring Fantasy
-http://95.107.132.104/out/u/305_1.m3u8
-#EXTINF:-1,Tring Comedy
-http://95.107.132.104/out/u/311_1.m3u8
-#EXTINF:-1,Tring Shqip
-http://95.107.132.104/out/u/18_1.m3u8
-#EXTINF:-1,Smile
-http://95.107.132.104/out/u/349_1.m3u8
-#EXTINF:-1,Fox
-http://95.107.132.104/out/u/373_1.m3u8
-#EXTINF:-1,Fox Life
-http://95.107.132.104/out/u/377_1.m3u8
-#EXTINF:-1,Fox Crime
-http://95.107.132.104/out/u/391_1.m3u8
-#EXTINF:-1,ShqipTv Aksion
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/688.ts
-#EXTINF:-1,ShqipTv Western
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/692.ts
-#EXTINF:-1,ShqipTv Horror
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/690.ts
-#EXTINF:-1,ShqipTv Komedi
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/691.ts
-#EXTINF:-1,ShqipTv Fantasy
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/689.ts
-#EXTINF:-1,ShqipTv Film
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/685.ts
-#EXTINF:-1,ShqipTv Tom & Jerry
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/687.ts
-#EXTINF:-1,Jolly HD
-http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8
-#EXTINF:-1,3 Plus
-http://stream.shqiptv.com:7080/3PLUS-8773-sd/index.m3u8
-#EXTINF:-1,Living HD
-http://95.107.132.104/out/u/479_1.m3u8
-#EXTINF:-1,Muse
-http://95.107.132.104/out/u/403_1.m3u8
-#EXTINF:-1,Zjarr Tv
-http://edge06eu.ekranet.com/zjarrtv/index.m3u8?e=asdasd&c=zjarrtv&mac=00:1A:79:28:07:98&apps=zjarrtv&appsfinal=appsfinal
-#EXTINF:-1,Tema Tv
-http://edge06eu.ekranet.com/tematv_360p/index.m3u8?e=asdasd&c=tematv_360p&mac=00:1A:79:28:07:98&apps=tematv_360p&appsfinal=appsfinal
-#EXTINF:-1,Rtsh 1
-http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
-#EXTINF:-1,Rtsh 2
-http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
-#EXTINF:-1,Rtsh 3
-http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
-#EXTINF:-1,Rtsh Plus
-http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
-#EXTINF:-1,Rtsh Shqip
-http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
-#EXTINF:-1,Rtsh Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1,Super Sport 1
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/48.ts
-#EXTINF:-1,Super Sport 2
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/49.ts
-#EXTINF:-1,Super Sport 3
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/50.ts
-#EXTINF:-1,Super Sport 4
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/51.ts
-#EXTINF:-1,Tring Sport 1
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/44.ts
-#EXTINF:-1,Tring Sport 2
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/45.ts
-#EXTINF:-1,Tring Sport 3
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/46.ts
-#EXTINF:-1,Tring Sport 4
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/47.ts
-#EXTINF:-1,Kujtesa Sport 1
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/856.ts
-#EXTINF:-1,Kujtesa Sport 2
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/857.ts
-#EXTINF:-1,Kujtesa Sport 3
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/858.ts
-#EXTINF:-1,Kujtesa Sport 4
-http://163.172.211.229:8000/live/albw54y6ioyktr/srtrjyiuj78y8o7i/859.ts
-Idman
-http://streams.livetv.az:80/azerbaijan/idman2_stream/chunks.m3u8
-#EXTINF:-1,Folk Plus
-http://95.107.132.104/out/u/44_1.m3u8
-#EXTINF:-1,Elrodi Tv
-http://95.107.132.104/out/u/155_1.m3u8
-#EXTINF:-1,Kopliku Tv
-http://95.107.132.104/out/u/151_1.m3u8
-#EXTINF:-1,Start channel
-Syri Blue
-http://live.syri.tv:6969/live/syriblue/hd/23.m3u8
-#EXTINF:-1,BoinAl
-http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Top Estrada
-http://topestrada.shqiptv.org/live/topestrada/index.m3u8
-#EXTINF:-1,Balkanika
-rtsp://stream.teracomm.bg/balkanika
-Tv 7
-https://59583158c050f.streamlock.net:443/7064/7064/playlist.m3u8
-#EXTINF:-1,CGTN
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1,Fashion Tv
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1,Bxi
-http://149.202.81.107:1935/stream/live/chunklist.m3u8
-#EXTINF:-1,Gong
-http://51.254.215.79/appflux/gong/playlist.m3u8
-#EXTINF:-1,DJing dance floor
-https://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1,MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,Go Tv
-http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
-#EXTINF:-1,Deluxe music
-http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
-#EXTINF:-1,Radio monte Carlos
-http://wow01.105.net/live/rmc1/playlist.m3u8
-#EXTINF:-1,Dielli Tv
-http://51.15.180.159:8081/play/hls/dielli/index.m3u8
-#EXTINF:-1,Rrokum Tv
-http://95.107.132.104/out/u/188_1.m3u8
-#EXTINF:-1,Tirana 1
-http://95.107.132.104/out/u/163_1.m3u8
-#EXTINF:-1,Rtk 1
-http://95.107.132.104/out/u/327_1.m3u8
-#EXTINF:-1,Peace Tv
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1,Rtv 1
-http://79.106.102.68/hls/rtvnje.m3u8
-#EXTINF:-1,PENDIMI
-http://rtvpendimi.com:8081/hls/RTVPendimi.m3u8
-#EXTINF:-1,Click Tv
-http://95.107.132.104/out/u/413_1.m3u8
-#EXTINF:-1,Club Tv
-http://95.107.132.104/out/u/87_1.m3u8
-#EXTINF:-1,Tv Koha
-rtmp://live.tvkoha.tv/live/koha/livestream
-#EXTINF:-1,Rtv Zeri Danimark
-http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
-#EXTINF:-1,Euro AL
-http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
-#EXTINF:-1,Opoja Tv
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1,Dasma Tv
-http://91.187.117.230:8080
-#EXTINF:-1,Tv Tetova
-rtmp://ip.tvtetova.net:5119/live/tvtetova
-#EXTINF:-1,Alb Music
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1,Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1,DJing Hits
-https://www.djing.com/tv/hits.m3u8
-#EXTINF:-1,4Fun Tv
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1,1 Music
-http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1,Hit Music Channel
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1,One Tv
-http://rtmp.one.by:1200
-#EXTINF:-1,Music Box
-rtmp://212.26.132.86/live/mb_ua
-#EXTINF:-1,Fox music Tv
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1,Alb Uk
-rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
-#EXTINF:-1,Syri Vision
-rtmp://37.26.69.49:80/live//syri
-#EXTINF:-1,Premium channel
-http://wedding-channel.tv/stream.m3u8
-#EXTINF:-1,Luxury
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1,Ktv
-http://95.107.132.104/out/u/38_1.m3u8
-#EXTINF:-1,21 Rtv
-http://95.107.132.104/out/u/489_1.m3u8
-#EXTINF:-1,Bbc World News
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1,Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,Trt World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,Dw News
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,AL Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1,France 24 En
-http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
-#EXTINF:-1,France 24 Fr
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-#EXTINF:-1,Tv5 Monde
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1,Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1,7 News
-http://95.107.132.104/out/u/333_1.m3u8
+http://84.22.33.25/mpeg2_alsatm/index.m3u8
+#EXTINF:-1,Vizion Plus
+http://84.22.33.25/mpeg2_vizionplus/playlist.m3u8
+#EXTINF:-1,Top News
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/topnews/playlist.m3u8
+#EXTINF:-1,News 24
+http://66.55.93.203/hls-live/livepkgr/_definst_/news24/n24stream.m3u8
 #EXTINF:-1,Ora News
-http://95.107.132.104/out/u/343_1.m3u8
-#EXTINF:-1,Fax News
-http://95.107.132.104/out/u/229_1.m3u8
-#EXTINF:-1,Channel One
-http://95.107.132.104/out/u/427_1.m3u8
-#EXTINF:-1,RTL
-http://95.107.132.104/out/u/115_1.m3u8
-#EXTINF:-1,RTL II
-http://95.107.132.104/out/u/119_1.m3u8
-#EXTINF:-1,Vox
-http://95.107.132.104/out/u/123_1.m3u8
-#EXTINF:-1,Super Rtl
-http://95.107.132.104/out/u/127_1.m3u8
-#EXTINF:-1,Mediaset 1
-http://95.107.132.104/out/u/51_1.m3u8
-#EXTINF:-1,Mediaset Italia
-http://95.107.132.104/out/u/75_1.m3u8
-#EXTINF:-1,Rai 1
-http://95.107.132.104/out/u/437_1.m3u8
-#EXTINF:-1,Rai 2
-http://95.107.132.104/out/u/451_1.m3u8
-#EXTINF:-1,Rai 3
-http://95.107.132.104/out/u/447_1.m3u8
-#EXTINF:-1,Rai Gulp
-http://95.107.132.104/out/u/443_1.m3u8
-#EXTINF:-1,Mediaset 4
-http://95.107.132.104/out/u/433_1.m3u8
-#EXTINF:-1,Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
-#EXTINF:-1,Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
-#EXTINF:-1,LA 7
-http://95.107.132.104/out/u/99_1.m3u8
-#EXTINF:-1,Real Time
-http://95.107.132.104/out/u/111_1.m3u8
-#EXTINF:-1,Rai yoyo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1,TGcom 24
-http://95.107.132.104/out/u/71_1.m3u8
-#EXTINF:-1,Il Meteo.It Oggi
-http://media.ilmeteo.it/video/iphone/oggi.m4v
-#EXTINF:-1,Il Meteo.It Domani
-http://media.ilmeteo.it/video/iphone/domani.m4v
-#EXTINF:-1,Il Meteo.It Dopodomani
-http://media.ilmeteo.it/video/iphone/dopodomani.m4v
-#EXTINF:-1,Dw
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1,Das Erste
-https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
-#EXTINF:-1,Ant1
-https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1,Trt 1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,Trt Çocuk
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1,Kanal D
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1,Trt Avaz
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+http://81.7.13.162/hls/oranews/index.m3u8
+#EXTINF:-1,A1 Report
+rtmp://66.55.93.204/livepkgr/a1stream?adbe-live-event=a1report
+#EXTINF:-1,TV Arta
+http://84.22.48.253:8080/artanews/test.m3u8
+#EXTINF:-1,SuperSport Kosova 1
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/supersport1/playlist.m3u8
+#EXTINF:-1,SuperSport Kosova 2
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/supersport2/playlist.m3u8
+#EXTINF:-1,SuperSport 1
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/ssnews/playlist.m3u8
+#EXTINF:-1,SuperSport 1 HD
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,SuperSport 2
+http://94.100.31.242:8183/hls/Sport2/index.m3u8
+#EXTINF:-1,SuperSport 2 HD
+http://81.7.13.162//hls//ss2//index.m3u8
+#EXTINF:-1,SuperSport 3 HD
+http://94.100.31.242:8183/hls/Sport3/index.m3u8
+#EXTINF:-1,Eurosport HD
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,Arenasport 1
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Arenasport 2
+http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Arenasport 3
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Arenasport 4
+http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,My Music
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/mymusic/playlist.m3u8
+#EXTINF:-1,MAD
+http://37.26.81.188:1935//live//livestream//playlist.m3u8
+#EXTINF:-1,SuperSonic Tv
+http://akamai228.tibo.tv//Drepeater228live//supersonic.stream//playlist.m3u8
+#EXTINF:-1,Folk Shqip
+http://str105mb.setplex.net:1935//str2iosmd5//7ios_folkplus_34564765//playlist.m3u8
+#EXTINF:-1,Bang Bang
+http://94.100.31.242:8183/hls/bangbang/index.m3u8
+#EXTINF:-1,Cufo
+http://94.100.31.242:8183/hls/xz3123/index.m3u8
+#EXTINF:-1,Junior
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/juniortv/playlist.m3u8
+#EXTINF:-1,Tring Tring
+http://94.100.31.242:8183/hls/tringtring/index.m3u8
+#EXTINF:-1,Tip Tv
+http://94.100.31.242:8183//hls//tiptv//index.m3u8
+#EXTINF:-1,Exp Shkence
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/expshkence/playlist.m3u8
+#EXTINF:-1,Exp Histori
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/exphistori/playlist.m3u8
+#EXTINF:-1,Exp Natyra
+http://restream.goldtv.al:8000/live/sportsalb.com/www.albsports.com/23.m3u8
+#EXTINF:-1,Discovery Channel
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1,Film Nje
+http://94.100.31.242:8183//hls//film3//index.m3u8
+#EXTINF:-1,T HD
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/tchannel/playlist.m3u8
+#EXTINF:-1,Film Komedi
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/filmkomedi/playlist.m3u8
+#EXTINF:-1,Film Hits +1
+http://94.100.31.242:8183/hls/film1/index.m3u8
+#EXTINF:-1,Film Aksion
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/filmaksion/playlist.m3u8
+#EXTINF:-1,Stinët
+#EXTVLCOPT:http-user-agent=ontvalbania
+http://ontv.al/tvim/digiplus/playlist.m3u8
+#EXTINF:-1,Tring Super
+http://84.22.33.25:80/mpeg2_tringsuper/playlist.m3u8
+#EXTINF:-1,Tring Max
+http://84.22.33.25:80/mpeg2_tringmax/playlist.m3u8
+#EXTINF:-1,Tring Shqip
+http://livefutboll24.com/sportsalb.com/www.albsports.com/24.ts
