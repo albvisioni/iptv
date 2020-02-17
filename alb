@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:0,Top Channel
+http://ott.digitalb.tv/Tch/Tch.isml/playlist.m3u8
+#EXTINF:0,Klan TV
+http://ott.digitalb.tv/KlanTV/KlanTV.isml/playlist.m3u8
+#EXTINF:0,TVSH
+http://ott.digitalb.tv/TVSH/TVSH.isml/playlist.m3u8
+#EXTINF:0,Klan Kosova
+http://ott.digitalb.tv/KlanKosova/KlanKosova.isml/playlist.m3u8
+#EXTINF:0,Top News
+http://ott.digitalb.tv/Top-News/Top-News.isml/playlist.m3u8
+#EXTINF:0,News24 AL
+http://ott.digitalb.tv/News-24/News-24.isml/playlist.m3u8
+#EXTINF:0,Ora News AL
+http://ott.digitalb.tv/OraNews/OraNews.isml/playlist.m3u8
+#EXTINF:0,Report TV AL
+http://ott.digitalb.tv/ReportTV/ReportTV.isml/playlist.m3u8
+#EXTINF:0,Baby TV
+http://ott.digitalb.tv/BabyTV/BabyTV.isml/playlist.m3u8
+#EXTINF:0,Bang Bang
+http://ott.digitalb.tv/BangBang/BangBang.isml/playlist.m3u8
+#EXTINF:0,Cufo
+http://ott.digitalb.tv/CufoTV/CufoTV.isml/playlist.m3u8
+#EXTINF:0,BCTV
+http://ott.digitalb.tv/BCTV/BCTV.isml/playlist.m3u8
+#EXTINF:0,EXP-Shkenc
+http://ott.digitalb.tv/ExpShkence/ExpShkence.isml/playlist.m3u8
+#EXTINF:0,EXP-Histori
+http://ott.digitalb.tv/ExpHistori/ExpHistori.isml/playlist.m3u8
+#EXTINF:0,EXP-Natyre
+http://ott.digitalb.tv/ExpNatyra/ExpNatyra.isml/playlist.m3u8
+#EXTINF:0,T-HD
+http://ott.digitalb.tv/T-HD/T-HD.isml/playlist.m3u8
+#EXTINF:0,Film Aksion
+http://ott.digitalb.tv/Film-Aksion/Film-Aksion.isml/playlist.m3u8
+#EXTINF:0,Film Dy HD
+http://ott.digitalb.tv/FilmDyHD/FilmDyHD.isml/playlist.m3u8
+#EXTINF:0,Film Nje HD
+http://ott.digitalb.tv/FilmNjeHD/FilmNjeHD.isml/playlist.m3u8
+#EXTINF:0,SuperSonic AL
+http://ott.digitalb.tv/SuperSonic/SuperSonic.isml/playlist.m3u8
+#EXTINF:0,MusicAL
+http://ott.digitalb.tv/musicAL/musicAL.isml/playlist.m3u8
+#EXTINF:0,City TV
+http://ott.digitalb.tv/CityTV/CityTV.isml/Playlist.m3u8
+#EXTINF:0,Mad TV AL
+http://ott.digitalb.tv/MadTV/MadTV.isml/playlist.m3u8
+#EXTINF:0,MTV Live AL
+http://ott.digitalb.tv/MTV-Live/MTV-Live.isml/playlist.m3u8
+#EXTINF:0,My Music AL
+http://ott.digitalb.tv/MyMusic/MyMusic.isml/playlist.m3u8
+#EXTINF:0,EuroSport AL
+http://ott.digitalb.tv/EuroSport/EuroSport.isml/playlist.m3u8
+#EXTINF:0,SuperSport 1
+http://ott.digitalb.tv/SS1/SS1.isml/playlist.m3u8
+#EXTINF:0,SuperSport 2
+http://ott.digitalb.tv/SS2/SS2.isml/playlist.m3u8
+#EXTINF:0,SuperSport 3
+http://ott.digitalb.tv/SS3/SS3.isml/playlist.m3u8
+#EXTINF:0,SuperSport 4
+http://ott.digitalb.tv/SS4/SS4.isml/playlist.m3u8
+#EXTINF:0,SuperSport 5
+http://ott.digitalb.tv/SS5/SS5.isml/playlist.m3u8
+#EXTINF:0,SuperSport 6
+http://ott.digitalb.tv/SS6/SS6.isml/playlist.m3u8
