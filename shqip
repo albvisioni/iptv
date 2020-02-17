@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a2news.com/wp-content/themes/a2cnn/assets/images/a2-cnn-logo.png" group-title="Groups", A2
+http://95.107.132.131:3344/udp/238.20.15.2:9009
+
+#EXTINF:-1 tvg-id="ABC News" tvg-logo="http://abcnews.al/wp-content/uploads/2017/10/abclogo.png" group-title="Groups", Abc News 24/7
+http://95.107.132.131:3344/udp/235.0.0.2:9009
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://diasporatv.com/uploads/dtv-channel-adrianet.png" group-title="Groups", Adria Net
+http://95.107.132.106/out/u/370_2.m3u8
+
+#EXTINF:-1 tvg-id="Alsat-M" tvg-logo="http://albepg.com/tvlogi/Alsat%20M.png" group-title="Groups", Alsat M
+http://84.22.33.238/unicast.alsatmm/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6hhXqlT.jpg" group-title="Groups", Apollon TV
+http://185.80.224.14:8095/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", BBF
+http://95.107.132.106/out/u/425_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Club Tv
+http://95.107.132.104/out/u/87_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", DASMA
+http://91.187.117.230:8080
+
+#EXTINF:-1 tvg-id="Intv" tvg-logo="noimage.png" group-title="Groups", IN TV HD
+http://80.90.86.195:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Living HD" tvg-logo="noimage.png" group-title="Groups", LIVING TV
+http://95.107.132.106/out/u/545_1.m3u8
+
+#EXTINF:-1 tvg-id="News 24 AL" tvg-logo="http://193.70.86.92/chlogo/logo/tv/nn/news24_in.png" group-title="Groups", News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Ora News
+http://oranews.tv/channelone/channelone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Report%20TV.png" group-title="Groups", Report Tv
+http://84.22.33.214/ReportTV/mpegts
+
+#EXTINF:-1 tvg-id="RTK 1" tvg-logo="http://193.70.86.92/chlogo/logo/tv/rr/rtk_1.png" group-title="Groups", Rtk 1
+http://176.31.74.161:8081/live/rtk1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTSH1 HD" tvg-logo="noimage.png" group-title="Groups", Rtsh 1
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Rtsh 24news
+http://79.106.48.2/live/rtsh_24_ott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Rtsh 3
+http://79.106.48.2/live/rtsh_3ott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTV 21 HD" tvg-logo="noimage.png" group-title="Groups", RTV 21 Hd
+http://95.107.132.104/out/u/488_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Rtv Ora
+http://oranews.tv/oranews/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Scan Tv
+http://95.107.132.131:3344/udp/238.20.115.2:9009
+
+#EXTINF:-1 tvg-id="T 7" tvg-logo="http://albepg.com/tvlogi/T%207.png" group-title="Groups", T7
+http://84.22.33.238/unicast.klankosova2/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Tring Info
+http://95.107.132.106/out/u/419_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Super" tvg-logo="noimage.png" group-title="Groups", Tring Super HD
+http://95.107.132.104/out/u/470_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png" group-title="Groups", Tv Dukagjini
+http://95.107.132.104/out/u/198_2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/TV%20Opinion.png" group-title="Groups", Tv Opinion
+http://84.22.33.254/unicast.tvopinion/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Zjarr HD
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://193.70.86.92/chlogo/logo/tv/vv/vizion_plus.png" group-title="Groups", VIZION PLUS
+http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="Groups", Rtsh Sport
+http://79.106.48.2/live/rtsh_sport_ott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTSH2 HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH2%20HD.png" group-title="Groups", Rtsh 2
+http://79.106.48.2/live/rtsh_2ott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/top_channel.png" group-title="Groups", Top Channel
+http://130.0.24.6:2831/udp/239.101.101.25:2345
+
+#EXTINF:-1 tvg-id="RTK 1" tvg-logo="http://193.70.86.92/chlogo/logo/tv/rr/rtk_1.png" group-title="Groups", Rtk 1
+http://95.107.132.104/out/u/327_1.m3u8
+
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/super_sport.png" group-title="Groups", Supersport
+http://130.0.24.6:2831/udp/228.50.50.49:30000
+
+#EXTINF:-1 tvg-id="Top News" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/top_news.png" group-title="Groups", Top News
+http://timeshift.hdtv11.com/topnews/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Arta%20HD.png" group-title="Groups", Arta News
+http://84.22.33.254/unicast.artanews/mpegts
+
+#EXTINF:-1 tvg-id="Elrodi TV" tvg-logo="http://albepg.com/tvlogi/Elrodi%20TV.png" group-title="Groups", Elrodi Tv
+http://95.107.132.104/out/u/155_1.m3u8
+
+#EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png" group-title="Groups", Fax News
+http://95.107.132.104/out/u/228_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.albepg.com/tvlogi/Folk%20Plus.png" group-title="Groups", Folk Plus
+http://95.107.132.104/out/u/44_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_jolly_hd.png" group-title="Groups", Jolly HD
+http://95.107.132.104/out/u/463_1.m3u8
+
+#EXTINF:-1 tvg-id="7 News" tvg-logo="http://193.70.86.92/chlogo/logo/tv/kk/kanali7.png" group-title="Groups", Kanali 7
+http://95.107.132.104/out/u/332_1.m3u8
+
+#EXTINF:-1 tvg-id="Klan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png" group-title="Groups", Klan
+http://95.107.132.131:3344/udp/235.0.0.1:9009
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png" group-title="Groups", Klan Kosova
+http://95.107.132.104/out/u/400_1.m3u8
+
+#EXTINF:-1 tvg-id="Klan Plus" tvg-logo="http://klanplus.al/wp-content/uploads/2018/01/logo-kplus-copy-1.png" group-title="Groups", Klan Plus
+http://95.107.132.131:3344/udp/235.0.0.6:9009
+
+#EXTINF:-1 tvg-id="KTV" tvg-logo="http://193.70.86.92/chlogo/logo/tv/kk/koha_vision.png" group-title="Groups", Kohavision
+http://84.22.33.238/unicast.ktv/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Kopliku Tv
+http://95.107.132.104/out/u/151_1.m3u8
+
+#EXTINF:-1 tvg-id="KTV" tvg-logo="noimage.png" group-title="Groups", Ktv
+http://95.107.132.104/out/u/38_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Syri Net
+http://95.107.132.106/out/u/363_1.m3u8
+
+#EXTINF:-1 tvg-id="Smile" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ss/smile_tv_th.png" group-title="Groups", Smile
+http://95.107.132.104/out/u/349_1.m3u8
+
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-logo="http://albepg.com/tvlogi/SuperSport%202.png" group-title="Groups", Supersport 2
+http://130.0.24.6:2831/udp/228.50.50.52:30000
+
+#EXTINF:-1 tvg-id="Tring Comedy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_comedy.png" group-title="Groups", Tring Comedy
+http://95.107.132.104/out/u/310_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring International" tvg-logo="noimage.png" group-title="Groups", TRING INTERNATIONAL
+http://95.107.132.104/out/u/236_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Shqip" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_shqip.png" group-title="Groups", Tring Shqip
+http://95.107.132.104/out/u/18_2.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png" group-title="Groups", Tring Sport 1
+http://95.107.132.106/out/u/683_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png" group-title="Groups", Tring Sport 2
+http://95.107.132.106/out/u/697_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png" group-title="Groups", Tring Sport 3
+http://95.107.132.106/out/u/699_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png" group-title="Groups", Tring Sport 4
+http://95.107.132.106/out/u/713_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_sport_news.png" group-title="Groups", Tring Sport News
+http://95.107.132.106/out/u/287_2.m3u8
+
+#EXTINF:-1 tvg-id="Tring Tring" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_tring.png" group-title="Groups", Tring Tring
+http://95.107.132.104/out/u/353_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring World" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_world.png" group-title="Groups", Tring World
+http://95.107.132.104/out/u/408_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png" group-title="Groups", Tring Sport 1
+http://stream.shqiptv.com:7080/TRINGSPORTNEWS-8785-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_3plus.png" group-title="Groups", 3 Plus
+http://95.107.132.104/out/u/31_3.m3u8
+
+#EXTINF:-1 tvg-id="Klan Macedonia" tvg-logo="noimg.png" group-title="Groups", Klan Kosova 2
+http://tv74.selfip.com:80/live/hjiRVnY44h/vMejxj8oAb/6589.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Groups", K Sport 1 HD AL
+http://tv74.selfip.com:80/live/hjiRVnY44h/vMejxj8oAb/1081.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Groups", K Sport 3 HD AL
+http://tv74.selfip.com:80/live/hjiRVnY44h/vMejxj8oAb/1083.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Groups", K Sport 4 HD AL
+http://tv74.selfip.com:80/live/hjiRVnY44h/vMejxj8oAb/1084.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Groups", K Sport 5 HD ALL
+http://tv74.selfip.com:80/live/hjiRVnY44h/vMejxj8oAb/8130.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Groups", K Sport 2 HD AL
+http://tv74.selfip.com:80/live/hjiRVnY44h/vMejxj8oAb/1082.m3u8
+
+#EXTINF:-1 tvg-id="Tribuna Channel" tvg-logo="http://www.albepg.com/tvlogi/Tribuna%20Channel.png" group-title="Groups", Tribuna Channel
+http://95.107.132.104/out/u/208_2.m3u8
