@@ -1,150 +1,1769 @@
-#EXTM3U
-#EXTINF:-1,RTK 1                                    (kryeziuTV)
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-
-#EXTINF:-1,RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-
-#EXTINF:-1,RTK 4
-http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-
-#EXTINF:-1,Rrokum HD
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-
-#EXTINF:-1,TemaTV
-http://edge01eu.ekranet.com/tematv/index.m3u8?e=k6reyce8z5i3u9tbvf&c=tematv&mac=00:1A:79:28:07:98
-
-#EXTINF:-1,Opoja TV
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-
-#EXTINF:-1,RTVZiK
-http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
-
-#EXTINF:-1,ALB MUSIC HD
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-
-#EXTINF:-1,Dasma TV
-http://91.187.117.230:8080
-
-#EXTINF:-1,Euro AL
-http://5.135.92.131:1935/live/euroAl/playlist.m3u8
-
-#EXTINF:-1,News24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-
-#EXTINF:-1,ReportTV
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-
-#EXTINF:-1,OraNews
-http://145.239.2.153:8081/oranews/live/chunks.m3u8
-
-#EXTINF:-1,ADSport 1HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:-1,ADSport 2HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1,One
-http://rtmp.one.by:1200
-
-#EXTINF:-1,One HD
-http://rtmp.one.by:1300
-
-#EXTINF:-1,My Hit
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-
-#EXTINF:-1,Monte Carlo TV
-http://fms.105.net:1935/live/rmc1/playlist.m3u8
-
-#EXTINF:-1,Dream TV
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
 #EXTINF:-1,Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
-#EXTINF:-1,DW
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Sky News
+#EXTINF:-1, Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
-#EXTINF:-1,Rai 5
-http://b2.stream12.rai.it/live/rai5.smil/playlist.m3u8
+#EXTINF:-1,DW 
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on 
+#EXTINF:-1,Weather Nation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1
+#EXTINF:1,NEWS24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,ReportTV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:-1,OraNews
+http://145.239.2.153:8081/oranews/live/chunks.m3u8
 
-#EXTINF:-1,Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1,  DIELLI TV
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8
 
-#EXTINF:-1,Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Albanian TV of America
+http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:0,RTK1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0,RTK3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:0,RTK4
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-1,rrokum tv
+http://178.132.6.97:8080/rrokumtv1/tracks-v1a1/index.m3u8
+#EXTINF:-1,JugTV
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:1,Tv2 Gostivar
+http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Tv2 Gostivar http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8 
 
-#EXTINF:-1,Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1,SYRIVISION
+http://178.132.6.97:8080/SYRIVISION1/tracks-v1a1/index.m3u8
+#EXTINF:-1, IN TV
+http://80.91.115.211:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,TV LIRIA 
+http://178.132.6.97:8080/tvlir1/tracks-v1a1/index.m3u8
+#EXTINF:-1,TemaTV
+http://edge01eu.ekranet.com/tematv/index.m3u8?e=k6reyce8z5i3u9tbvf&c=tematv&mac=00:1A:79:28:07:98
 
+#EXTINF:-1,SYRIBLUE HD http://live.syri.tv:6969/live/syriblue/hd/23.ts
+
+#EXTINF:-1,Al usa tv http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:,PENDIMI
+http://rtvpendimi.com:8081/hls/RTVPendimi.m3u8
+#EXTINF:1,PEACE
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1,Rtv1
+http://79.106.102.68/hls/rtvnje.m3u8
+
+
+#EXTINF:-1,al usa tv http://stream.shqiptv.com:7080/altvusa/index.m3u8 
+#EXTINF:-1,SYRIBLUE HD http://live.syri.tv:6969/live/syriblue/hd/23.ts 
+#EXTINF:1,ALBUK HD
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1,Opoja TV
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1,ALB MUSIC HD
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1,RTV Zerii Kosoves Danimarke
+http://178.132.6.97/RTVZeriiKosovesDanimarke1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sharri HD
+http://178.132.6.97:8080/TV:SharriHD1/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV Tetova
+http://178.132.6.97:8080/TVTetova1/tracks-v1a1/index.m3u8 
+#EXTINF:-1,Dasma TV 
+http://91.187.117.230:8080
+#EXTINF:-1,Elrodi TV
+http://edge01eu.ekranet.com/elroditv_240p/index.m3u8?e=k6reyce8z5i3u9tbvf&c=elroditv&mac=00:1A:79:28:07:98
+#EXTINF:-1,Euro AL
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:-1,Green
+http://balkanius.xyz:12974/jumanji564gdh/EJXfv18Kck/171
+ring Shqip
+#EXTINF:-1,  ZJARR TV
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:-1,A1 CINEMA 
+http://178.132.6.97:8080/A1Cinema1/index.m3u8
+#EXTINF:-1, AMERICAN HORRORS 
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,WESTERN 4U 
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,TCL
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,TRAVEL
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1,ID HD 
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,SC 
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,SHO HD 
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,D HD 
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 SCI
+http://80.80.160.168/live/9/live.m3u8
+
+
+#EXTINF:-1,HR 1 
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1,HR 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1,HR 3 
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1,HR 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1,RTL 
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,PRIMERA HD
+http://178.132.6.97:8080/TVPlisi1/tracks-v1a1/index.m3u8
+#EXTINF:-1,NOHA A.S
+https://www.youtube.com/watch?v=fDT5RVQE1h0&feature=youtu.be
+
+#EXTINF:-1, Hollywood FILM 1
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1,Ayla_ The Daughter of War 
+https://www.youtube.com/watch?v=aaOg6GrIGI4&feature=youtu.be
+#EXTINF:-1,Hollywood FILM 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Hollywood FILM 3
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1,Hollywood FILM 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+
+#EXTINF:-1,Hollywood FILM 5
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1,Hollywood FILM 6
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Hollywood FILM 7
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Hollywood FILM 8
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Hollywood FILM 9
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+
+#EXTINF:-1,Hollywood FILM 10
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1,MAXPRIME
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
+#EXTINF:-1,Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,Fox Premium Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,Fox Action Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1,HBO 2 International
+http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1,KIX (Asia)
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, WOWOW MOVIES (JPN|ENG)
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1,DUBAI_ONE_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/15.ts
+
+#EXTINF:-1, & Pictures HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, & PPRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+
+#EXTINF:-1, & Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,HBO id
+http://87.246.0.155:5286/tv_HBO
+#EXTINF:-1,Social HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1,HBO 2
+http://87.246.0.155:5286/tv_HBO_2
+#EXTINF:-1,HBO 3
+http://87.246.0.155:5286/tv_HBO_3
+#EXTINF:-1,hbo
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,HBO 
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1,iptvtools_87
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1,iptvtools_88
+http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
+#EXTINF:-1,iptvtools_89
+http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
+#EXTINF:-1,FILM BOX EXTRA
+http://46.40.5.99:8000/filmbox_extra_high
+
+
+
+#EXTINF:-1, & Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,AXN_Black
+http://87.246.0.155:5286/tv_AXN_Black
+#EXTINF:-1,AXN_White
+http://87.246.0.155:5286/tv_AXN_White
+#EXTINF:-1,iptvtools_67
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1,PL68
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1,69 PL
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?
+#EXTINF:-1,DAVIN CI KID
+http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, ANIMAL PLANET 
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:1, NATGEO WILD http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
+
+#EXTINF:0,Discovery 
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/1.m3u8
+#EXTINF:0,Discovery Showcase HD
+http://194.54.183.122:8000/play/a01g
+
+#EXTINF:-1,discovery
+http://195.181.168.26/DISCOVERY/mono.m3u8
+#EXTINF:-1,TLC 
+http://80.80.160.168/live/2/live.m3u8
+EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:0,Investigation Discovery
+http://80.80.160.168/live/5/live.m3u8&end=END
+
+#EXTINF:-1,dmax TURKY 
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
+#EXTINF:-1,BULGARIA 
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:0,Animal Planet 
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1,RESTORANT 
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,RESTORANT 1 
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,BAR  2
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,HISTORY WORCK  3 
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,H R E +
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1,Hitlerov Uspon
+http://163.172.216.216/NGC.Apokalipsa.Hitlerov.Uspon.Postati.Hitler.avi
+#EXTINF:-1,DOKUMENTAR
+http://163.172.216.216/Hitlerova.potopljena.tajna.avi
+
+#EXTINF:-1,HD FASHION 
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,FINE LIFE 
+http://ott-cdn.ucom.am/s51/03.m3u8
+
+#EXTINF:-1,TNT KIDS
+http://178.132.6.97:8080/FR:TNTKIDS1/tracks-v1a1/index.m3u8
+#EXTINF:-1,CORTOON http://web.onair-radio.eu:1935/cartoon/cartoon/chunklist_w750396845.m3u8
+#EXTINF:-1,Kiss Cartoon
+http://web.onair-radio.eu:1935/cartoon/cartoon/chunklist.m3u8
 #EXTINF:-1,Rai YoYo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-
-#EXTINF:-1,TV 2000
-http://cld02ibi16.wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8
-
-#EXTINF:-1,Telearena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-
-#EXTINF:-1,Telepavia
-http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
-
-#EXTINF:-1,WDR
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-
-#EXTINF:-1,ATV
-http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
-
-#EXTINF:-1,OK Salzwedel
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
-
-#EXTINF:-1,Kral Tv
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-
-#EXTINF:-1,Kanal D
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-
-#EXTINF:-1,TRT 1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-
-#EXTINF:-1,TRT Cocuk
+#EXTINF:-1,CARTOON 
+http://web.onair-radio.eu:1935/cartoon/cartoon/chunklist_w750396845.m3u8
+#EXTINF:-1,KIDS 
+http://178.132.6.97:8080/FR:TNTKIDS1/tracks-v1a1/index.m3u8
+#EXTINF:-1,A1 KIDS 
+http://178.132.6.97:80/A1Kids1/index.m3u8
+#EXTINF:-1,KIDSS
+https://kika-lh.akamaihd.net/i/livetvkika_ww@72295/index_1992_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AM KIDS  
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,AM KIDS
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,CACHI PUM 
+http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8
+#EXTINF:-1,CUCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
-#EXTINF:-1,TRT Haber
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1, KIDS GRE
+http://176.9.126.181:1022/
+#EXTINF:-1,CHIN KIDS 
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1,NEW TV FILM 
+http://223.110.243.155:80/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1,Vännernas Stad
+https://www.youtube.com/watch?v=vG86UUvqHOY
+#EXTINF:-1,ONE HUNDRED ND ONE DALMATIANS  
+http://bit.ly/1Pqs0aL
+#EXTINF:-1,CHRISTMAS CAROS 
+http://bit.ly/1m7dBEr
+#EXTINF:-1,A DISNY  CHRISMAS GITT
+http://bit.ly/1UzNuln
+#EXTINF:-1,CINDERELLA
+http://bit.ly/1StKtnz
+#EXTINF:-1,DUCK TALES 
+http://bit.ly/1Vz0fgo
+#EXTINF:-1,KIDS MOVIE 
+http://bit.ly/1m7dyIN
+#EXTINF:-1,NEMO
+http://bit.ly/1nwBAOg
+#EXTINF:-1,ALL Sports http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,Sports TV
+http://sportstv.live.netdirekt.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,A1 Sports
+http://178.132.6.97:80/A1Sport1/index.m3u8
+#EXTINF:-1,Sky Sports F1
+http://92.14.111.173:8007/play/a011
+#EXTINF:-1,arena_2
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1,arena_3_
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1,arena_4_
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1,arena_1
+http://46.40.5.99:8000/arena_1_low
+#EXTINF:-1,arena_2
+http://46.40.5.99:8000/arena_2_low
+#EXTINF:-1,arena_3
+http://46.40.5.99:8000/arena_3_low
+#EXTINF:-1,arena_4
+http://46.40.5.99:8000/arena_4_low
+#EXTINF:-1,A1Sport1
+http://178.132.6.97:80/A1Sport1/index.m3u8
+#EXTINF:-1,FLOW 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1,SPORT MAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1,TEN CR 
+http://161.0.157.9/PLTV/88888888/224/3221226394/03.m3u8
+#EXTINF:-1,ESP 2 
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1,|AR|_DUBAI_RACING_1_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/13.ts
+#EXTINF:-1,|AR|_DUBAI_RACING_2_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/14.ts
+#EXTINF:-1,|AR|_DUBAI_SPORTS_3_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.ts
+#EXTINF:-1,MBB
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,ACC
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1,M1
+http://live-m1globaltv.cdnvideo.ru/m1globaltv/m1globaltv-rtmp-eng_720p/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1,MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1, S N 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+#EXTINF:-1,MAT 4
+http://persik.by/stream/176/296165/276.m3u8
+#EXTINF:-1,FOTBAL
+http://persik.by/stream/176/296165/10266.m3u8
+#EXTINF:-1,FOTBAL 2 
+http://persik.by/stream/176/296165/10267.m3u8
+#EXTINF:-1,FOTBAL 3 
+http://persik.by/stream/6431/299492/10268.m3u8
+#EXTINF:-1,CHAS HORST
+http://37.48.104.71:1935/live/classhorse/playlist.m3u8
+#EXTINF:-1,FIGH TIME 
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?fluxustv.m3u8
+#EXTINF:-1,AUTOMOTOR 
+http://178.22.187.253:1935/streaming-tv/smil:automoto.smil/playlist.m3u8
+#EXTINF:-1,NRS SPORT
+http://uvodscp-lh.akamaihd.net//i//rjrtvjsndirect_1@506693//master.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,TRT Turk
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 
-#EXTINF:-1,TRT Belgesel
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1,FILMA 
 
-#EXTINF:-1,TRT Avaz
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1,iptvtools_604
+http://bit.ly/23BENwZ
+#EXTINF:-1,iptvtools_605
+http://bit.ly/1UzNz8S
+#EXTINF:-1,iptvtools_606
+http://bit.ly/1SREb2E
+#EXTINF:-1,iptvtools_607
+http://bit.ly/1StKwQs
+#EXTINF:-1,iptvtools_608
+http://bit.ly/23BEOB9
+#EXTINF:-1,iptvtools_609
+http://bit.ly/1nW7B2Q
+#EXTINF:-1,iptvtools_610
+http://bit.ly/1OYW4Zo
+#EXTINF:-1,iptvtools_611
+http://bit.ly/1KiXzTn
+#EXTINF:-1,iptvtools_612
+http://bit.ly/1KPjdtz
+#EXTINF:-1,iptvtools_613
+http://bit.ly/1OYW8IC
+#EXTINF:-1,iptvtools_614
+http://bit.ly/1QAhc93
+#EXTINF:-1,iptvtools_615
+http://bit.ly/1Vz0oQS
+#EXTINF:-1,iptvtools_616
+http://bit.ly/1RTJY7M
+#EXTINF:-1,iptvtools_617
+http://bit.ly/2011G8F
+#EXTINF:-1,iptvtools_618
+http://bit.ly/1QPSuTT
+#EXTINF:-1,iptvtools_619
+http://bit.ly/1JRzbIG
+#EXTINF:-1,iptvtools_620
+http://bit.ly/1OYWcbi
+#EXTINF:-1,iptvtools_621
+http://bit.ly/1nFZIPf
+#EXTINF:-1,iptvtools_622
+http://bit.ly/1SkiWa9
+#EXTINF:-1,iptvtools_623
+http://bit.ly/1Q3x8hb
+#EXTINF:-1,iptvtools_624
+http://bit.ly/1StKOXs
+#EXTINF:-1,iptvtools_625
+http://bit.ly/1RTK1Ao
+#EXTINF:-1,iptvtools_626
+http://bit.ly/2011M02
+#EXTINF:-1,iptvtools_627
+http://bit.ly/1RTK3rR
+#EXTINF:-1,iptvtools_628
+http://bit.ly/1Q3xfct
+#EXTINF:-1,iptvtools_629
+http://bit.ly/1QAhlsU
+#EXTINF:-1,iptvtools_630
+http://bit.ly/20A6O5C
+#EXTINF:-1,iptvtools_631
+http://bit.ly/1P5uLdS
+#EXTINF:-1,iptvtools_632
+http://bit.ly/1WUNbmV
+#EXTINF:-1,iptvtools_633
+http://bit.ly/1Q3xh45
+#EXTINF:-1,iptvtools_634
+http://bit.ly/1QAhoF2
+#EXTINF:-1,iptvtools_635
+http://bit.ly/23BF3My
+#EXTINF:-1,iptvtools_636
+http://bit.ly/20A6PGQ
+#EXTINF:-1,iptvtools_637
+http://bit.ly/1QAhn3Z
+#EXTINF:-1,iptvtools_638
+http://bit.ly/1NJdHZc
+#EXTINF:-1,iptvtools_639
+http://bit.ly/1StKXdx
+#EXTINF:-1,iptvtools_640
+http://bit.ly/1PqsnSJ
+#EXTINF:-1,iptvtools_641
+http://bit.ly/1SREtGT
+#EXTINF:-1,iptvtools_642
+http://bit.ly/1OYWAa2
+#EXTINF:-1,iptvtools_643
+http://bit.ly/1nW80m3
+#EXTINF:-1,iptvtools_644
+http://bit.ly/1UzOjL6
+#EXTINF:-1,iptvtools_645
+http://bit.ly/1OYWDT4
+#EXTINF:-1,iptvtools_646
+http://bit.ly/1JRzvXU
+#EXTINF:-1,iptvtools_647
+http://bit.ly/1StL2hn
+#EXTINF:-1,iptvtools_648
+http://bit.ly/23BFc2F
+#EXTINF:-1,iptvtools_649
+http://bit.ly/1TuVA0x
+#EXTINF:-1,iptvtools_650
+http://bit.ly/1m7dzfY
+#EXTINF:-1,iptvtools_651
+http://bit.ly/1L01GyS
+#EXTINF:-1,iptvtools_652
+http://bit.ly/23KJOU3
+#EXTINF:-1,iptvtools_653
+http://bit.ly/1QHPOG4
+#EXTINF:-1,iptvtools_654
+http://bit.ly/1TGa5P9
+#EXTINF:-1,iptvtools_655
+http://bit.ly/1nP8dYr
+#EXTINF:-1,iptvtools_656
+http://193.169.52.206/a-tom-jerry/1-3.mp4
+#EXTINF:-1,iptvtools_657
+http://193.169.52.206/a-tom-jerry/1-2.mp4
+#EXTINF:-1,iptvtools_658
+http://193.169.52.206/a-tom-jerry/1-4.mp4
+#EXTINF:-1,iptvtools_659
+http://193.169.52.206/a-tom-jerry/1-5.mp4
+#EXTINF:-1,iptvtools_660
+http://193.169.52.206/a-tom-jerry/1-6.mp4
+#EXTINF:-1,iptvtools_661
+http://193.169.52.206/a-tom-jerry/1-7.mp4
+#EXTINF:-1,iptvtools_662
+http://193.169.52.206/a-tom-jerry/1-8.mp4
+#EXTINF:-1,iptvtools_663
+http://193.169.52.206/a-tom-jerry/1-9.mp4
+#EXTINF:-1,iptvtools_664
+http://193.169.52.206/a-tom-jerry/1-10.mp4
+#EXTINF:-1,iptvtools_665
+http://193.169.52.206/a-tom-jerry/1-11.mp4
+#EXTINF:-1,iptvtools_666
+http://193.169.52.206/a-tom-jerry/1-12.mp4
+#EXTINF:-1,iptvtools_667
+http://193.169.52.206/a-tom-jerry/1-13.mp4
+#EXTINF:-1,iptvtools_668
+http://193.169.52.206/a-tom-jerry/1-14.mp4
+#EXTINF:-1,iptvtools_669
+http://193.169.52.206/a-tom-jerry/1-15.mp4
+#EXTINF:-1,iptvtools_670
+http://193.169.52.206/a-tom-jerry/1-16.mp4
+#EXTINF:-1,iptvtools_671
+http://193.169.52.206/a-tom-jerry/1-17.mp4
+#EXTINF:-1,iptvtools_672
+http://193.169.52.206/a-tom-jerry/1-18.mp4
+#EXTINF:-1,iptvtools_673
+http://193.169.52.206/a-tom-jerry/1-19.mp4
+#EXTINF:-1,iptvtools_674
+http://193.169.52.206/a-tom-jerry/1-20.mp4
+#EXTINF:-1,iptvtools_675
+http://193.169.52.206/a-tom-jerry/1-21.mp4
+#EXTINF:-1,iptvtools_676
+http://193.169.52.206/a-tom-jerry/1-22.mp4
+#EXTINF:-1,iptvtools_677
+http://193.169.52.206/a-tom-jerry/1-23.mp4
+#EXTINF:-1,iptvtools_678
+http://193.169.52.206/a-tom-jerry/1-24.mp4
+#EXTINF:-1,iptvtools_679
+http://193.169.52.206/a-tom-jerry/1-25.mp4
+#EXTINF:-1,iptvtools_680
+http://193.169.52.206/a-tom-jerry/1-26.mp4
+#EXTINF:-1,iptvtools_681
+http://193.169.52.206/a-tom-jerry/1-27.mp4
+#EXTINF:-1,iptvtools_682
+http://193.169.52.206/a-tom-jerry/1-28.mp4
+#EXTINF:-1,iptvtools_683
+http://193.169.52.206/a-tom-jerry/1-29.mp4
+#EXTINF:-1,iptvtools_684
+http://193.169.52.206/a-tom-jerry/1-31.mp4
+#EXTINF:-1,iptvtools_685
+http://193.169.52.206/a-tom-jerry/1-30.mp4
+#EXTINF:-1,iptvtools_686
+http://193.169.52.206/a-tom-jerry/1-33.mp4
+#EXTINF:-1,iptvtools_687
+http://193.169.52.206/a-tom-jerry/1-32.mp4
+#EXTINF:-1,iptvtools_688
+http://193.169.52.206/a-tom-jerry/1-34.mp4
+#EXTINF:-1,iptvtools_689
+http://193.169.52.206/a-tom-jerry/1-36.mp4
+#EXTINF:-1,iptvtools_690
+http://193.169.52.206/a-tom-jerry/1-35.mp4
+#EXTINF:-1,iptvtools_691
+http://193.169.52.206/a-tom-jerry/1-37.mp4
+#EXTINF:-1,iptvtools_692
+http://193.169.52.206/a-tom-jerry/1-38.mp4
+#EXTINF:-1,iptvtools_693
+http://193.169.52.206/a-tom-jerry/1-39.mp4
+#EXTINF:-1,iptvtools_694
+http://193.169.52.206/a-tom-jerry/1-40.mp4
+#EXTINF:-1,iptvtools_695
+http://193.169.52.206/a-tom-jerry/1-42.mp4
+#EXTINF:-1,iptvtools_696
+http://193.169.52.206/a-tom-jerry/1-41.mp4
+#EXTINF:-1,iptvtools_697
+http://193.169.52.206/a-tom-jerry/1-43.mp4
+#EXTINF:-1,iptvtools_698
+http://193.169.52.206/a-tom-jerry/1-44.mp4
+#EXTINF:-1,iptvtools_699
+http://193.169.52.206/a-tom-jerry/1-45.mp4
+#EXTINF:-1,iptvtools_700
+http://193.169.52.206/a-tom-jerry/1-46.mp4
+#EXTINF:-1,iptvtools_701
+http://193.169.52.206/a-tom-jerry/1-47.mp4
+#EXTINF:-1,iptvtools_702
+http://193.169.52.206/a-tom-jerry/1-48.mp4
+#EXTINF:-1,iptvtools_703
+http://193.169.52.206/a-tom-jerry/1-49.mp4
+#EXTINF:-1,iptvtools_704
+http://193.169.52.206/a-tom-jerry/1-50.mp4
+#EXTINF:-1,iptvtools_705
+http://193.169.52.206/a-tom-jerry/1-51.mp4
+#EXTINF:-1,iptvtools_706
+http://193.169.52.206/a-tom-jerry/1-52.mp4
+#EXTINF:-1,iptvtools_707
+http://193.169.52.206/a-tom-jerry/1-53.mp4
+#EXTINF:-1,iptvtools_708
+http://193.169.52.206/a-tom-jerry/1-55.mp4
+#EXTINF:-1,iptvtools_709
+http://193.169.52.206/a-tom-jerry/1-54.mp4
+#EXTINF:-1,iptvtools_710
+http://193.169.52.206/a-tom-jerry/1-56.mp4
+#EXTINF:-1,iptvtools_711
+http://193.169.52.206/a-tom-jerry/1-57.mp4
+#EXTINF:-1,iptvtools_712
+http://193.169.52.206/a-tom-jerry/1-58.mp4
+#EXTINF:-1,iptvtools_713
+http://193.169.52.206/a-tom-jerry/1-59.mp4
+#EXTINF:-1,iptvtools_714
+http://193.169.52.206/a-tom-jerry/1-60.mp4
+#EXTINF:-1,iptvtools_715
+http://193.169.52.206/a-tom-jerry/1-61.mp4
+#EXTINF:-1,iptvtools_716
+http://193.169.52.206/a-tom-jerry/1-62.mp4
+#EXTINF:-1,iptvtools_717
+http://193.169.52.206/a-tom-jerry/1-63.mp4
+#EXTINF:-1,iptvtools_718
+http://193.169.52.206/a-tom-jerry/1-65.mp4
+#EXTINF:-1,iptvtools_719
+http://193.169.52.206/a-tom-jerry/1-64.mp4
+#EXTINF:-1,iptvtools_720
+http://193.169.52.206/a-tom-jerry/1-66.mp4
+#EXTINF:-1,iptvtools_721
+http://193.169.52.206/a-tom-jerry/1-67.mp4
+#EXTINF:-1,iptvtools_722
+http://193.169.52.206/a-tom-jerry/1-68.mp4
+#EXTINF:-1,iptvtools_723
+http://193.169.52.206/a-tom-jerry/1-69.mp4
+#EXTINF:-1,iptvtools_724
+http://193.169.52.206/a-tom-jerry/1-70.mp4
+#EXTINF:-1,iptvtools_725
+http://193.169.52.206/a-tom-jerry/1-72.mp4
+#EXTINF:-1,iptvtools_728
+http://193.169.52.206/a-tom-jerry/1-74.mp4
+#EXTINF:-1,iptvtools_729
+http://193.169.52.206/a-tom-jerry/1-75.mp4
+#EXTINF:-1,iptvtools_730
+http://193.169.52.206/a-tom-jerry/1-76.mp4
+#EXTINF:-1,iptvtools_731
+http://193.169.52.206/a-tom-jerry/1-77.mp4
+#EXTINF:-1,iptvtools_732
+http://193.169.52.206/a-tom-jerry/1-78.mp4
+#EXTINF:-1,Magic TV
+http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Country Music 
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1, Dream TV http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8 
+#EXTINF:-1,HIT TV 
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8 
+#EXTINF:-1,M2O TV 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on 
+#EXTINF:-1,NRJ HITS 
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8 
+#EXTINF:-1, My Hit http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8 
+#EXTINF:-1,MTV Hits http://persik.by/stream/176/296165/10208.m3u8 
 
-#EXTINF:-1,TRT Muzik
+#EXTINF:-1,Rock TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+#EXTINF:1,MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,NR 1
+http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
+#EXTINF:-1,M
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1,HOBOC
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:-1,NONSTOPMUSIC
+http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
+#EXTINF:-1,ROMA TV 
+http://185.46.161.3/hls/hd.m3u8
+#EXTINF:-1,NV TV 
+http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
+#EXTINF:-1,I N R G 
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+#EXTINF:-1,MTV ROCKS
+http://persik.by/stream/6431/299492/10227.m3u8
+#EXTINF:-1,C M C 
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1,CMC USA 
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,D I N G 
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1,DING 
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1,DING 
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1,DING 
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1,T P
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1,ZETA
+http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
+#EXTINF:-1,M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+
+#EXTINF:0,Music Channel Hungary
+http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:0,XITE BASE
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+
+#EXTINF:0,XITE POP
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:-1,Music Box
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+
+#EXTINF:-1,Music Box ua
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+
+#EXTINF:0,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+
+#EXTINF:0,ONE BY HD
+http://rtmp.one.by:1300
+
+#EXTINF:0,ONE BY 2HD
+http://rtmp.one.by:2300
+#EXTINF:0,Muzzone
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:0,DREAM TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1,MVTV
+http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
+#EXTINF:-1,RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,COS
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,LAMAGA 
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1,TROPICAL
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1,FOCUS
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1,TRACE 
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1,TRACE NINJA 
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1,KITOKO  HIT 
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1,KRAL WORLD
+http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b2328000.m3u8
+#EXTINF:-1,KRAL POP
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1,KRAL POP KONSER
+http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
+#EXTINF:-1,KRAL 
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1,KRAL
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1,KRAL POP 
+http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
+#EXTINF:-1,KRAL PERFORMANS
+http://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8
+#EXTINF:-1,KRAL HD 
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1,TRT MUSIC 
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1,G D 
+rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:-1,SKY FOLK 
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+#EXTINF:-1,PLANETA HD 
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:-1,JHANJAR 
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1,CANALI 
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:-1,MTV SVERIGE 
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0,****FILMA SHQIP****                             
+https://fiona.gjirafa.com/api/media/GjirafaVideo/ballkoni/index1080.m3u8
+#EXTINF:-1, Film Shqip "Te Mjeret"
+https://liki.gjirafa.com/api/media/GjirafaVideo/te-mjeret-film-artistik/index1080.m3u8
+#EXTINF:-1, Film Shqip "Njeri Nga Ata "
+https://liki.gjirafa.com/api/media/GjirafaVideo/njeri-nga-ata-2/index1080.m3u8
+#EXTINF:-1, Film Shqip "Cheers"
+https://liki.gjirafa.com/api/media/GjirafaVideo/cheers/index1080.m3u8
+#EXTINF:-1, Film Shqip "Me Mujt Me Bo e Kishim Bo
+https://fiona.gjirafa.com/api/media/GjirafaVideo/me-mujt-me-bo-e-kishim-bo-film-artistik-2/index1080.m3u8
+#EXTINF:-1, Film Shqip "Perqafimi i Fundit"
+https://fiona.gjirafa.com/api/media/GjirafaVideo/perqafimi-i-fundit/index1080.m3u8
+#EXTINF:-1, Film Shqip "Zonjusha"
+https://liki.gjirafa.com/api/media/GjirafaVideo/zonjusha-film-artistik/index1080.m3u8
+#EXTINF:-1, Film Shqip "Ne Te Tre"
+https://fiona.gjirafa.com/api/media/GjirafaVideo/ne-te-tre/index1080.m3u8
+#EXTINF:-1, Film Shqip "KOLONA"
+https://drejtperdrejte.gjirafa.com/api/media/GjirafaVideo/kolona-3/index1080.m3u8
+#EXTINF:-1, Film Shqip "CLIRIMI"
+https://liki.gjirafa.com/api/media/GjirafaVideo/clirimi/index1080.m3u8
+#EXTINF:-1, Film Shqip "E Kuqja"
+https://liki.gjirafa.com/api/media/GjirafaVideo/e-kuqja/index1080.m3u8
+#EXTINF:-1, Film Shqip "Ferdonija"
+https://liki.gjirafa.com/api/media/GjirafaVideo/ferdonija/index1080.m3u8
+#EXTINF:-1, Film Shqip "Krom"
+https://liki.gjirafa.com/api/media/GjirafaVideo/krom/index720.m3u8
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 69
+https://www.youtube.com/watch?v=m8H60qRwapI
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 68
+https://www.youtube.com/watch?v=dmRxgTrq2_0
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 67
+https://www.youtube.com/watch?v=4WcayGixv5k
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 66
+https://www.youtube.com/watch?v=TMv-SEllW8g
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 65
+https://www.youtube.com/watch?v=GWjQGfeyeV8
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 64
+https://www.youtube.com/watch?v=Mk4Gl7hYfqA
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 63
+https://www.youtube.com/watch?v=yXB7bbhWttc
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 62
+https://www.youtube.com/watch?v=Dpk9_jQISDs
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 61
+https://www.youtube.com/watch?v=8ffTeRdL4i8
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 60
+https://www.youtube.com/watch?v=d3mJRlUj3ZI
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 59
+https://www.youtube.com/watch?v=cS5M8iFdcAM
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 58
+https://www.youtube.com/watch?v=8MA-4pugqpw
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 57
+https://www.youtube.com/watch?v=2b-AbOi7vzk
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 56
+https://www.youtube.com/watch?v=HYCEQN3DppM
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 55
+https://www.youtube.com/watch?v=rzsIKhMFvVU
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 54
+https://www.youtube.com/watch?v=cJwEVVNVccU
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 53
+https://www.youtube.com/watch?v=4mJU07tnRUE
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 52
+https://www.youtube.com/watch?v=LcXru0rHwNg
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 51
+https://www.youtube.com/watch?v=DjRuux9BPbA
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 50
+https://www.youtube.com/watch?v=Q61GW_ErAjo
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 49
+https://www.youtube.com/watch?v=aie_g0-tzVs
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 48
+https://www.youtube.com/watch?v=3ejf5tAichE
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 47
+https://www.youtube.com/watch?v=KX1Zo75g2QM
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 46
+https://www.youtube.com/watch?v=rlQeCCogjWs
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 45
+https://www.youtube.com/watch?v=NPvC6G7yGXY
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 44
+https://www.youtube.com/watch?v=9mk2lcfLGyE
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 43
+https://www.youtube.com/watch?v=8WN1rU2d-yc
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 42
+https://www.youtube.com/watch?v=14zIDWJaflk
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 41
+https://www.youtube.com/watch?v=eaiB4p9rnX4
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 40
+https://www.youtube.com/watch?v=o0P3zYCpXHk
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 39
+https://www.youtube.com/watch?v=aNGcy3L8KHk
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 38
+https://www.youtube.com/watch?v=_3ySOPMflMs
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 37
+https://www.youtube.com/watch?v=rVsAXJFXmyw
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 36
+https://www.youtube.com/watch?v=JNGYjBk5nDQ
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 35
+https://www.youtube.com/watch?v=yJewZAxbC8E
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 34
+https://www.youtube.com/watch?v=M0xoR9kWMV8
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 33
+https://www.youtube.com/watch?v=tzNKNWydZ08
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 32
+https://www.youtube.com/watch?v=C4uaNuZBEts
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 31
+https://www.youtube.com/watch?v=S1HjJ3Q1jxc
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 30
+https://www.youtube.com/watch?v=KpTm5W_qJ4s
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 29
+https://www.youtube.com/watch?v=uBrEg6QqwMc
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 28
+https://www.youtube.com/watch?v=37RpNQkU3KM
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 27
+https://www.youtube.com/watch?v=GaE6SurwaOc
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 26
+https://www.youtube.com/watch?v=9Q-Q0nWr9uA
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 25
+https://www.youtube.com/watch?v=IdcdSP-lBQI
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 24
+https://www.youtube.com/watch?v=LL365de2Tj4
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 23
+https://www.youtube.com/watch?v=yK5HHAX9rO8
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 22
+https://www.youtube.com/watch?v=WmfbHOB-eg4
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 21
+https://www.youtube.com/watch?v=TiEGpfiQhNo
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 20
+https://www.youtube.com/watch?v=GqBAwyieygU
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 19
+https://www.youtube.com/watch?v=isfcIu9BwkU
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 18
+https://www.youtube.com/watch?v=4U69Gzxg02E
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 17
+https://www.youtube.com/watch?v=2p48Z4n2UX8
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 16
+https://www.youtube.com/watch?v=HP0g8ZNrLLQ
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 15
+https://www.youtube.com/watch?v=ry4PfRw-wHc
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 14
+https://www.youtube.com/watch?v=v4aEPkIACVw
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 13
+https://www.youtube.com/watch?v=fw6K_byLPno
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 12
+https://www.youtube.com/watch?v=ZN4hG36kqb4
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 11
+https://www.youtube.com/watch?v=jh8PkkTMKGQ
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 10
+https://www.youtube.com/watch?v=lgfF-Xe1blU
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 09
+https://www.youtube.com/watch?v=ZsV74gzCtX8
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 08
+https://www.youtube.com/watch?v=TQ78N2YET3c
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 07
+https://www.youtube.com/watch?v=v_JYibu0a6s
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 06
+https://www.youtube.com/watch?v=oTP15slqNTA
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 05
+https://www.youtube.com/watch?v=VNvBKm-6mDY
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 04
+https://www.youtube.com/watch?v=TzwZPOZVK6s
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 03
+https://www.youtube.com/watch?v=C4Od2ZFlj9Y
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 02
+https://www.youtube.com/watch?v=69F4Am0TkD4
+#EXTINF:0 group-title="VIDEO |STUPCAT" tvg-logo="https://i.imgur.com/nVSAN5T.png",EGJELI 01
+https://www.youtube.com/watch?v=PUunrFm-ijU
 
-#EXTINF:-1,TRT Arapca
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 13/5
+https://www.youtube.com/watch?v=YJyunL1_Fcg
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 12/5
+https://www.youtube.com/watch?v=T4dWVbb0Iuk
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 11/5
+https://www.youtube.com/watch?v=lbFgxksfEwg
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 10/5
+https://www.youtube.com/watch?v=UNFAe9u9ZMI
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 9/5
+https://www.youtube.com/watch?v=hW6m5PFY3AM
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 8/5
+https://www.youtube.com/watch?v=PO56nN9YFUQ
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 7/5
+https://www.youtube.com/watch?v=phTzSzz0-QE
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 6/5
+https://www.youtube.com/watch?v=D7tQANwmhlA
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 5/5
+https://www.youtube.com/watch?v=zCmGe7-GYHQ
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 4/5
+https://www.youtube.com/watch?v=vGAfXt3i9Wc
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 3/5
+https://www.youtube.com/watch?v=U17ja16WhT8
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 2/5
+https://www.youtube.com/watch?v=_xNwoF6AAsc
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 1/5
+https://www.youtube.com/watch?v=xKUNyoZ_usA
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 29/4
+https://www.youtube.com/watch?v=4h9pS8CLWAE
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 28/4
+https://www.youtube.com/watch?v=5s2lmGJYLZU
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 27/4
+https://www.youtube.com/watch?v=x-K0fSvXA_k
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 26/4
+https://www.youtube.com/watch?v=VAkNx5aZRpQ
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 25/4
+https://www.youtube.com/watch?v=yaUtEtZD8eg
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 24/4
+https://www.youtube.com/watch?v=WFLUnUIOE1Y
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 23/4
+https://www.youtube.com/watch?v=KakhRFRBNV0
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 22/4
+https://www.youtube.com/watch?v=m5zYjdBsEvo
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 21/4
+https://www.youtube.com/watch?v=HKc7uUl3StQ
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 20/4
+https://www.youtube.com/watch?v=za5qutRlP0k
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 19/4
+https://www.youtube.com/watch?v=BsKVCOEJTrE
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 18/4
+https://www.youtube.com/watch?v=Pp45vkptfw0
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 17/4
+https://www.youtube.com/watch?v=f2lGIE0If9Q
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 16/4
+https://www.youtube.com/watch?v=IiMNd34O338
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 15+/4
+https://www.youtube.com/watch?v=eIoHoQImDrg
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 15/4
+https://www.youtube.com/watch?v=-dYr6jLwNv8
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 14/4
+https://www.youtube.com/watch?v=R58Spg0auio
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 13/4
+https://www.youtube.com/watch?v=ob6YyluCpeM
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 12/4
+https://www.youtube.com/watch?v=lxRn0ZJzhQo
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 11/4
+https://www.youtube.com/watch?v=6FXiMvsnpUE
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 10/4
+https://www.youtube.com/watch?v=_UwEziDxsOA
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 9/4
+https://www.youtube.com/watch?v=_HmZYU5_sSM
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 8/4
+https://www.youtube.com/watch?v=VrPZCqN4Np4
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 7/4
+https://www.youtube.com/watch?v=v5vcc6vNIbE
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 6/4
+https://www.youtube.com/watch?v=KsotzXYx1UM
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 5/4
+https://www.youtube.com/watch?v=MhoUmCSmxvU
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 4/4
+https://www.youtube.com/watch?v=L3C-US5djEw
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 3/4
+https://www.youtube.com/watch?v=UOUS95ICoOA
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 2/4
+https://www.youtube.com/watch?v=toWEJM3rf9k
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 1/4
+https://www.youtube.com/watch?v=qvNJg513mrk
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 34/3
+https://www.youtube.com/watch?v=bXhPnmko9yk
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 30/3
+https://www.youtube.com/watch?v=RiVvZsCWJEw
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 25/3
+https://www.youtube.com/watch?v=w0q-01ciC4k
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 24/3
+https://www.youtube.com/watch?v=DFsVkLFDnYQ
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 23/3
+https://www.youtube.com/watch?v=SeFxBCyD18g
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 22/3
+https://www.youtube.com/watch?v=9J3kVpJI0Nc
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 21/3
+https://www.youtube.com/watch?v=vpq_rpOnMWk
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 20/3
+https://www.youtube.com/watch?v=aZE8jeM-rM0
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 19/3
+https://www.youtube.com/watch?v=kdG3I0h6PW0
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 18/3
+https://www.youtube.com/watch?v=amyXvTgapl0
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 17/3
+https://www.youtube.com/watch?v=qbwhWmj6MKY
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 16/3
+https://www.youtube.com/watch?v=VRzrX7qoe4w
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 15/3
+https://www.youtube.com/watch?v=FC8wU9TswR0
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 14/3
+https://www.youtube.com/watch?v=cia9k1vwpU4
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 13/3
+https://www.youtube.com/watch?v=ryHVEkGgj0s
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 11/3
+https://www.youtube.com/watch?v=kN6OlA99bxE
+#EXTINF:0 group-title="VIDEO |Ã‡KSH" tvg-logo="https://i.imgur.com/dm5r4zj.png",Ã‡KSH 9/3
+https://www.youtube.com/watch?v=EJLYOcjdm3s
 
-#EXTINF:-1,TRT Kurdi
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 153
+https://www.youtube.com/watch?v=IaUK0ms01LU
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 152
+https://www.youtube.com/watch?v=PuaAo2uDfrU
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 151
+https://www.youtube.com/watch?v=GVxOHH_KjDA
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 150
+https://www.youtube.com/watch?v=-uJ9rLzYP-w
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 149
+https://www.youtube.com/watch?v=VOm0IdTWoIQ
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 148
+https://www.youtube.com/watch?v=xwJcxR9_LSo
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 147
+https://www.youtube.com/watch?v=AbQpEaJeRnw
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 146
+https://www.youtube.com/watch?v=lIAdnfA6XJM
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 145
+https://www.youtube.com/watch?v=Wo93jrNy_dE
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 144
+https://www.youtube.com/watch?v=KUmIKpfdlS4
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 143
+https://www.youtube.com/watch?v=P7bCWfLEs7w
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 142
+https://www.youtube.com/watch?v=9Jc6Ml3BoME
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 141
+https://www.youtube.com/watch?v=kNhqIp66wvA
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 140
+https://www.youtube.com/watch?v=HibBsV9FPo8
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 139
+https://www.youtube.com/watch?v=EuUjTnv3oqU
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 138
+https://www.youtube.com/watch?v=m6KlDvI_HA8
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 137
+https://www.youtube.com/watch?v=tG4AUQhCQ2Y
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 136
+https://www.youtube.com/watch?v=rhX2zYPper8
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 135
+https://www.youtube.com/watch?v=ZIRVA_o1Q3k
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 134
+https://www.youtube.com/watch?v=_guoVTcLo9E
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 133
+https://www.youtube.com/watch?v=q1BiO6Ig8So
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 132
+https://www.youtube.com/watch?v=WddA9-GTzz8
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 131
+https://www.youtube.com/watch?v=PrTbNxkt0Ec
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 130
+https://www.youtube.com/watch?v=nlsCFbQiGhg
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 129
+https://www.youtube.com/watch?v=CKf0mMSoiD8
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 128
+https://www.youtube.com/watch?v=xyaM1gKOUJM
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 127
+https://www.youtube.com/watch?v=QDJFdROLMwU
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 126
+https://www.youtube.com/watch?v=ZIiSfidtkbM
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 125
+https://www.youtube.com/watch?v=Uq4I5RXbQZg
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 124
+https://www.youtube.com/watch?v=E1cbZUVsMkQ
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 123
+https://www.youtube.com/watch?v=n1Cof9NahiM
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 122
+https://www.youtube.com/watch?v=Mk4BdOWO7J8
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 121
+https://www.youtube.com/watch?v=iUzCd8ZmX8k
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 120
+https://www.youtube.com/watch?v=zrimH7_2_8E
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 119
+https://www.youtube.com/watch?v=5htg81aGO1w
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 118
+https://www.youtube.com/watch?v=8cWKRZXaWo0
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 117
+https://www.youtube.com/watch?v=YMf97kBw_BA
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 116
+https://www.youtube.com/watch?v=E5QmDgY4Trs
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 115
+https://www.youtube.com/watch?v=gIvko4KknH4
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 114
+https://www.youtube.com/watch?v=ZpnAbX7S41g
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 113
+https://www.youtube.com/watch?v=oH6unLBRHzE
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 112
+https://www.youtube.com/watch?v=ZCr5Klsw_Rg
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 111
+https://www.youtube.com/watch?v=rFHqgP1vLpE
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 110
+https://www.youtube.com/watch?v=t02rjEZxnAU
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 109
+https://www.youtube.com/watch?v=U2NsykZaf0Q
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 108
+https://www.youtube.com/watch?v=sDcKr6ApWBE
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 107
+https://www.youtube.com/watch?v=8AU4s8ZYqWs
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 106
+https://www.youtube.com/watch?v=fs2k3TxHQiw
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 105
+https://www.youtube.com/watch?v=kZzGDiJSBcQ
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 104
+https://www.youtube.com/watch?v=NUVQokom6uE
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 103
+https://www.youtube.com/watch?v=Qz-xjd44eIc
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 102
+https://www.youtube.com/watch?v=_alAOmSZbBQ
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 101
+https://www.youtube.com/watch?v=zDEpD2p9H-A
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 100
+https://www.youtube.com/watch?v=YJ6kaCP-WQk
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 99
+https://www.youtube.com/watch?v=scFznklDVmA
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 98
+https://www.youtube.com/watch?v=XmtbZoAZ_xc
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 97
+https://www.youtube.com/watch?v=IepL1GtpTU8
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 96
+https://www.youtube.com/watch?v=fObc4YGXpAk
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 95
+https://www.youtube.com/watch?v=n33J2C4HcM8
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 94
+https://www.youtube.com/watch?v=wt1iN7aTdy4
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 95
+https://www.youtube.com/watch?v=PLtMOkh7cHw
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 93
+https://www.youtube.com/watch?v=5bDvUTH0_wo
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 92
+https://www.youtube.com/watch?v=mzvrgQoQs1k
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 91
+https://www.youtube.com/watch?v=68BjE9Hp1DI
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 90
+https://www.youtube.com/watch?v=K8L6BmGmaoU
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 89
+https://www.youtube.com/watch?v=1kxWh1UMdi0
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 88
+https://www.youtube.com/watch?v=-vGKfiyzxrw
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 87
+https://www.youtube.com/watch?v=8VQU7Tb_85g
+#EXTINF:0 group-title="VIDEO |OSM" tvg-logo="https://i.imgur.com/hUyjW7s.png",OSM 86
+https://www.youtube.com/watch?v=k7jJmJZTK8o
 
-#EXTINF:-1,Luxury
-http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:0 group-title="VIDEO |KeL" ,Mish Me Lakra I Albanian Stew recipe (in Albanian)
+https://www.youtube.com/watch?v=BHI15nyZWrc
+#EXTINF:0 group-title="VIDEO |KeL" ,Petulla/llokuma me molla&#44; recetÃ« e shpejtÃ«  | Small doughnuts with apple recipe (in Albanian)
+https://www.youtube.com/watch?v=846dt9gG98A
+#EXTINF:0 group-title="VIDEO |KeL" ,Mantija&#44; recete piteje shume e shijshme | Mantia - Albanian pastry
+https://www.youtube.com/watch?v=hetQ_OMvINY
+#EXTINF:0 group-title="VIDEO |KeL" ,Gurabia/Gurrabija tÃ« shpejta | Traditional Albanian Cookies recipe
+https://www.youtube.com/watch?v=oq-Qoy70NRM
+#EXTINF:0 group-title="VIDEO |KeL" ,Pite Me Kungull | Pumpkin Pie recipe (in Albanian)
+https://www.youtube.com/watch?v=WjYqdvd7sas
+#EXTINF:0 group-title="VIDEO |KeL" ,Receta e trangujve ne turshi | Pickled Cucumbers recipe (in Albanian with English subtitles)
+https://www.youtube.com/watch?v=GtgEyCx1rJE
+#EXTINF:0 group-title="VIDEO |KeL" ,KryelanÃ«/KrelanÃ« Misri Me Djath
+https://www.youtube.com/watch?v=Nq_EY06EYmo
+#EXTINF:0 group-title="VIDEO |KeL" ,Ã‹mbÃ«lsirÃ« me limon | Lemon cake  recipe (in Albanian)
+https://www.youtube.com/watch?v=2z2QD3HXccg
+#EXTINF:0 group-title="VIDEO |KeL" ,Receta e shurupit tÃ« shtogut | Elderflower sirup recipe (in Albanian)
+https://www.youtube.com/watch?v=6xRgfA2-zNg
+#EXTINF:0 group-title="VIDEO |KeL" ,Receta e MusakÃ«s | Moussaka recipe (in Albanian)
+https://www.youtube.com/watch?v=VU8HG2s_QnE
+#EXTINF:0 group-title="VIDEO |KeL" ,Zerde&#44; Ã«mbÃ«lsirÃ« me oriz&#44; nisheste dhe kanellÃ« | Zerde &#44; Albanian style rice pudding with cinnamon
+https://www.youtube.com/watch?v=uwqhohXfnXI
+#EXTINF:0 group-title="VIDEO |KeL" ,Makarona me tuna&#44; misÃ«r dhe majonez
+https://www.youtube.com/watch?v=6XJupDsk_M4
+#EXTINF:0 group-title="VIDEO |KeL" ,Recata e Rollates | Swiss Roll recipe
+https://www.youtube.com/watch?v=8viWOEGdUlI
+#EXTINF:0 group-title="VIDEO |KeL" ,Shniclla (mish i rrahur&#44; i mbeshtjellur me ve dhe miell&#44; dhe i ferguar)
+https://www.youtube.com/watch?v=NNuk6IKxZ8I
+#EXTINF:0 group-title="VIDEO |KeL" ,Kifle me Nutella dhe reÃ§el (xhem) | Home made pastry with Nutella and jam
+https://www.youtube.com/watch?v=06qQ__uqEBU
+#EXTINF:0 group-title="VIDEO |KeL" ,Sheqerpare&#44; receta hap-pas-hapi
+https://www.youtube.com/watch?v=4WW85NLAZsc
+#EXTINF:0 group-title="VIDEO |KeL" ,Ã‡orbÃ« me perime dhe kofshÃ« pule | Chicken stew with vegetables recipe (in Albanian)
+https://www.youtube.com/watch?v=iRi1ExK-5lw
+#EXTINF:0 group-title="VIDEO |KeL" ,Receta e Pudingut (Krem Pasticerie) | Custard recipe in Albanian
+https://www.youtube.com/watch?v=dhIQSCnSou4
+#EXTINF:0 group-title="VIDEO |KeL" ,TortÃ«(Kek) me katÃ«r shtresa | Four Layered Cake With Custard (in Albanian)
+https://www.youtube.com/watch?v=YltjRgYnl3o
+#EXTINF:0 group-title="VIDEO |KeL" ,PogaÃ§e/pogaÃ§ja (BukÃ« me sodÃ« pjekjeje) | Bread with baking soda recipe
+https://www.youtube.com/watch?v=s-voEW8IqZU
+#EXTINF:0 group-title="VIDEO |KeL" ,Embelsire e shpejte me biskota Oreo | Cheesecake with Oreo recipe
+https://www.youtube.com/watch?v=31IPE-YH7t0
+#EXTINF:0 group-title="VIDEO |KeL" ,Sushi tÃ« mbÃ«shtjellura pÃ«r Vit tÃ« Ri | Sushi rolls recipe (in Albanian)
+https://www.youtube.com/watch?v=I11cbravi08
+#EXTINF:0 group-title="VIDEO |KeL" ,Receta e piresÃ« me patate | Potato purÃ©e (mashed potatoes) recipe
+https://www.youtube.com/watch?v=3iPaDHefXPI
+#EXTINF:0 group-title="VIDEO |KeL" ,Receta e Gullashit me mish vici/kau | Albanian Beef Goulash recipe
+https://www.youtube.com/watch?v=QsAgZqX6kIs
+#EXTINF:0 group-title="VIDEO |KeL" ,Receta e ShtrudllÃ«s - Ã«mbÃ«lsirÃ« e shpejtÃ« me molla  (Strudle recipe in Albanian)
+https://www.youtube.com/watch?v=7nu7VTzwj94
+#EXTINF:0 group-title="VIDEO |KeL" ,Speca turshi te perveluara | Albanian style scalded and pickled peppers
+https://www.youtube.com/watch?v=UJ3rMjAXFo0
+#EXTINF:0 group-title="VIDEO |KeL" ,Speca turshi te mbushura me lakra | Albanian pickled peppers filled with cabbage
+https://www.youtube.com/watch?v=Q6PwaXQnPOc
+#EXTINF:0 group-title="VIDEO |KeL" ,Speca turshi te mbushura me djath | Albanain style pickled peppers filled with cheese
+https://www.youtube.com/watch?v=tYMwsYCk1w0
+#EXTINF:0 group-title="VIDEO |KeL" ,Patate te skuqura me kos dhe hudra
+https://www.youtube.com/watch?v=9bc6BUhb0QA
+#EXTINF:0 group-title="VIDEO |KeL" ,Embelsire me cokollade | A chocolate cake recipe (in Albanian)
+https://www.youtube.com/watch?v=SIm2AIHZ9xo
+#EXTINF:0 group-title="VIDEO |KeL" ,Lemonada (receta origjinale) | Lemonade (The original recipe)
+https://www.youtube.com/watch?v=qlYrtfUu0YM
+#EXTINF:0 group-title="VIDEO |KeL" ,Milkshejk me Manaferra | Milkshake with Blackberries
+https://www.youtube.com/watch?v=ki80HdwU5cA
+#EXTINF:0 group-title="VIDEO |KeL" ,Kifle Rollate me Kanelle
+https://www.youtube.com/watch?v=UKQ6zF0OC9s
+#EXTINF:0 group-title="VIDEO |KeL" ,Akullore e ShpejtÃ« Me Tre Shije | A Three Flavoured Ice Cream Recipe (with English subtitles)
+https://www.youtube.com/watch?v=b3k3eHvvDEo
+#EXTINF:0 group-title="VIDEO |KeL" ,Pite me spinaq (recete e detajizuar) | Spinach Pie Recipe (complete recipe)
+https://www.youtube.com/watch?v=OMAaxdhu2Q0
+#EXTINF:0 group-title="VIDEO |KeL" ,Embelsire e shpejte me Nutella&#44; pa pjekje dhe zierje
+https://www.youtube.com/watch?v=o_w7w-_nIIs
+#EXTINF:0 group-title="VIDEO |KeL" ,Patlixhana tÃ« zinjÃ«/PatÃ«llxhanÃ« me kos dhe hudhra
+https://www.youtube.com/watch?v=kfikAKQfI68
+#EXTINF:0 group-title="VIDEO |KeL" ,Sot kanali im i ka bere 10&#44;000 abonues! | Today&#44; my channel has reached 10&#44;000 subscribers!
+https://www.youtube.com/watch?v=2yY174FCjMQ
+#EXTINF:0 group-title="VIDEO |KeL" ,Japrak/Yaprak: Sarma me gjethe rrushi
+https://www.youtube.com/watch?v=jK7TbZUyPU0
+#EXTINF:0 group-title="VIDEO |KeL" ,EmbÃ«lsirÃ« me Ã§okolladÃ« qÃ« nuk kÃ«rkon pjekje (Bajadera/Bayadera) - recetÃ« e shpejtÃ«
+https://www.youtube.com/watch?v=MgcpQG1kvHs
+#EXTINF:0 group-title="VIDEO |KeL" ,Pite me hithra/hitha --- Nettle's Pie (Traditional Albanian cuisine)
+https://www.youtube.com/watch?v=3ALw99p0DAI
+#EXTINF:0 group-title="VIDEO |KeL" ,Qofte/qyfte te shijshme ne zgare/skare me pitalka
+https://www.youtube.com/watch?v=mrJzty5D5ko
+#EXTINF:0 group-title="VIDEO |KeL" ,Kifle te shijshme per mengjes
+https://www.youtube.com/watch?v=wdtCLpM4QLg
+#EXTINF:0 group-title="VIDEO |KeL" ,Sarma me lakra
+https://www.youtube.com/watch?v=ZSBUEbOcXCM
+#EXTINF:0 group-title="VIDEO |KeL" ,Embelsire me fruta mali
+https://www.youtube.com/watch?v=sc4AxQZLPPk
+#EXTINF:0 group-title="VIDEO |KeL" ,Hallve e bardhe - embelsire popullore
+https://www.youtube.com/watch?v=5KsS4DpKV0E
+#EXTINF:0 group-title="VIDEO |KeL" ,Speca te mbushura (dollma)
+https://www.youtube.com/watch?v=J3M-ztI78Mw
+#EXTINF:0 group-title="VIDEO |KeL" ,Embelsire me kumbulla
+https://www.youtube.com/watch?v=Oyom2hhcehM
+#EXTINF:0 group-title="VIDEO |KeL" ,Patate tÃ« pjekura dhe tÃ« mbushura me djath kaÃ§kavall
+https://www.youtube.com/watch?v=Y7TGbax0Pg0
+#EXTINF:0 group-title="VIDEO |KeL" ,Krofne me sheqer pluhur
+https://www.youtube.com/watch?v=vg8BGxy7Tvw
+#EXTINF:0 group-title="VIDEO |KeL" ,Levrek i fÃ«rguar&#44; me patate dhe spinaq
+https://www.youtube.com/watch?v=ETSJhEys1xg
+#EXTINF:0 group-title="VIDEO |KeL" ,Tiramisu (Ã«mbÃ«lsirÃ« italiane)
+https://www.youtube.com/watch?v=D3ilr0UrtCg
+#EXTINF:0 group-title="VIDEO |KeL" ,GjyveÃ§ me mish nÃ« tavÃ«
+https://www.youtube.com/watch?v=wZyR8UkpaCU
+#EXTINF:0 group-title="VIDEO |KeL" ,Toptha te mbeshtjellura me kokos&#44; badema dhe kakao (Bombica)
+https://www.youtube.com/watch?v=uGMPUspRDwk
+#EXTINF:0 group-title="VIDEO |KeL" ,SupÃ« me perime (Instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=KlvRNEfrVcA
+#EXTINF:0 group-title="VIDEO |KeL" ,Shampite - Ã«mbÃ«lsirÃ« klasike e Ã«mbÃ«ltoreve tÃ« KosovÃ«s
+https://www.youtube.com/watch?v=QkHs_oUAbjM
+#EXTINF:0 group-title="VIDEO |KeL" ,TavÃ« peshku (kapama) me sallmon
+https://www.youtube.com/watch?v=yp0ZX1cODzk
+#EXTINF:0 group-title="VIDEO |KeL" ,Embelsire me kafe&#44; gatim i shpejte
+https://www.youtube.com/watch?v=jA7fB-zahKI
+#EXTINF:0 group-title="VIDEO |KeL" ,Kifle me djath (Instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=g3X3Ex9y-_Y
+#EXTINF:0 group-title="VIDEO |KeL" ,Kungull Misiri (Vidim) i zier me sheqer
+https://www.youtube.com/watch?v=JruDgnMJ82U
+#EXTINF:0 group-title="VIDEO |KeL" ,Trileqe (TrileÃ§e) - Instrukcione hap-pas-hapi
+https://www.youtube.com/watch?v=kYU7FBcGgFQ
+#EXTINF:0 group-title="VIDEO |KeL" ,BakllavÃ«/Bakllava me petÃ« tÃ« gatshme
+https://www.youtube.com/watch?v=lhkYcsIq7dc
+#EXTINF:0 group-title="VIDEO |KeL" ,KofshÃ« qingji e pjekur nÃ« furrÃ« (instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=KQTfDd1oN44
+#EXTINF:0 group-title="VIDEO |KeL" ,Tespishte me arra - embelsire tradicionale shqiptare (instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=X88wiOKgWY4
+#EXTINF:0 group-title="VIDEO |KeL" ,Qofte me salce domatesh (instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=fYjP0CCGm3Y
+#EXTINF:0 group-title="VIDEO |KeL" ,Kifle/Kroson/Croissant me buter (instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=gzY_po5BFnI
+#EXTINF:0 group-title="VIDEO |KeL" ,Lazanja/Lasagna me sos shtepiak (Instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=NLK2Z3FKpGY
+#EXTINF:0 group-title="VIDEO |KeL" ,Ravani me sherbet: embelsire tradicionale shqiptare
+https://www.youtube.com/watch?v=NlxOFJTuwRg
+#EXTINF:0 group-title="VIDEO |KeL" ,KrihÃ« tÃ« pule te skuqura (Instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=tVtsb7XYjSg
+#EXTINF:0 group-title="VIDEO |KeL" ,Embelsire me oriz dhe qumesht (tamel oriz&#44; sutliash)
+https://www.youtube.com/watch?v=d8lyr9-SaU8
+#EXTINF:0 group-title="VIDEO |KeL" ,Pitalka/Samuna: bukÃ« nÃ« stil Kosove (Instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=f6rt0QznbkQ
+#EXTINF:0 group-title="VIDEO |KeL" ,Embelsire me molla (Albanian style apple pie - with English subtitles)
+https://www.youtube.com/watch?v=sHSE6bzUiVc
+#EXTINF:0 group-title="VIDEO |KeL" ,Gatim i shpejte: buke e ferguar me veze (Instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=sSky_PtdSFI
+#EXTINF:0 group-title="VIDEO |KeL" ,Sallate me patlixhana te zinj (patellxhane) te ferguara (Instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=mvWnXBUMF9A
+#EXTINF:0 group-title="VIDEO |KeL" ,Llokuma (petulla ne vaj). Instrukcione hap-pas-hapi.
+https://www.youtube.com/watch?v=4woH5N5CNpI
+#EXTINF:0 group-title="VIDEO |KeL" ,Shpageta me sos mishi te bluar dhe kepurdhash (Instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=X52OEXx6gUk
+#EXTINF:0 group-title="VIDEO |KeL" ,PogaÃ§e me suxhuk (Instrukcione hap-pas-hapi)
+https://www.youtube.com/watch?v=Vv_KZftFJnA
+#EXTINF:0 group-title="VIDEO |KeL" ,Burek (pite) me pete te gatshme per 30 minuta&#44; instrukcione hap-pas-hapi
+https://www.youtube.com/watch?v=jIGmsUeZoAY
+#EXTINF:0 group-title="VIDEO |KeL" ,Pule me oriz ne tave; instrukcione hap-pas-hapi (Albanian chicken and rice recipe)
+https://www.youtube.com/watch?v=U_-cJuX8XM0
+#EXTINF:0 group-title="VIDEO |KeL" ,Si te pergatisni pallaÃ§inka/pallaqinka (petulla ne vaj); instrukcione hap-pas-hapi
+https://www.youtube.com/watch?v=ANQ6zJEEZNA
 
-#EXTINF:-1,HD Media 3D
-http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:-1,300 Rise Of An Empire http://www.deadlyblogger.com/NewRelease/300rise.mp4 
+#EXTINF:-1,After Earth http://www.deadlyblogger.com/NewRelease/after.mp4 
+#EXTINF:-1,Ali http://www.deadlyblogger.com/NewRelease/ali1.mp4 
+#EXTINF:-1,Turbo http://www.deadlyblogger.com/NewRelease/turbo.mp4 
+#EXTINF:-1,Frozen http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4 #EXTINF:-1,The Hobbit The Desolation Of Smaug http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
 
-#EXTINF:-1,Radio Kosova e Lire
-http://188.165.192.5:8018/;stream.mp3
 
-#EXTINF:-1,Radio Dukagjini www.fb.com/kryeziutv
-http://s6.voscast.com:8824/;stream.mp3
+#EXTINF:-1,AFRICA 5 K
+https://www.youtube.com/watch?v=uZClGt1xS1A&t=27s
+#EXTINF:-1,UJVARRE
+https://www.youtube.com/watch?v=lE6RYpe9IT0
+#EXTINF:-1,LUM
+https://www.youtube.com/watch?v=DQuhA5ZCV9M
+#EXTINF:-1,NATYR 4K
+https://www.youtube.com/watch?v=rN6nlNC9WQA
+#EXTINF:-1,ANIMALS 4K
+https://www.youtube.com/watch?v=TKmGU77INaM&t=531s
+#EXTINF:-1,SHI 
+https://www.youtube.com/watch?v=wmE1jFogHUU
+#EXTINF:-1,MAL NATYR 
+https://www.youtube.com/watch?v=1HQZKjlxcts
+#EXTINF:-1,Muhammedi s a v s filmi i dubluar ne shqip full
+https://www.youtube.com/watch?v=qYHsOwoUI2Y&t=2372s
 
-#EXTINF:-1,Dukagjini Love Radio
-http://s2.voscast.com:8828/;stream.mp3
+#EXTINF:-1,NOHA A.S
+https://www.youtube.com/watch?v=fDT5RVQE1h0&feature=youtu.be
+
+#EXTINF:-1,JUSUFI ALS. 1
+https://www.youtube.com/watch?v=n0L5cavKPo0&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=1
+#EXTINF:-1,JUSUFI ALS. 2
+https://www.youtube.com/watch?v=W-bwJa8KVvE&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=2
+#EXTINF:-1,JUSUFI ALS.3
+https://www.youtube.com/watch?v=UoW4L0zTLnA&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=3
+#EXTINF:-1,JUSUFI ALS.4
+https://www.youtube.com/watch?v=1l8V2YoVkkQ&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=4
+#EXTINF:-1,JUSUFI ALS.5
+https://www.youtube.com/watch?v=7Gmh2FDIMOk&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=5
+#EXTINF:-1,JUSUFI ALS.6
+https://www.youtube.com/watch?v=4kB3U09fOvQ&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=6
+#EXTINF:-1,JUSUFI ALS.7
+https://www.youtube.com/watch?v=9mxCGVGKc0k&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=7
+#EXTINF:-1,JUSUFI ALS.8
+https://www.youtube.com/watch?v=gTaFnUzDglQ&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=8
+#EXTINF:-1,JUSUFI ALS.9
+https://www.youtube.com/watch?v=m5wZyCd3W5Q&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=9
+#EXTINF:-1,JUSUFI ALS.10
+https://www.youtube.com/watch?v=N1jkic6R76M
+#EXTINF:-1,JUSUFI ALS.11
+https://www.youtube.com/watch?v=84v4Zti0ZtQ
+#EXTINF:-1,JUSUFI ALS.12
+https://www.youtube.com/watch?v=mYtjwn8Dii0&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=12
+#EXTINF:-1,JUSUFI ALS.13
+https://www.youtube.com/watch?v=J9r71uaZCQk&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=13
+#EXTINF:-1,JUSUFI ALS.14
+https://www.youtube.com/watch?v=lYYRct1mOmM&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=14
+#EXTINF:-1,JUSUFI ALS.14PJESA E DYT
+https://www.youtube.com/watch?v=KUrlSqx58zs&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=15
+#EXTINF:-1,JUSUFI ALS.15
+https://www.youtube.com/watch?v=YblhdYt9fH0&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=16
+#EXTINF:-1,JUSUFI ALS.16
+https://www.youtube.com/watch?v=JJlkHGoqvYM&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=17
+#EXTINF:-1,JUSUFI ALS.17
+https://www.youtube.com/watch?v=0cZ2C8fPx0E&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=18
+#EXTINF:-1,JUSUFI ALS.18
+https://www.youtube.com/watch?v=KoLxjtfAV-Q&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=19
+#EXTINF:-1,JUSUFI ALS.19
+https://www.youtube.com/watch?v=anYR0vQztl0&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=20
+#EXTINF:-1,JUSUFI ALS.20
+https://www.youtube.com/watch?v=mIXR2QLDie4
+#EXTINF:-1,JUSUFI ALS.21
+https://www.youtube.com/watch?v=_GANjY7fFPI
+#EXTINF:-1,JUSUFI ALS.22
+https://www.youtube.com/watch?v=FahGaC-i9cY&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=23
+#EXTINF:-1,JUSUFI ALS.23
+https://www.youtube.com/watch?v=hBaRX2nZ7JQ&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=24
+
+#EXTINF:-1,JUSUFI ALS.24
+https://www.youtube.com/watch?v=pG79DPLZLLI
+#EXTINF:-1,JUSUFI ALS.25
+https://www.youtube.com/watch?v=VupGrxCDzkw&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=26
+#EXTINF:-1,JUSUFI ALS.26
+https://www.youtube.com/watch?v=GL2HGSo5j8c
+#EXTINF:-1,JUSUFI ALS.27
+https://www.youtube.com/watch?v=BrU95GFrSDQ&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=28
+#EXTINF:-1,JUSUFI ALS.28
+https://www.youtube.com/watch?v=271V_0miNR8&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=29
+#EXTINF:-1,JUSUFI ALS.29
+https://www.youtube.com/watch?v=mIXR2QLDie4&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=30
+#EXTINF:-1,JUSUFI ALS.30
+https://www.youtube.com/watch?v=oJp8p2LcjsE
+#EXTINF:-1,JUSUFI ALS.https://www.youtube.com/watch?v=Yr9yhdyWmrw31
+
+#EXTINF:-1,JUSUFI ALS.32
+https://www.youtube.com/watch?v=vlZnehoXtks&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=33
+#EXTINF:-1,JUSUFI ALS.33
+https://www.youtube.com/watch?v=8WDNnW022IA
+#EXTINF:-1,JUSUFI ALS.34
+https://www.youtube.com/watch?v=F1ZeZcRBIx4&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=35
+#EXTINF:-1,JUSUFI ALS.35
+https://www.youtube.com/watch?v=wEYEnjiyWUg&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=36
+#EXTINF:-1,JUSUFI ALS.36
+https://www.youtube.com/watch?v=zE_XZ16_aNE&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=38
+#EXTINF:-1,JUSUFI ALS.37 NUK BAN 
+
+#EXTINF:-1,JUSUFI ALS.38
+https://www.youtube.com/watch?v=Jx_GqtwO1ec&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=40
+#EXTINF:-1,JUSUFI ALS.39 NUK BAN 
+
+#EXTINF:-1,JUSUFI ALS.40
+https://www.youtube.com/watch?v=Jx_GqtwO1ec&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=40
+#EXTINF:-1,JUSUFI ALS.41
+https://www.youtube.com/watch?v=KmeQ_mainlY&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=41
+#EXTINF:-1,JUSUFI ALS.42
+https://www.youtube.com/watch?v=ojLH9Ktlvzg&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=43
+#EXTINF:-1,JUSUFI ALS.43
+https://www.youtube.com/watch?v=d5FOfv1O2cI&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=44
+#EXTINF:-1,JUSUFI ALS.44
+https://www.youtube.com/watch?v=E6TmRg3h-CI&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=45
+#EXTINF:-1,JUSUFI ALS.45
+https://www.youtube.com/watch?v=0TkgQwUfZPY&list=PLlouynQBS-3fgCilY7gt1yPIB3OgHiYLg&index=46
+
+
+
+#EXTINF:-1, RTK
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/1
+#EXTINF:-1, RTK HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/784
+#EXTINF:-1, RTK 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/181
+#EXTINF:-1, RTK 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/182
+#EXTINF:-1, RTV21
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/2
+#EXTINF:-1, KTV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/3
+#EXTINF:-1, KTV HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/826
+#EXTINF:-1, T7
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/578
+#EXTINF:-1, RTSH-SAT
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/4
+#EXTINF:-1, TOP-CHANNEL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/5
+#EXTINF:-1, TOP CHANNEL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/147
+#EXTINF:-1, Klan Kosova
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/6
+#EXTINF:-1, KLAN KOSOVA
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/827
+#EXTINF:-1, KLAN
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/7
+#EXTINF:-1, KLAN HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/148
+#EXTINF:-1, VIZION PLUS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/8
+#EXTINF:-1, RROKUM HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/32
+#EXTINF:-1, ARTA HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/33
+#EXTINF:-1, ALSAT
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/34
+#EXTINF:-1, RTV DUKAGJINI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/100
+#EXTINF:-1, FIRST CHANNEL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/163
+#EXTINF:-1, KLAN PLUS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/234
+#EXTINF:-1, TRIBUNA CHANNEL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/210
+#EXTINF:-1, 7 NEWS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/31
+#EXTINF:-1, TOP NEWS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/37
+#EXTINF:-1, ORA NEWS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/241
+ 
+#EXTINF:-1, GJIRAFA.COM
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/393
+#EXTINF:-1, HUMOR
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/395
+ 
+#EXTINF:-1, FILM AUTOR
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/43
+#EXTINF:-1, FILM DRAME
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/44
+#EXTINF:-1, FILM AKSION
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/45
+#EXTINF:-1, FILM KOMEDI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/46
+#EXTINF:-1, FILM HITS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/47
+#EXTINF:-1, FILM THRILLER
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/48
+#EXTINF:-1, FILM NJE HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/49
+#EXTINF:-1, FILM DY HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/50
+#EXTINF:-1, DIGI FAMILY HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/905
+#EXTINF:-1, FILM STINET
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/166
+#EXTINF:-1, T HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/40
+#EXTINF:-1, FILM JUNIOR
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/235
+ 
+#EXTINF:-1, EXP HISTORI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/51
+#EXTINF:-1, EXP SHKENCE
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/52
+#EXTINF:-1, EXP SHKENCE
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/324
+#EXTINF:-1, EXP NATYRA
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/53
+#EXTINF:-1, TRING HISTORY
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/24
+#EXTINF:-1, TRING PLANET
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/25
+#EXTINF:-1, TRING WORLD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/26
+#EXTINF:-1, PLANET
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/325
+#EXTINF:-1, DMAX HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/546
+#EXTINF:-1, DISCOVERY CHANNEL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/225
+ 
+#EXTINF:-1, TRING ACTION
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/10
+#EXTINF:-1, TRING SUPER
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/11
+#EXTINF:-1, TRING LIFE
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/12
+#EXTINF:-1, TRING COMEDY
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/13
+#EXTINF:-1, TRING SHQIP
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/14
+#EXTINF:-1, TRING FANTASY
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/15
+#EXTINF:-1, 7 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/698
+#EXTINF:-1, TRING 3+
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/16
+#EXTINF:-1, SMILE
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/17
+#EXTINF:-1, LIVING HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/21
+#EXTINF:-1, JOLLY HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/69
+#EXTINF:-1, MUSE
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/61
+ 
+ 
+#EXTINF:-1, CINESTAR ACTION
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/67
+#EXTINF:-1, FOX CRIME
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/29
+#EXTINF:-1, FOX LIFE
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/30
+#EXTINF:-1, GALAXY HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/326
+ 
+ 
+#EXTINF:-1, DIGI GOLD ACTION
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/374
+#EXTINF:-1, DIGI GOLD CINEMA
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/375
+#EXTINF:-1, DIGI GOLD ATLANTIC
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/376
+#EXTINF:-1, DIGI GOLD 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/379
+#EXTINF:-1, DIGI GOLD 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/380
+#EXTINF:-1, DIGI GOLD 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/381
+#EXTINF:-1, ALB HORROR
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/900
+#EXTINF:-1, ALB CINEMA
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/901
+#EXTINF:-1, ALB FANTASY
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/902
+#EXTINF:-1, ALB AKSION
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/903
+#EXTINF:-1, ALB KOMEDI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/394
+#EXTINF:-1, ALB WESTERN
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/576
+#EXTINF:-1, ALB COMEDY
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/734
+#EXTINF:-1, ALB ACTION
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/373
+#EXTINF:-1, NOVELA
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/327
+#EXTINF:-1, AKSION
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/328
+#EXTINF:-1, MAX
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/329
+#EXTINF:-1, KOMEDI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/330
+#EXTINF:-1, DRAME
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/332
+ 
+ 
+#EXTINF:-1, Bang Bang
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/41
+#EXTINF:-1, CUFO
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/42
+#EXTINF:-1, CARTOON NETWORK
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/227
+#EXTINF:-1, TRING TRING
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/18
+#EXTINF:-1, TIP TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/19
+ 
+#EXTINF:-1, CLICK TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/38
+#EXTINF:-1, ONTV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/56
+#EXTINF:-1, BBF MUSIK
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/60
+#EXTINF:-1, RTV21 POPULLORE
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/22
+#EXTINF:-1, MUSIK
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/218
+#EXTINF:-1, ELRODI TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/23
+#EXTINF:-1, FOLK
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/27
+#EXTINF:-1, TV SHENJA
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/55
+#EXTINF:-1, AMOL HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/260
+#EXTINF:-1, TURBO CHANNEL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/261
+#EXTINF:-1, MTV KOSOVA
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/262
+#EXTINF:-1, MY MUSIK
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/219
+#EXTINF:-1, RTV ALDI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/62
+#EXTINF:-1, RTV21 PLUS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/81
+#EXTINF:-1, PEACE TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/82
+#EXTINF:-1, RTP
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/92
+#EXTINF:-1, TV MITROVICA
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/101
+#EXTINF:-1, TV BESA
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/102
+#EXTINF:-1, TV LIRIA
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/164
+#EXTINF:-1, ZJARR HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/523
+#EXTINF:-1, TV LLAPI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/538
+#EXTINF:-1, DRITA TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/575
+#EXTINF:-1, RTV DANIMARKA
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/867
+#EXTINF:-1, TV R
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/185
+#EXTINF:-1, MPT2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/35
+ 
+ 
+ 
+#EXTINF:-1, SPORT NEWS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/63
+#EXTINF:-1, SUPER SPORT
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/361
+#EXTINF:-1, SUPER SPORT 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/64
+#EXTINF:-1, SUPER SPORT 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/65
+#EXTINF:-1, SUPER SPORT 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/66
+#EXTINF:-1, SUPER SPORT 5
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/360
+#EXTINF:-1, TRING SPORT NEWS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/28
+#EXTINF:-1, TRING SPORT 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/96
+#EXTINF:-1, TRING SPORT 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/97
+#EXTINF:-1, TRING SPORT 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/98
+#EXTINF:-1, KUJTESA SPORT1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/883
+#EXTINF:-1, KUJTESA SPORT2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/884
+#EXTINF:-1, KUJTESA SPORT3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/885
+#EXTINF:-1, KUJTESA SPORT 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/886
+ 
+ 
+#EXTINF:-1, HBO 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/223
+#EXTINF:-1, LUXE TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/36
+#EXTINF:-1, RTSH SPORT
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/476
+#EXTINF:-1, RTSH PLUS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/906
+#EXTINF:-1, RTSH SHQIP
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/907
