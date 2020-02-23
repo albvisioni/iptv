@@ -79,3 +79,250 @@ http://51.15.180.159:8081/play/hls/dielli/index.m3u8
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Zjarr TV
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="3 Plus" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_3plus.png" group-title="Albania", 3 Plus
+http://95.107.132.104/out/u/31_3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a2news.com/wp-content/themes/a2cnn/assets/images/a2-cnn-logo.png" group-title="Albania", A2
+http://95.107.132.131:3344/udp/238.20.15.2:9009
+
+#EXTINF:-1 tvg-id="ABC News" tvg-logo="http://abcnews.al/wp-content/uploads/2017/10/abclogo.png" group-title="Albania", Abc News 24/7
+http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://diasporatv.com/uploads/dtv-channel-adrianet.png" group-title="Albania", Adria Net
+http://95.107.132.106/out/u/370_2.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://i.imgur.com/Y01jdK7.png" group-title="Albania", AL: Antena Shkoder
+http://iptv.kosiptv.com:1557/live/naim.rexhepi/naim.rexhepi/1376.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", AL: KS SERIAL
+http://ksportiptv.xyz:1557/live/EvinIljazi/5qjsuId8Bb/26477.m3u8
+
+#EXTINF:-1 tvg-id="Alsat-M" tvg-logo="http://albepg.com/tvlogi/Alsat-M.png" group-title="Albania", Alsat M
+http://84.22.33.254/unicast_alsatmm/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6hhXqlT.jpg" group-title="Albania", Apollon TV
+http://185.80.224.14:8095/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Arta HD" tvg-logo="http://albepg.com/tvlogi/Arta%20HD.png" group-title="Albania", Arta News
+http://84.22.33.254/unicast.artanews/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", BBF
+http://95.107.132.106/out/u/425_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Club Tv
+http://95.107.132.104/out/u/87_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", DASMA
+http://91.187.117.230:8080
+
+#EXTINF:-1 tvg-id="Elrodi TV" tvg-logo="http://albepg.com/tvlogi/Elrodi%20TV.png" group-title="Albania", Elrodi Tv
+http://95.107.132.104/out/u/155_1.m3u8
+
+#EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png" group-title="Albania", Fax News
+http://95.107.132.104/out/u/228_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.albepg.com/tvlogi/Folk%20Plus.png" group-title="Albania", Folk Plus
+http://95.107.132.104/out/u/44_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.dribbble.com/users/322049/screenshots/2160331/gurmania.png" group-title="Albania", Gurmania Channel
+http://84.22.33.238/unicast.gurmania/index.m3u8
+
+#EXTINF:-1 tvg-id="Jolly HD" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_jolly_hd.png" group-title="Albania", Jolly HD
+http://95.107.132.104/out/u/463_1.m3u8
+
+#EXTINF:-1 tvg-id="7 News" tvg-logo="http://193.70.86.92/chlogo/logo/tv/kk/kanali7.png" group-title="Albania", Kanali 7
+http://95.107.132.104/out/u/332_1.m3u8
+
+#EXTINF:-1 tvg-id="Klan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1200px-TV_Klan.svg.png" group-title="Albania", Klan
+http://95.107.132.131:3344/udp/235.0.0.1:9009
+
+#EXTINF:-1 tvg-id="Klan Kosova" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png" group-title="Albania", Klan Kosova
+http://95.107.132.104/out/u/400_1.m3u8
+
+#EXTINF:-1 tvg-id="Klan Macedonia" tvg-logo="noimg.png" group-title="Albania", Klan Macedonia
+http://95.107.132.131:3344/udp/235.56.23.149:2463
+
+#EXTINF:-1 tvg-id="Klan Plus" tvg-logo="http://klanplus.al/wp-content/uploads/2018/01/logo-kplus-copy-1.png" group-title="Albania", Klan Plus
+http://95.107.132.131:3344/udp/235.0.0.6:9009
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Kopliku Tv
+http://95.107.132.104/out/u/151_1.m3u8
+
+#EXTINF:-1 tvg-id="KTV" tvg-logo="noimage.png" group-title="Albania", Ktv
+http://95.107.132.104/out/u/38_1.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Albania", Kujtesa Sport 1
+http://client.era-iptv.net:25461/live/Betimimuhovc/Io4IhKCPyg/178.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Albania", Kujtesa Sport 2
+http://client.era-iptv.net:25461/live/Betimimuhovc/Io4IhKCPyg/179.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Albania", Kujtesa Sport 3
+http://client.era-iptv.net:25461/live/Betimimuhovc/Io4IhKCPyg/180.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Albania", Kujtesa Sport 4
+http://client.era-iptv.net:25461/live/Betimimuhovc/Io4IhKCPyg/181.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Albania", Kujtesa Sport 5
+http://client.era-iptv.net:25461/live/Betimimuhovc/Io4IhKCPyg/182.m3u8
+
+#EXTINF:-1 tvg-id="Living HD" tvg-logo="noimage.png" group-title="Albania", LIVING TV
+http://95.107.132.106/out/u/545_1.m3u8
+
+#EXTINF:-1 tvg-id="News 24" tvg-logo="http://193.70.86.92/chlogo/logo/tv/nn/news24_in.png" group-title="Albania", News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ora News AL" tvg-logo="noimage.png" group-title="Albania", Ora News
+http://95.107.132.104/out/u/523_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yMZj9fG.jpg" group-title="Albania", Premium Channel
+http://premium-channel.tv/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://artmotion.net/wp-content/uploadimet/2018/06/PRIME-1-1024x54.png" group-title="Albania", Prime
+http://84.22.33.238/unicast.prime/index.m3u8
+
+#EXTINF:-1 tvg-id="Report TV" tvg-logo="http://albepg.com/tvlogi/Report%20TV.png" group-title="Albania", Report Tv
+http://84.22.33.214/ReportTV/index.m3u8
+
+#EXTINF:-1 tvg-id="RTK 1" tvg-logo="http://193.70.86.92/chlogo/logo/tv/rr/rtk_1.png" group-title="Albania", Rtk 1
+http://176.31.74.161:8081/live/rtk1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTK 1" tvg-logo="http://193.70.86.92/chlogo/logo/tv/rr/rtk_1.png" group-title="Albania", Rtk 1
+http://95.107.132.104/out/u/327_1.m3u8
+
+#EXTINF:-1 tvg-id="RTSH1 HD" tvg-logo="noimage.png" group-title="Albania", Rtsh 1
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTSH2 HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH2%20HD.png" group-title="Albania", Rtsh 2
+http://79.106.48.2/live/rtsh_2ott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Rtsh 24news
+http://79.106.48.2/live/rtsh_24_ott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Rtsh 3
+http://79.106.48.2/live/rtsh_3ott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Rtsh Kukesi
+http://79.106.48.2/live/rtsh_kukesi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTSH1 HD" tvg-logo="noimg.png" group-title="Albania", RTSH Sat
+http://client.era-iptv.net:25461/live/Betimimuhovc/Io4IhKCPyg/19.m3u8
+
+#EXTINF:-1 tvg-id="RTSH Sport" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="Albania", Rtsh Sport
+http://79.106.48.2/live/rtsh_sport_ott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTV 21" tvg-logo="noimage.png" group-title="Albania", RTV 21 Hd
+http://95.107.132.104/out/u/488_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://diasporatv.com/uploads/dtv-channel-rtv21newsbiz.png" group-title="Albania", Rtv 21 Newsbiz
+http://84.22.33.254/unicast.rtv21business/index.m3u8
+
+#EXTINF:-1 tvg-id="Ora News" tvg-logo="noimage.png" group-title="Albania", Rtv Ora
+http://95.107.132.104/out/u/343_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Scan Tv
+http://95.107.132.131:3344/udp/238.20.115.2:9009
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Shijak_TV.svg/300px-Shijak_TV.svg.png" group-title="Albania", Shijak Tv
+http://80.90.87.62/0.m3u8
+
+#EXTINF:-1 tvg-id="Smile" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ss/smile_tv_th.png" group-title="Albania", Smile
+http://95.107.132.104/out/u/349_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.albepg.com/tvlogi/Sot7.png" group-title="Albania", Sot 7
+http://93.188.164.35:1935/live/sot7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-logo="noimg.png" group-title="Albania", Supersport 2
+http://sport7.biz/lba/123/g2/ss2al.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Syri Net
+https://tv.syri.net/syrilive/webtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Syri%20Vision.png" group-title="Albania", Syri Vision
+http://95.107.132.104/out/u/205_2.m3u8
+
+#EXTINF:-1 tvg-id="T 7" tvg-logo="http://albepg.com/tvlogi/T%207.png" group-title="Albania", T7
+http://84.22.33.238/unicast.klankosova2/index.m3u8
+
+#EXTINF:-1 tvg-id="Top Channel HD" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/top_channel.png" group-title="Albania", Top Channel
+http://95.107.132.131:3344/udp/232.10.15.1:9356
+
+#EXTINF:-1 tvg-id="Top News" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/top_news.png" group-title="Albania", Top News
+http://178.196.237.240:3000/play/xxTOPNEWSxx
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.albepg.com/tvlogi/Tribuna%20Channel.png" group-title="Albania", Tribuna Channel
+http://95.107.132.104/out/u/208_2.m3u8
+
+#EXTINF:-1 tvg-id="Tring Comedy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_comedy.png" group-title="Albania", Tring Comedy
+http://95.107.132.104/out/u/310_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Tring Info
+http://95.107.132.106/out/u/419_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring International" tvg-logo="noimage.png" group-title="Albania", TRING INTERNATIONAL
+http://95.107.132.104/out/u/236_1.m3u8
+
+#EXTINF:-1 tvg-id="Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Living HD
+http://84.22.33.254/unicast.tringlivinghd/index.m3u8
+
+#EXTINF:-1 tvg-id="Tring Shqip" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_shqip.png" group-title="Albania", Tring Shqip
+http://95.107.132.104/out/u/18_2.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png" group-title="Albania", Tring Sport 1
+http://95.107.132.106/out/u/683_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png" group-title="Albania", Tring Sport 2
+http://95.107.132.106/out/u/697_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png" group-title="Albania", Tring Sport 3
+http://95.107.132.106/out/u/699_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png" group-title="Albania", Tring Sport 4
+http://95.107.132.106/out/u/713_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_sport_news.png" group-title="Albania", Tring Sport News
+http://95.107.132.106/out/u/287_2.m3u8
+
+#EXTINF:-1 tvg-id="Tring Super" tvg-logo="noimage.png" group-title="Albania", Tring Super HD
+http://95.107.132.104/out/u/470_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Tring" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_tring.png" group-title="Albania", Tring Tring
+http://95.107.132.104/out/u/353_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring World" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tring_world.png" group-title="Albania", Tring World
+http://95.107.132.104/out/u/408_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-logo="noimg.png" group-title="Albania", Tring-Sport 1 HD
+http://195.154.146.20:25461/live/Tvloku/Tqr/346.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-logo="noimg.png" group-title="Albania", Tring-Sport 2 HD
+http://195.154.146.20:25461/live/Tvloku/Tqr/345.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-logo="noimg.png" group-title="Albania", Tring-Sport 3 HD
+http://195.154.146.20:25461/live/Tvloku/Tqr/344.m3u8
+
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-logo="noimg.png" group-title="Albania", Tring-Sport 4 HD
+http://195.154.146.20:25461/live/Tvloku/Tqr/343.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png" group-title="Albania", Tv Dukagjini
+http://95.107.132.104/out/u/198_2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/tv%20mitrovica.png" group-title="Albania", Tv Mitrovica
+http://84.22.33.254/unicast.tvmitrovica/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/TV%20Opinion.png" group-title="Albania", Tv Opinion
+http://84.22.33.254/unicast.tvopinion/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/TV%20Prizreni.png" group-title="Albania", Tv Prizreni
+http://84.22.33.238/unicast.tvprizreni/index.m3u8
+
+#EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://193.70.86.92/chlogo/logo/tv/vv/vizion_plus.png" group-title="Albania", VIZION PLUS
+http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Zjarr HD
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.iplay-tv.com:8000/logo/kspremiere2uhd.png" group-title="Albania", |AL| KS PREMIERE 2 UHD
+http://iplay-tv.com:9999/live/WgAoph4b/JghBkEoC/743832.m3u8
