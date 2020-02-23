@@ -319,7 +319,7 @@ http://84.22.33.254/unicast.tvopinion/index.m3u8
 http://84.22.33.238/unicast.tvprizreni/index.m3u8
 
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://193.70.86.92/chlogo/logo/tv/vv/vizion_plus.png" group-title="Albania", VIZION PLUS
-http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+http://95.107.132.104/out/u/259_1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Zjarr HD
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
@@ -327,21 +327,3 @@ http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.iplay-tv.com:8000/logo/kspremiere2uhd.png" group-title="Albania", |AL| KS PREMIERE 2 UHD
 http://iplay-tv.com:9999/live/WgAoph4b/JghBkEoC/743832.m3u8
 
-ext,Albanian TV of America,http://stream.shqiptv.com:7080/altvusa/index.m3u8
-ext,ALB UK TV (Opt-1),http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-ext,ALB UK TV (Opt-2),http://163.172.211.229:8000/live/sula/sula123/85.m3u8
-ext,AlbMUSIC (New!),http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-ext,Apollon TV (New!),http://185.80.224.14:8095/hls/stream.m3u8
-ext,EUROAL (New!),http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
-news24,News 24,http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-ext,Report-TV,http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-RrokumTV.al,Rrokum TV,http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-ext,RTV Zik (Denmark),http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
-ext,Shenja TV,http://95.107.132.104/out/u/144_1.m3u8
-ext,Top Sound (New!),https://cdn.tvtopsound.com:1443/TopSoundTV/stream/TopSoundTV/live_720/chunks.m3u8
-ext,Tring International,http://95.107.132.104/out/u/236_1.m3u8
-ext,Tring Action,http://95.107.132.104/out/u/14_1.m3u8
-ext,TV7 (New!),http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
-ext,TV Boin,http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
-VizionPlus.al,Vizion Plus,http://95.107.132.104/out/u/259_1.m3u8
-ext,Zjarr TV (New!),http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
