@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 ,AD SPORTS 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 ,AD SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 ,AD SPORTS 3
+https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1 ,AD SPORTS 3 HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1 ,AD SPORTS 4
+http://adtv.ercdn.net/adsport4/adsport4_480p.m3u8
+#EXTINF:-1 ,ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 ,Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 ,Bahrain Sport
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1452818509.m3u8
+#EXTINF:-1 ,CCTV 5 Sport HD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 ,Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,Dubai Sports 2
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 ,Eleven Sports 1 HD
+http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/225.ts
+#EXTINF:-1 ,Eleven Sports 2 HD
+http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/226.ts
+#EXTINF:-1 ,Eurosport
+http://31.133.47.1:8800/eurosport
+#EXTINF:-1 ,Extreme Sports
+http://178.163.102.33:4022/udp/234.0.0.150:2000
+#EXTINF:-1 ,Extreme Sports
+http://50.7.136.50:8081/ext_sport/index.m3u8?wmsAuthSign=2f82dbf4d7eaddd645c053d83da2ff04-1576704586-69i881i512i19
+#EXTINF:-1 ,Fight Box
+https://ip2019tv.do.am/sport/FightBoxEN.m3u8
+#EXTINF:-1 ,KAZSPORT
+http://109.248.236.41:4433/udp/238.1.1.116:1234
+#EXTINF:-1 ,QAZSPORT
+http://46.19.43.248:9981/stream/channelid/373098214
+#EXTINF:-1 ,Setanta Sports HD
+http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8
+#EXTINF:-1 ,Setanta Sports+ HD
+http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8
+#EXTINF:-1 ,Turkmen Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 ,Viasat Sport
+http://188.113.190.12/34/video.m3u8
+#EXTINF:-1 ,Viasat Sport HD
+http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
+#EXTINF:-1 ,XSport
+http://iptv.prosto.tv:7000/ch16/video.m3u8
+#EXTINF:-1 ,Р‘РµР»Р°СЂСѓСЃСЊ 5
+http://persik.by/stream/1017/402000/932.m3u8
+#EXTINF:-1 ,Р‘РµР»Р°СЂСѓСЃСЊ 5
+http://50.7.136.50:8081/bel5/index.m3u8?wmsAuthSign=91a27cc24fca405ed8a938013bec738a-1576704591-69i881i512i19
+#EXTINF:-1 ,Р‘РµР»Р°СЂСѓСЃСЊ 5 HD
+http://178.124.183.13:80/hls/JRKVSUPCP8/bw5000000/playlist.m3u8
+#EXTINF:-1 ,РљРђР—СЃРїРѕСЂС‚
+http://50.7.136.50:8081/kaz_sp/index.m3u8?wmsAuthSign=f205cda21b8f129a19fad9974de7c8fd-1576704582-69i881i512i19
+#EXTINF:-1 ,РљРѕРЅРЅС‹Р№ РјРёСЂ
+http://50.7.136.50:8081/konnyj_mir/index.m3u8?wmsAuthSign=4bb3abe8e970753b946928f340fbb76e-1576704585-69i881i512i19
+#EXTINF:-1 ,РЎРµС‚Р°РЅС‚Р° РЎРїРѕСЂС‚
+http://178.124.183.4:80/hls/FWHTTL8YXU/variant.m3u8
+#EXTINF:-1 ,РЎРёР»Р° РўР’
+http://50.7.136.50:8081/silatv/index.m3u8?wmsAuthSign=e20b8034e1e89f1be10374dc7f32287f-1576704584-69i881i512i19
+#EXTINF:-1 ,РЎРїРѕСЂС‚ 1
+http://persik.by/stream/1017/402000/270.m3u8
+#EXTINF:-1 ,РЎРїРѕСЂС‚ 1 (UA)
+https://95-213-224-184.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 ,РЎРїРѕСЂС‚ 2
+http://persik.by/stream/1017/402000/309.m3u8
+#EXTINF:-1 ,РЎРїРѕСЂС‚ 2 (UA)
+http://persik.by/stream/2102/351000/91.m3u8
+#EXTINF:-1 ,РЎС‚Р°СЂС‚
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 ,РўРµР»РµРєР°РЅР°Р» Р¤СѓС‚Р±РѕР»
+http://82.200.127.58:8080/udp/239.54.7.153:1224
+#EXTINF:-1 ,РўРѕС‡РєР° РѕС‚СЂС‹РІР°
+http://109.248.236.41:4433/udp/238.1.1.127:1234
+#EXTINF:-1 ,Р¤СѓС‚Р±РѕР»
+http://37.195.247.86:81/udp/239.1.12.5:1234
