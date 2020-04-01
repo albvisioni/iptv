@@ -1,4 +1,5 @@
-#EXTINF:-1,AL: BeinSport1 FHD http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/60958
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport1 FHD http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/60958
 #EXTINF:-1,AL: BeinSport1 FHD http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/28751
 #EXTINF:-1,AL: BeinSport1 FHD http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/60959
 #EXTINF:-1,AL: BeinSport1 FHD http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/36302
