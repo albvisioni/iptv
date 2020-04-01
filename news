@@ -119,8 +119,6 @@ http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10
 #EXTINF:-1,Weather Nation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1
 
-#EXTINF:-1,  DIELLI TV
-http://51.15.180.159:8081/play/hls/dielli/index.m3u8
 
 #EXTINF:-1,Albanian TV of America
 http://stream.shqiptv.com:7080/altvusa/index.m3u8
@@ -130,26 +128,9 @@ http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:0,RTK4
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1,rrokum tv
-http://178.132.6.97:8080/rrokumtv1/tracks-v1a1/index.m3u8
-#EXTINF:-1,JugTV
-http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:1,Tv2 Gostivar
-http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
-#EXTINF:-1,Tv2 Gostivar http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8 
-
-#EXTINF:-1,SYRIVISION
-http://178.132.6.97:8080/SYRIVISION1/tracks-v1a1/index.m3u8
-#EXTINF:-1, IN TV
-http://80.91.115.211:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,TV LIRIA 
-http://178.132.6.97:8080/tvlir1/tracks-v1a1/index.m3u8
-#EXTINF:-1,TemaTV
-http://edge01eu.ekranet.com/tematv/index.m3u8?e=k6reyce8z5i3u9tbvf&c=tematv&mac=00:1A:79:28:07:98
 
 #EXTINF:-1,SYRIBLUE HD http://live.syri.tv:6969/live/syriblue/hd/23.ts
 
-#EXTINF:-1,Al usa tv http://stream.shqiptv.com:7080/altvusa/index.m3u8
 #EXTINF:,PENDIMI
 http://rtvpendimi.com:8081/hls/RTVPendimi.m3u8
 #EXTINF:1,PEACE
@@ -158,110 +139,16 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://79.106.102.68/hls/rtvnje.m3u8
 
 
-#EXTINF:-1,al usa tv http://stream.shqiptv.com:7080/altvusa/index.m3u8 
 #EXTINF:-1,SYRIBLUE HD http://live.syri.tv:6969/live/syriblue/hd/23.ts 
 #EXTINF:1,ALBUK HD
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1,Opoja TV
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1,ALB MUSIC HD
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1,RTV Zerii Kosoves Danimarke
 http://178.132.6.97/RTVZeriiKosovesDanimarke1/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sharri HD
-http://178.132.6.97:8080/TV:SharriHD1/tracks-v1a1/index.m3u8
-#EXTINF:-1,TV Tetova
-http://178.132.6.97:8080/TVTetova1/tracks-v1a1/index.m3u8 
 #EXTINF:-1,Dasma TV 
 http://91.187.117.230:8080
 
 
-#EXTINF:-1,HR 1 
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1,HR 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1,HR 3 
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1,HR 4
-http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1,RTL 
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,PRIMERA HD
-http://178.132.6.97:8080/TVPlisi1/tracks-v1a1/index.m3u8
-#EXTINF:-1,NOHA A.S
-https://www.youtube.com/watch?v=fDT5RVQE1h0&feature=youtu.be
 
-#EXTINF:-1, Hollywood FILM 1
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1,Ayla_ The Daughter of War 
-https://www.youtube.com/watch?v=aaOg6GrIGI4&feature=youtu.be
-#EXTINF:-1,Hollywood FILM 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Hollywood FILM 3
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
-
-#EXTINF:-1,Hollywood FILM 4
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-
-#EXTINF:-1,Hollywood FILM 5
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:-1,Hollywood FILM 6
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Hollywood FILM 7
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Hollywood FILM 8
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,Hollywood FILM 9
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
-
-#EXTINF:-1,Hollywood FILM 10
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Fox Premium Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1,MAXPRIME
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-
-#EXTINF:-1,Fox Premium Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,Fox Premium Movies
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,Fox Action Movies
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-
-#EXTINF:-1,HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1,HBO 2 International
-http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1,HBO id
-http://87.246.0.155:5286/tv_HBO
-#EXTINF:-1,Social HBO
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:-1,HBO 2
-http://87.246.0.155:5286/tv_HBO_2
-#EXTINF:-1,HBO 3
-http://87.246.0.155:5286/tv_HBO_3
-#EXTINF:-1,hbo
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1,HBO 
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:-1,iptvtools_87
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1,iptvtools_88
-http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
-#EXTINF:-1,iptvtools_89
-http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
-#EXTINF:-1,FILM BOX EXTRA
-http://46.40.5.99:8000/filmbox_extra_high
 
 
 #EXTINF:-1,ALL Sports 
@@ -292,290 +179,6 @@ http://46.40.5.99:8000/arena_3_low
 http://46.40.5.99:8000/arena_4_low
 #EXTINF:-1,A1Sport1
 http://178.132.6.97:80/A1Sport1/index.m3u8
-
-#EXTINF:-1,FILMA 
-
-#EXTINF:-1,iptvtools_604
-http://bit.ly/23BENwZ
-#EXTINF:-1,iptvtools_605
-http://bit.ly/1UzNz8S
-#EXTINF:-1,iptvtools_606
-http://bit.ly/1SREb2E
-#EXTINF:-1,iptvtools_607
-http://bit.ly/1StKwQs
-#EXTINF:-1,iptvtools_608
-http://bit.ly/23BEOB9
-#EXTINF:-1,iptvtools_609
-http://bit.ly/1nW7B2Q
-#EXTINF:-1,iptvtools_610
-http://bit.ly/1OYW4Zo
-#EXTINF:-1,iptvtools_611
-http://bit.ly/1KiXzTn
-#EXTINF:-1,iptvtools_612
-http://bit.ly/1KPjdtz
-#EXTINF:-1,iptvtools_613
-http://bit.ly/1OYW8IC
-#EXTINF:-1,iptvtools_614
-http://bit.ly/1QAhc93
-#EXTINF:-1,iptvtools_615
-http://bit.ly/1Vz0oQS
-#EXTINF:-1,iptvtools_616
-http://bit.ly/1RTJY7M
-#EXTINF:-1,iptvtools_617
-http://bit.ly/2011G8F
-#EXTINF:-1,iptvtools_618
-http://bit.ly/1QPSuTT
-#EXTINF:-1,iptvtools_619
-http://bit.ly/1JRzbIG
-#EXTINF:-1,iptvtools_620
-http://bit.ly/1OYWcbi
-#EXTINF:-1,iptvtools_621
-http://bit.ly/1nFZIPf
-#EXTINF:-1,iptvtools_622
-http://bit.ly/1SkiWa9
-#EXTINF:-1,iptvtools_623
-http://bit.ly/1Q3x8hb
-#EXTINF:-1,iptvtools_624
-http://bit.ly/1StKOXs
-#EXTINF:-1,iptvtools_625
-http://bit.ly/1RTK1Ao
-#EXTINF:-1,iptvtools_626
-http://bit.ly/2011M02
-#EXTINF:-1,iptvtools_627
-http://bit.ly/1RTK3rR
-#EXTINF:-1,iptvtools_628
-http://bit.ly/1Q3xfct
-#EXTINF:-1,iptvtools_629
-http://bit.ly/1QAhlsU
-#EXTINF:-1,iptvtools_630
-http://bit.ly/20A6O5C
-#EXTINF:-1,iptvtools_631
-http://bit.ly/1P5uLdS
-#EXTINF:-1,iptvtools_632
-http://bit.ly/1WUNbmV
-#EXTINF:-1,iptvtools_633
-http://bit.ly/1Q3xh45
-#EXTINF:-1,iptvtools_634
-http://bit.ly/1QAhoF2
-#EXTINF:-1,iptvtools_635
-http://bit.ly/23BF3My
-#EXTINF:-1,iptvtools_636
-http://bit.ly/20A6PGQ
-#EXTINF:-1,iptvtools_637
-http://bit.ly/1QAhn3Z
-#EXTINF:-1,iptvtools_638
-http://bit.ly/1NJdHZc
-#EXTINF:-1,iptvtools_639
-http://bit.ly/1StKXdx
-#EXTINF:-1,iptvtools_640
-http://bit.ly/1PqsnSJ
-#EXTINF:-1,iptvtools_641
-http://bit.ly/1SREtGT
-#EXTINF:-1,iptvtools_642
-http://bit.ly/1OYWAa2
-#EXTINF:-1,iptvtools_643
-http://bit.ly/1nW80m3
-#EXTINF:-1,iptvtools_644
-http://bit.ly/1UzOjL6
-#EXTINF:-1,iptvtools_645
-http://bit.ly/1OYWDT4
-#EXTINF:-1,iptvtools_646
-http://bit.ly/1JRzvXU
-#EXTINF:-1,iptvtools_647
-http://bit.ly/1StL2hn
-#EXTINF:-1,iptvtools_648
-http://bit.ly/23BFc2F
-#EXTINF:-1,iptvtools_649
-http://bit.ly/1TuVA0x
-#EXTINF:-1,iptvtools_650
-http://bit.ly/1m7dzfY
-#EXTINF:-1,iptvtools_651
-http://bit.ly/1L01GyS
-#EXTINF:-1,iptvtools_652
-http://bit.ly/23KJOU3
-#EXTINF:-1,iptvtools_653
-http://bit.ly/1QHPOG4
-#EXTINF:-1,iptvtools_654
-http://bit.ly/1TGa5P9
-#EXTINF:-1,iptvtools_655
-http://bit.ly/1nP8dYr
-#EXTINF:-1,iptvtools_656
-http://193.169.52.206/a-tom-jerry/1-3.mp4
-#EXTINF:-1,TOMiptvtools_657
-http://193.169.52.206/a-tom-jerry/1-2.mp4
-#EXTINF:-1,TOMiptvtools_658
-http://193.169.52.206/a-tom-jerry/1-4.mp4
-#EXTINF:-1,iptvtools_659
-http://193.169.52.206/a-tom-jerry/1-5.mp4
-#EXTINF:-1,iptvtools_660
-http://193.169.52.206/a-tom-jerry/1-6.mp4
-#EXTINF:-1,iptvtools_661
-http://193.169.52.206/a-tom-jerry/1-7.mp4
-#EXTINF:-1,iptvtools_662
-http://193.169.52.206/a-tom-jerry/1-8.mp4
-#EXTINF:-1,iptvtools_663
-http://193.169.52.206/a-tom-jerry/1-9.mp4
-#EXTINF:-1,iptvtools_664
-http://193.169.52.206/a-tom-jerry/1-10.mp4
-#EXTINF:-1,iptvtools_665
-http://193.169.52.206/a-tom-jerry/1-11.mp4
-#EXTINF:-1,iptvtools_666
-http://193.169.52.206/a-tom-jerry/1-12.mp4
-#EXTINF:-1,iptvtools_667
-http://193.169.52.206/a-tom-jerry/1-13.mp4
-#EXTINF:-1,iptvtools_668
-http://193.169.52.206/a-tom-jerry/1-14.mp4
-#EXTINF:-1,iptvtools_669
-http://193.169.52.206/a-tom-jerry/1-15.mp4
-#EXTINF:-1,iptvtools_670
-http://193.169.52.206/a-tom-jerry/1-16.mp4
-#EXTINF:-1,iptvtools_671
-http://193.169.52.206/a-tom-jerry/1-17.mp4
-#EXTINF:-1,iptvtools_672
-http://193.169.52.206/a-tom-jerry/1-18.mp4
-#EXTINF:-1,iptvtools_673
-http://193.169.52.206/a-tom-jerry/1-19.mp4
-#EXTINF:-1,iptvtools_674
-http://193.169.52.206/a-tom-jerry/1-20.mp4
-#EXTINF:-1,iptvtools_675
-http://193.169.52.206/a-tom-jerry/1-21.mp4
-#EXTINF:-1,iptvtools_676
-http://193.169.52.206/a-tom-jerry/1-22.mp4
-#EXTINF:-1,iptvtools_677
-http://193.169.52.206/a-tom-jerry/1-23.mp4
-#EXTINF:-1,iptvtools_678
-http://193.169.52.206/a-tom-jerry/1-24.mp4
-#EXTINF:-1,iptvtools_679
-http://193.169.52.206/a-tom-jerry/1-25.mp4
-#EXTINF:-1,iptvtools_680
-http://193.169.52.206/a-tom-jerry/1-26.mp4
-#EXTINF:-1,iptvtools_681
-http://193.169.52.206/a-tom-jerry/1-27.mp4
-#EXTINF:-1,iptvtools_682
-http://193.169.52.206/a-tom-jerry/1-28.mp4
-#EXTINF:-1,iptvtools_683
-http://193.169.52.206/a-tom-jerry/1-29.mp4
-#EXTINF:-1,iptvtools_684
-http://193.169.52.206/a-tom-jerry/1-31.mp4
-#EXTINF:-1,iptvtools_685
-http://193.169.52.206/a-tom-jerry/1-30.mp4
-#EXTINF:-1,iptvtools_686
-http://193.169.52.206/a-tom-jerry/1-33.mp4
-#EXTINF:-1,iptvtools_687
-http://193.169.52.206/a-tom-jerry/1-32.mp4
-#EXTINF:-1,iptvtools_688
-http://193.169.52.206/a-tom-jerry/1-34.mp4
-#EXTINF:-1,iptvtools_689
-http://193.169.52.206/a-tom-jerry/1-36.mp4
-#EXTINF:-1,iptvtools_690
-http://193.169.52.206/a-tom-jerry/1-35.mp4
-#EXTINF:-1,iptvtools_691
-http://193.169.52.206/a-tom-jerry/1-37.mp4
-#EXTINF:-1,iptvtools_692
-http://193.169.52.206/a-tom-jerry/1-38.mp4
-#EXTINF:-1,iptvtools_693
-http://193.169.52.206/a-tom-jerry/1-39.mp4
-#EXTINF:-1,iptvtools_694
-http://193.169.52.206/a-tom-jerry/1-40.mp4
-#EXTINF:-1,iptvtools_695
-http://193.169.52.206/a-tom-jerry/1-42.mp4
-#EXTINF:-1,iptvtools_696
-http://193.169.52.206/a-tom-jerry/1-41.mp4
-#EXTINF:-1,iptvtools_697
-http://193.169.52.206/a-tom-jerry/1-43.mp4
-#EXTINF:-1,iptvtools_698
-http://193.169.52.206/a-tom-jerry/1-44.mp4
-#EXTINF:-1,iptvtools_699
-http://193.169.52.206/a-tom-jerry/1-45.mp4
-#EXTINF:-1,iptvtools_700
-http://193.169.52.206/a-tom-jerry/1-46.mp4
-#EXTINF:-1,iptvtools_701
-http://193.169.52.206/a-tom-jerry/1-47.mp4
-#EXTINF:-1,iptvtools_702
-http://193.169.52.206/a-tom-jerry/1-48.mp4
-#EXTINF:-1,iptvtools_703
-http://193.169.52.206/a-tom-jerry/1-49.mp4
-#EXTINF:-1,iptvtools_704
-http://193.169.52.206/a-tom-jerry/1-50.mp4
-#EXTINF:-1,iptvtools_705
-http://193.169.52.206/a-tom-jerry/1-51.mp4
-#EXTINF:-1,iptvtools_706
-http://193.169.52.206/a-tom-jerry/1-52.mp4
-#EXTINF:-1,iptvtools_707
-http://193.169.52.206/a-tom-jerry/1-53.mp4
-#EXTINF:-1,iptvtools_708
-http://193.169.52.206/a-tom-jerry/1-55.mp4
-#EXTINF:-1,iptvtools_709
-http://193.169.52.206/a-tom-jerry/1-54.mp4
-#EXTINF:-1,iptvtools_710
-http://193.169.52.206/a-tom-jerry/1-56.mp4
-#EXTINF:-1,iptvtools_711
-http://193.169.52.206/a-tom-jerry/1-57.mp4
-#EXTINF:-1,iptvtools_712
-http://193.169.52.206/a-tom-jerry/1-58.mp4
-#EXTINF:-1,iptvtools_713
-http://193.169.52.206/a-tom-jerry/1-59.mp4
-#EXTINF:-1,iptvtools_714
-http://193.169.52.206/a-tom-jerry/1-60.mp4
-#EXTINF:-1,iptvtools_715
-http://193.169.52.206/a-tom-jerry/1-61.mp4
-#EXTINF:-1,iptvtools_716
-http://193.169.52.206/a-tom-jerry/1-62.mp4
-#EXTINF:-1,iptvtools_717
-http://193.169.52.206/a-tom-jerry/1-63.mp4
-#EXTINF:-1,iptvtools_718
-http://193.169.52.206/a-tom-jerry/1-65.mp4
-#EXTINF:-1,iptvtools_719
-http://193.169.52.206/a-tom-jerry/1-64.mp4
-#EXTINF:-1,iptvtools_720
-http://193.169.52.206/a-tom-jerry/1-66.mp4
-#EXTINF:-1,iptvtools_721
-http://193.169.52.206/a-tom-jerry/1-67.mp4
-#EXTINF:-1,iptvtools_722
-http://193.169.52.206/a-tom-jerry/1-68.mp4
-#EXTINF:-1,iptvtools_723
-http://193.169.52.206/a-tom-jerry/1-69.mp4
-#EXTINF:-1,iptvtools_724
-http://193.169.52.206/a-tom-jerry/1-70.mp4
-#EXTINF:-1,iptvtools_725
-http://193.169.52.206/a-tom-jerry/1-72.mp4
-#EXTINF:-1,iptvtools_728
-http://193.169.52.206/a-tom-jerry/1-74.mp4
-#EXTINF:-1,iptvtools_729
-http://193.169.52.206/a-tom-jerry/1-75.mp4
-#EXTINF:-1,iptvtools_730
-http://193.169.52.206/a-tom-jerry/1-76.mp4
-#EXTINF:-1,iptvtools_731
-http://193.169.52.206/a-tom-jerry/1-77.mp4
-#EXTINF:-1,iptvtools_732
-http://193.169.52.206/a-tom-jerry/1-78.mp4
-
-#EXTINF:0,****FILMA SHQIP****                             
-https://fiona.gjirafa.com/api/media/GjirafaVideo/ballkoni/index1080.m3u8
-#EXTINF:-1, Film Shqip "Te Mjeret"
-https://liki.gjirafa.com/api/media/GjirafaVideo/te-mjeret-film-artistik/index1080.m3u8
-#EXTINF:-1, Film Shqip "Njeri Nga Ata "
-https://liki.gjirafa.com/api/media/GjirafaVideo/njeri-nga-ata-2/index1080.m3u8
-#EXTINF:-1, Film Shqip "Cheers"
-https://liki.gjirafa.com/api/media/GjirafaVideo/cheers/index1080.m3u8
-#EXTINF:-1, Film Shqip "Me Mujt Me Bo e Kishim Bo
-https://fiona.gjirafa.com/api/media/GjirafaVideo/me-mujt-me-bo-e-kishim-bo-film-artistik-2/index1080.m3u8
-#EXTINF:-1, Film Shqip "Perqafimi i Fundit"
-https://fiona.gjirafa.com/api/media/GjirafaVideo/perqafimi-i-fundit/index1080.m3u8
-#EXTINF:-1, Film Shqip "Zonjusha"
-https://liki.gjirafa.com/api/media/GjirafaVideo/zonjusha-film-artistik/index1080.m3u8
-#EXTINF:-1, Film Shqip "Ne Te Tre"
-https://fiona.gjirafa.com/api/media/GjirafaVideo/ne-te-tre/index1080.m3u8
-#EXTINF:-1, Film Shqip "KOLONA"
-https://drejtperdrejte.gjirafa.com/api/media/GjirafaVideo/kolona-3/index1080.m3u8
-#EXTINF:-1, Film Shqip "CLIRIMI"
-https://liki.gjirafa.com/api/media/GjirafaVideo/clirimi/index1080.m3u8
-#EXTINF:-1, Film Shqip "E Kuqja"
-https://liki.gjirafa.com/api/media/GjirafaVideo/e-kuqja/index1080.m3u8
-#EXTINF:-1, Film Shqip "Ferdonija"
-https://liki.gjirafa.com/api/media/GjirafaVideo/ferdonija/index1080.m3u8
-#EXTINF:-1, Film Shqip "Krom"
-https://liki.gjirafa.com/api/media/GjirafaVideo/krom/index720.m3u8
 
 
 
@@ -682,42 +285,7 @@ http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/325
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/546
 #EXTINF:-1, DISCOVERY CHANNEL
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/225
- 
-#EXTINF:-1, TRING ACTION
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/10
-#EXTINF:-1, TRING SUPER
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/11
-#EXTINF:-1, TRING LIFE
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/12
-#EXTINF:-1, TRING COMEDY
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/13
-#EXTINF:-1, TRING SHQIP
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/14
-#EXTINF:-1, TRING FANTASY
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/15
-#EXTINF:-1, 7 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/698
-#EXTINF:-1, TRING 3+
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/16
-#EXTINF:-1, SMILE
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/17
-#EXTINF:-1, LIVING HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/21
-#EXTINF:-1, JOLLY HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/69
-#EXTINF:-1, MUSE
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/61
- 
- 
-#EXTINF:-1, CINESTAR ACTION
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/67
-#EXTINF:-1, FOX CRIME
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/29
-#EXTINF:-1, FOX LIFE
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/30
-#EXTINF:-1, GALAXY HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/326
- 
+
  
 #EXTINF:-1, DIGI GOLD ACTION
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/374
@@ -770,93 +338,9 @@ http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/18
 #EXTINF:-1, TIP TV
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/19
  
-#EXTINF:-1, CLICK TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/38
-#EXTINF:-1, ONTV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/56
-#EXTINF:-1, BBF MUSIK
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/60
-#EXTINF:-1, RTV21 POPULLORE
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/22
-#EXTINF:-1, MUSIK
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/218
-#EXTINF:-1, ELRODI TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/23
-#EXTINF:-1, FOLK
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/27
-#EXTINF:-1, TV SHENJA
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/55
-#EXTINF:-1, AMOL HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/260
-#EXTINF:-1, TURBO CHANNEL
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/261
-#EXTINF:-1, MTV KOSOVA
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/262
-#EXTINF:-1, MY MUSIK
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/219
-#EXTINF:-1, RTV ALDI
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/62
-#EXTINF:-1, RTV21 PLUS
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/81
 #EXTINF:-1, PEACE TV
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/82
-#EXTINF:-1, RTP
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/92
-#EXTINF:-1, TV MITROVICA
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/101
-#EXTINF:-1, TV BESA
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/102
-#EXTINF:-1, TV LIRIA
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/164
-#EXTINF:-1, ZJARR HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/523
-#EXTINF:-1, TV LLAPI
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/538
-#EXTINF:-1, DRITA TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/575
-#EXTINF:-1, RTV DANIMARKA
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/867
-#EXTINF:-1, TV R
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/185
-#EXTINF:-1, MPT2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/35
  
- 
- 
-#EXTINF:-1, SPORT NEWS
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/63
-#EXTINF:-1, SUPER SPORT
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/361
-#EXTINF:-1, SUPER SPORT 2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/64
-#EXTINF:-1, SUPER SPORT 3
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/65
-#EXTINF:-1, SUPER SPORT 4
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/66
-#EXTINF:-1, SUPER SPORT 5
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/360
-#EXTINF:-1, TRING SPORT NEWS
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/28
-#EXTINF:-1, TRING SPORT 1
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/96
-#EXTINF:-1, TRING SPORT 2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/97
-#EXTINF:-1, TRING SPORT 3
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/98
-#EXTINF:-1, KUJTESA SPORT1
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/883
-#EXTINF:-1, KUJTESA SPORT2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/884
-#EXTINF:-1, KUJTESA SPORT3
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/885
-#EXTINF:-1, KUJTESA SPORT 4
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/886
- 
- 
-#EXTINF:-1, HBO 2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/223
-#EXTINF:-1, LUXE TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/36
 #EXTINF:-1, RTSH SPORT
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/476
 #EXTINF:-1, RTSH PLUS
