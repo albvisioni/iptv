@@ -42,6 +42,14 @@ http://dcunilive36-lh.akamaihd.net:80/i/dclive_1@662093/master.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTV Pendimi
 http://tv.rtvpendimi.com:8081/hls/RTVPendimi.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ISLAM CHANNEL 1 HD 
+http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55407
+#EXTINF:0 tvg-id="ext" group-title="Channels",MIX ISLAM HD
+http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55413
+#EXTINF:0 tvg-id="ext" group-title="Channels",BANGL-ATN ISLAMIC TV
+http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/53715
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Report TV
 http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 #EXTINF:0 tvg-id="RrokumTV.al" group-title="Channels",Rrokum
