@@ -90,3 +90,13 @@ http://84.22.33.254/unicast.tvmitrovica/index.m3u8
 
 #EXTINF:-1 tvg-id="Tring tring" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring tring
 http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SKYACTION" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", SKYACTION
+http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SKYCOMEDY" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", SKYCOMEDY
+http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SKYMAX" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", SKYMAX
+http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
+
