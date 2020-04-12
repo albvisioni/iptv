@@ -1,4 +1,4 @@
-#EXTINF:1,NEWS24
+#EXTINF:1 tvg-id="ext" group-title="Channels",NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",AlbMUSIC
@@ -55,10 +55,11 @@ http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
 
 
-#EXTINF:-1,DW 
+#EXTINF:-1 tvg-id="ext" group-title="Channels", DW 
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on 
 
-#EXTINF:-1,SYRIBLUE HD http://live.syri.tv:6969/live/syriblue/hd/23.ts 
+#EXTINF:-1 tvg-id="ext" group-title="Channels", SYRIBLUE HD 
+http://live.syri.tv:6969/live/syriblue/hd/23.ts 
 
 #EXTINF:-1 tvg-id="Alsat-M" tvg-logo="http://albepg.com/tvlogi/Alsat-M.png" group-title="Channels", Alsat M
 http://84.22.33.254/unicast_alsatmm/index.m3u8
