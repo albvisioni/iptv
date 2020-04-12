@@ -112,3 +112,8 @@ http://5.135.92.133:52841/out/u/456_1.m3u8
 #EXTINF:-1 tvg-id="Tring " tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Planet1
 http://5.135.92.133:52841/out/u/457_1.m3u8
 
+#EXTINF:-1 tvg-id="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring World1
+http://5.135.92.133:52841/out/u/455_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Planet" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Planet2
+http://5.135.92.133:52841/out/u/454_1.m3u8
