@@ -67,24 +67,3 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1,SYRIBLUE HD http://live.syri.tv:6969/live/syriblue/hd/23.ts 
 
 
-#EXTINF:-1,AL: 7 NEWS
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40693
-#EXTINF:-1,AL: ABC News FHD
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40702
-#EXTINF:-1,AL: Arta News Backup
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40740
-#EXTINF:-1,AL: Arta News FHD
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40741
-#EXTINF:-1,AL: Fax News HD
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40795
-#EXTINF:-1,AL: Kanali 7
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40858
-#EXTINF:-1,AL: News 24 FHD
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40938
-#EXTINF:-1,AL: Ora News FHD
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40946
-#EXTINF:-1,AL: Super Sport News HD
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41049
-#EXTINF:-1,AL: Top News HD
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41064
-
