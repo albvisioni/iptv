@@ -60,8 +60,8 @@ http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10
 
 #EXTINF:-1,SYRIBLUE HD http://live.syri.tv:6969/live/syriblue/hd/23.ts 
 
-#EXTINF:-1 tvg-id="Alsat-M" tvg-logo="http://albepg.com/tvlogi/Alsat-M.png" group-title="Albania", Alsat M
+#EXTINF:-1 tvg-id="Alsat-M" tvg-logo="http://albepg.com/tvlogi/Alsat-M.png" group-title="Channels", Alsat M
 http://84.22.33.254/unicast_alsatmm/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC News" tvg-logo="http://abcnews.al/wp-content/uploads/2017/10/abclogo.png" group-title="Albania", Abc News 24/7
+#EXTINF:-1 tvg-id="ABC News" tvg-logo="http://abcnews.al/wp-content/uploads/2017/10/abclogo.png" group-title="Channels", Abc News 24/7
 http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
