@@ -1,83 +1,32 @@
-#EXTINF:-1, Klan Al
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55152
-#EXTINF:-1, TOP CHANNEL HD
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55150
-#EXTINF:-1, KLAN MACEDONIA
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55159
-
-#EXTINF:-1,Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1, Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:-1,AL: Top News HD
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41064
-#EXTINF:-1,AL: UTV News
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41124
-#EXTINF:-1,AL: Klan Po
-http://95.107.132.131:3344/udp/235.0.0.1:9009
-
 #EXTINF:1,NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1,ReportTV
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-#EXTINF:-1,OraNews
-http://145.239.2.153:8081/oranews/live/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",AlbMUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Apollon TV
-http://185.80.224.14:8095/hls/stream.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",EUROAL
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 #EXTINF:0 tvg-id="FineLiving.ru" group-title="Channels",Fine Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Koha TV
-rtmp://live.tvkoha.tv:1935/live/koha/livestream
+
 #EXTINF:0 tvg-id="news24" group-title="Channels",News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:0 tvg-id="news24" group-title="Channels",News 24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ora TV
-http://dcunilive36-lh.akamaihd.net:80/i/dclive_1@662093/master.m3u8
+
 #EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTV Pendimi
 http://tv.rtvpendimi.com:8081/hls/RTVPendimi.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",ISLAM CHANNEL 1 HD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55407
-#EXTINF:0 tvg-id="ext" group-title="Channels",MIX ISLAM HD
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55413
-#EXTINF:0 tvg-id="ext" group-title="Channels",BANGL-ATN ISLAMIC TV
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/53715
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",Report TV
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-#EXTINF:0 tvg-id="RrokumTV.al" group-title="Channels",Rrokum
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:0 tvg-id="RrokumTV.al" group-title="Channels",Rrokum TV
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:0 tvg-id="RTK.al" group-title="Channels",RTK 1 HD
-http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="RTK.al" group-title="Channels",RTK 1 HD
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTK 3
 http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist_w2121045972.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTK 4
-http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTK 4
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTK 4
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist_w599618358.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 1 HD
-http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 1 HD
 http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTSH 2 HD
@@ -372,77 +321,4 @@ http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40946
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41049
 #EXTINF:-1,AL: Top News HD
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41064
-#EXTINF:-1,AL: UTV News
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41124
-#EXTINF:-1,AL: Klan
-http://95.107.132.131:3344/udp/235.0.0.1:9009
 
-
-#EXTINF:-1, TOP CHANNEL HD
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55150
-#EXTINF:-1, Klan Al
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55152
-#EXTINF:-1, Vizion Plus
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55156
-#EXTINF:-1, KLAN KOSOVA HD
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55158
-#EXTINF:-1, KLAN MACEDONIA
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55159
-#EXTINF:-1, ALSAT M
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55160
-#EXTINF:-1, EXPLORER SHKENCE
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55337
-#EXTINF:-1, EXPLORER NATYRA
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55338
-#EXTINF:-1, EXPLORER HISTORI
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55339
-#EXTINF:-1, TRING HISTORY
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55340
-#EXTINF:-1, TRING PLANET
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55341
-#EXTINF:-1, TRING WORLD
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55342
-#EXTINF:-1, X HISTORI HD
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55343
-#EXTINF:-1, X NATYRA HD
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55344
-#EXTINF:-1, X SHKENCE HD
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55345
-#EXTINF:-1, K SPORT 1 HD
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/55396
-
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport1 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/60958
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport2 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/28751
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport3 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/60959
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport4 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/36302
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport5 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/36301
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport6 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/36300
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport7 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/36299
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport8 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/36298
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport9 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/36297
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport10 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/36296
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport11 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/36295
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport12 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/36294
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport13 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/36293
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport14 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/63499
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport15 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/63500
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport16 FHD 
-http://www.sansat.net:25461/qFCNiUSFGGoMRbe/SI1vL6QHpUgOaEy/63501
