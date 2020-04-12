@@ -19,9 +19,6 @@ http://tv.rtvpendimi.com:8081/hls/RTVPendimi.m3u8
 #EXTINF:0 tvg-id="RTK.al" group-title="Channels",RTK 1 HD
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTK 2
-http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTK 3
 http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 
