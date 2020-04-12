@@ -101,4 +101,7 @@ http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring World
-http://5.135.92.133:3a52841/out/u/459_1.m3u8
+http://5.135.92.133:52841/out/u/459_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Planet" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Planet
+http://5.135.92.133:52841/out/u/458_1.m3u8
