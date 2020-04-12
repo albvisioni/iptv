@@ -66,3 +66,25 @@ http://84.22.33.254/unicast_alsatmm/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC News" tvg-logo="http://abcnews.al/wp-content/uploads/2017/10/abclogo.png" group-title="Channels", Abc News 24/7
 http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arta HD" tvg-logo="http://albepg.com/tvlogi/Arta%20HD.png" group-title="Albania", Arta News
+http://84.22.33.254/unicast.artanews/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yMZj9fG.jpg" group-title="Albania", Premium Channel
+http://premium-channel.tv/stream.m3u8
+
+#EXTINF:-1 tvg-id="Report TV" tvg-logo="http://albepg.com/tvlogi/Report%20TV.png" group-title="Albania", Report Tv
+http://84.22.33.214/ReportTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.albepg.com/tvlogi/Sot7.png" group-title="Albania", Sot 7
+http://93.188.164.35:1935/live/sot7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Syri Net
+https://tv.syri.net/syrilive/webtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Living HD
+http://84.22.33.254/unicast.tringlivinghd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/tv%20mitrovica.png" group-title="Albania", Tv Mitrovica
+http://84.22.33.254/unicast.tvmitrovica/index.m3u8
+
