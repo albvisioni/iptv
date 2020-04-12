@@ -88,5 +88,5 @@ http://84.22.33.254/unicast.tringlivinghd/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/tv%20mitrovica.png" group-title="Albania", Tv Mitrovica
 http://84.22.33.254/unicast.tvmitrovica/index.m3u8
 
-#EXTINF:-1 tvg-id="Klan HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Klan HD
-http://iptvworld.ml:2095/ckin/ckin/34433
+#EXTINF:-1 tvg-id="Tring tring" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring tring
+http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
