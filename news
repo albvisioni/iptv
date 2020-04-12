@@ -18,6 +18,10 @@ http://tv.rtvpendimi.com:8081/hls/RTVPendimi.m3u8
 
 #EXTINF:0 tvg-id="RTK.al" group-title="Channels",RTK 1 HD
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTK 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTK 3
 http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 
@@ -82,22 +86,19 @@ http://93.188.164.35:1935/live/sot7/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Syri Net
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Living HD
-http://84.22.33.254/unicast.tringlivinghd/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/tv%20mitrovica.png" group-title="Albania", Tv Mitrovica
 http://84.22.33.254/unicast.tvmitrovica/index.m3u8
 
-#EXTINF:-1 tvg-id="Tring tring" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring tring
-http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Tip TV" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tip TV
+http://ott.artmott.com/TipTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SKYACTION" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", SKYACTION
+#EXTINF:-1 tvg-id="SKYACTION" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Film Aksion
 http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SKYCOMEDY" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", SKYCOMEDY
+#EXTINF:-1 tvg-id="SKYCOMEDY" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Film Comedy
 http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SKYMAX" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", SKYMAX
+#EXTINF:-1 tvg-id="SKYMAX" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Film Max
 http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring World
@@ -109,11 +110,50 @@ http://5.135.92.133:52841/out/u/458_1.m3u8
 #EXTINF:-1 tvg-id="Tring History" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring History
 http://5.135.92.133:52841/out/u/456_1.m3u8
 
+#EXTINF:-1 tvg-id="Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Living HD
+http://84.22.33.254/unicast.tringlivinghd/index.m3u8
+
+#EXTINF:-1 tvg-id="Tring tring" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring tring
+http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tring Kids" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Kids
+http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Tring " tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring #rrinështëpi
 http://5.135.92.133:52841/out/u/457_1.m3u8
 
-#EXTINF:-1 tvg-id="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Muse
+#EXTINF:-1 tvg-id="Tring Muse" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Muse
 http://5.135.92.133:52841/out/u/461_1.m3u8
 
-#EXTINF:-1 tvg-id="Tring Planet" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Planet2
-http://5.135.92.133:52841/out/u/460_1.m3u8
+#EXTINF:-1 tvg-id="Tring Super" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Super
+http://5.135.92.133:52841/out/u/470_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Life" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Life
+http://5.135.92.133:52841/out/u/25_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring International" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring International
+http://5.135.92.133:52841/out/u/437_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Action" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Action
+http://5.135.92.133:52841/out/u/530_1.m3u8
+
+#EXTINF:-1 tvg-id="Tring Comedy" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Comedy
+http://ott.artmott.com/TringComedy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tring Fantasy" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Fantasy
+http://ott.artmott.com/TringFantasy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tring Shqip" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring Shqip
+http://ott.artmott.com/TringShqip/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tring 3" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Tring 3
+http://5.135.92.133:52841/out/u/496_1.m3u8
+
+#EXTINF:-1 tvg-id="TV Ari" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", TV Ari
+http://live.aritv.ch:6969/live/ari/tv/1.ts
+
+#EXTINF:-1 tvg-id="TV Kopliku" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", TV Kopliku
+http://alb.123alb.com:25461/live/l/l/2146.m3u8
+
+#EXTINF:-1 tvg-id="Zeri TV" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Zeri TV
+http://ott.artmott.com/Zeri/tracks-v1a1/mono.m3u8
