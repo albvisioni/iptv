@@ -1,9 +1,6 @@
 #EXTINF:1 tvg-id="ext" group-title="Channels",NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Channels", Ora News
-http://tv.oranews.tv/live/oranews/index.m3u8 
-
 #EXTINF:-1 tvg-id="ABC News" tvg-logo="http://abcnews.al/wp-content/uploads/2017/10/abclogo.png" group-title="Channels", Abc News 24/7
 http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
 
@@ -15,11 +12,13 @@ http://84.22.33.214/ReportTV/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",AlbMUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",EUROAL
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+
 #EXTINF:0 tvg-id="FineLiving.ru" group-title="Channels",Fine Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 
@@ -62,8 +61,10 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV Dielli
 http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+
 #EXTINF:0 tvg-id="tv7" group-title="Channels",TV7
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Zjarr TV
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
 
@@ -77,10 +78,7 @@ http://84.22.33.254/unicast_alsatmm/index.m3u8
 http://ott.artmott.com/Rtv21M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV Koha" tvg-logo="http://albepg.com/tvlogi/Alsat-.png" group-title="Channels", TV Koha
-rtmp://live.tvkoha.tv:1935/live/koha/livestream
-
-#EXTINF:-1 tvg-id="ext" group-title="Channels", Ora
-http://tv.oranews.tv/live/ora/index.m3u8 
+rtmp://live.tvkoha.tv:1935/live/koha/livestream 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.albepg.com/tvlogi/Sot7.png" group-title="Albania", Sot 7
 http://93.188.164.35:1935/live/sot7/playlist.m3u8
