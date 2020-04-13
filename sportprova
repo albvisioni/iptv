@@ -1,5 +1,5 @@
 #NAME Stream Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.peers.tv/streaming/nashfootballhd/16/copy/playlist.m3u8?#User-Agent=DuneHD/1.0.3:??? ?????? HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http://hls.peers.tv/streaming/nashfootballhd/16/copy/playlist.m3u8?#User-Agent=DuneHD/1.0.3:??? ?????? HD
 #DESCRIPTION ??? ?????? HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.peers.tv/streaming/nash_futbol/16/variable.m3u8?#User-Agent=DuneHD/1.0.3:??? ?????? SD
 #DESCRIPTION ??? ?????? SD
