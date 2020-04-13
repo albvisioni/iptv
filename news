@@ -8,7 +8,7 @@ http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
 http://84.22.33.254/unicast.artanews/index.m3u8
 
 #EXTINF:-1 tvg-id="Report TV" tvg-logo="http://albepg.com/tvlogi/Report%20TV.png" group-title="Albania", Report Tv
-http://84.22.33.214/ReportTV/index.m3u8
+http://95.107.132.131:3344/udp/238.20.15.5:9009
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",AlbMUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
