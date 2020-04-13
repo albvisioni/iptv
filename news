@@ -1,6 +1,18 @@
 #EXTINF:1 tvg-id="ext" group-title="Channels",NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ext" group-title="Channels", Ora News
+http://tv.oranews.tv/live/oranews/index.m3u8 
+
+#EXTINF:-1 tvg-id="ABC News" tvg-logo="http://abcnews.al/wp-content/uploads/2017/10/abclogo.png" group-title="Channels", Abc News 24/7
+http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arta HD" tvg-logo="http://albepg.com/tvlogi/Arta%20HD.png" group-title="Albania", Arta News
+http://84.22.33.254/unicast.artanews/index.m3u8
+
+#EXTINF:-1 tvg-id="Report TV" tvg-logo="http://albepg.com/tvlogi/Report%20TV.png" group-title="Albania", Report Tv
+http://84.22.33.214/ReportTV/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",AlbMUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",AlbUK TV
@@ -55,10 +67,6 @@ http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Zjarr TV
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="ext" group-title="Channels", DW 
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on 
-
 #EXTINF:-1 tvg-id="ext" group-title="Channels", SYRIBLUE HD 
 http://live.syri.tv:6969/live/syriblue/hd/23.ts 
 
@@ -71,20 +79,14 @@ http://ott.artmott.com/Rtv21M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV Koha" tvg-logo="http://albepg.com/tvlogi/Alsat-.png" group-title="Channels", TV Koha
 rtmp://live.tvkoha.tv:1935/live/koha/livestream
 
-#EXTINF:-1 tvg-id="ABC News" tvg-logo="http://abcnews.al/wp-content/uploads/2017/10/abclogo.png" group-title="Channels", Abc News 24/7
-http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Arta HD" tvg-logo="http://albepg.com/tvlogi/Arta%20HD.png" group-title="Albania", Arta News
-http://84.22.33.254/unicast.artanews/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yMZj9fG.jpg" group-title="Albania", Premium Channel
-http://premium-channel.tv/stream.m3u8
-
-#EXTINF:-1 tvg-id="Report TV" tvg-logo="http://albepg.com/tvlogi/Report%20TV.png" group-title="Albania", Report Tv
-http://84.22.33.214/ReportTV/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Channels", Ora
+http://tv.oranews.tv/live/ora/index.m3u8 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.albepg.com/tvlogi/Sot7.png" group-title="Albania", Sot 7
 http://93.188.164.35:1935/live/sot7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yMZj9fG.jpg" group-title="Albania", Premium Channel
+http://premium-channel.tv/stream.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Syri Net
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
@@ -158,5 +160,5 @@ http://live.aritv.ch:6969/live/ari/tv/1.ts
 #EXTINF:-1 tvg-id="TV Kopliku" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", TV Kopliku
 http://alb.123alb.com:25461/live/l/l/2146.m3u8
 
-#EXTINF:-1 tvg-id="Zeri TV" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", Zeri TV
-http://ott.artmott.com/Zeri/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTV Zik Danimarke" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", RTV Zik Danimarke
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
