@@ -1,6 +1,12 @@
 #EXTINF:1 tvg-id="ext" group-title="Channels",NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Syri Net
+https://tv.syri.net/syrilive/webtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Uskana" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", TV Uskana
+http://188.44.8.20:60000/TvUskana
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",AlbMUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 
@@ -74,9 +80,6 @@ http://93.188.164.35:1935/live/sot7/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yMZj9fG.jpg" group-title="Albania", Premium Channel
 http://premium-channel.tv/stream.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Syri Net
-https://tv.syri.net/syrilive/webtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/tv%20mitrovica.png" group-title="Albania", Tv Mitrovica
 http://84.22.33.254/unicast.tvmitrovica/index.m3u8
 
@@ -98,5 +101,3 @@ http://live.aritv.ch:6969/live/ari/tv/1.ts
 #EXTINF:-1 tvg-id="TV Dukagjini" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", TV Dukagjini
 http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TV Uskana" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", TV Uskana
-http://188.44.8.20:60000/TvUskana
