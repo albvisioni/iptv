@@ -1,6 +1,21 @@
-#EXTINF:0 tvg-country="GB;US" tvg-logo="" group-title="Sport",Sky Sports Main Event
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24150.m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Main Event FHD
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24149.m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Mix
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/24156.m3u8
+#EXTINF:-1,Sport Klub 1
+http://46.234.100.41:8080/sk1/index.m3u8
+#EXTINF:-1,Sport Klub 2
+http://46.234.100.41:8080/sk2/index.m3u8
+#EXTINF:-1,Sport Klub 3
+http://46.234.100.41:8080/sk3/index.m3u8
+#EXTINF:-1,Sport Klub 4
+http://46.234.100.41:8080/sk4/index.m3u8
+#EXTINF:-1,Sport Klub 5
+http://46.234.100.41:8080/sk5/index.m3u8
+#EXTINF:-1,Sport Klub 6
+http://46.234.100.41:8080/sk6/index.m3u8
+
+#EXTINF:-1,Arena Sport 1
+http://46.234.100.41:8080/arena1/index.m3u8
+#EXTINF:-1,Arena Sport 2
+http://46.234.100.41:8080/arena2/index.m3u8
+#EXTINF:-1,Arena Sport 3
+http://46.234.100.41:8080/arena3/index.m3u8
+#EXTINF:-1,Arena Sport 4
+http://46.234.100.41:8080/arena4/index.m3u8
