@@ -1,25 +1,17 @@
+#EXTINF:-1 tvg-id="TV Uskana" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", TV Uskana
+http://188.44.8.20:60000/TvUskana
+
 #EXTINF:1 tvg-id="ext" group-title="Channels",NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Albania", Syri Net
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Uskana" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", TV Uskana
-http://188.44.8.20:60000/TvUskana
+#EXTINF:-1 tvg-id="ext" group-title="Channels", SYRIBLUE HD 
+http://live.syri.tv:6969/live/syriblue/hd/23.ts 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",AlbMUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",AlbUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",EUROAL
-http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
-
-#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Peace TV
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Pendimi
-http://tv.rtvpendimi.com:8081/hls/RTVPendimi.m3u8
 
 #EXTINF:0 tvg-id="RTK.al" group-title="Channels",RTK 1 HD
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
@@ -33,25 +25,23 @@ http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:0 tvg-id="tv7" group-title="Channels",TV7
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Channels", SYRIBLUE HD 
-http://live.syri.tv:6969/live/syriblue/hd/23.ts 
+## Sports MAX HD ##
 
-#EXTINF:-1 tvg-id="TV Ari" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Albania", TV Ari
-http://live.aritv.ch:6969/live/ari/tv/1.ts
 
-#EXTINF:-1 tvg-logo="http://tv21.tv/mk/wp-content/uploads/2019/08/Logo_TV21_1_PNG.png" group-title="Kosova",21
-https://freeiptvm3ulists.com/m3ufile/albanian-m3u8-plex-free-list-sunday-11th-july-2021_11-07-2021.m3u
 
-## beIN Sports MAX HD ##
-#EXTINF:-1,beIN Sports 1 HD Fr
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289637
-#EXTINF:-1,beIN Sports 2 HD Fr
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289638
-#EXTINF:-1,beIN Sports 3 HD 
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289639
+## TV ##
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Klan TV FHD" tvg-logo="http://185.165.243.195/logo_plus/ALBANIA/KLAN.png" group-title="EU | ALBANIA",|ALB| Klan TV FHD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/33453
 
-#EXTINF:-1,24 Kitchen
-https://list.iptvcat.com/my_list/s/b535bc96564c11e554bbb790f1860e09.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Dukagjini FHD" tvg-logo="https://dracarys.gjirafa.com/api/storage/gjvideo/images/channel/desktop/dukagjini.jpg" group-title="EU | ALBANIA",|ALB| Dukagjini FHD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/33426
 
-#EXTINF:-1,Cufo
-http://rv.therevenge.co:80/live/242424/242424/82111.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| First Channel" tvg-logo="http://185.165.243.195/logo_plus/ALBANIA/FIRSTCHANEL.png" group-title="EU | ALBANIA",|ALB| First Channel
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/33440
+
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Gjurme Shqipetare TV" tvg-logo="https://top-channel.tv/wp-content/uploads/2017/11/logo_gjurme.png" group-title="EU | ALBANIA",|ALB| Gjurme Shqipetare TV
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/33446
+
+## ISLAM ##
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
