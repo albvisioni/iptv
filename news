@@ -52,5 +52,9 @@ http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/33446
 #EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
-#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Big Brother 
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Top Channel 
 http://62.210.152.92:25461/kanale2/Ass/8
+
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Top Channel 1
+
+http://jjkdomain123.one:80/Charlie/Charlie/768111
