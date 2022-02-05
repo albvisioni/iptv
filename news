@@ -59,6 +59,5 @@ http://62.210.152.92:25461/kanale2/Ass/8
 http://jjkdomain123.one:80/Charlie/Charlie/768111
 
 
-#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Top Channel 2
-http://rv.therevenge.co:80/live/242424/242424/82186.m3u8
-
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Big Brother 1
+http://us.bestvideostreaming.is/8803/
