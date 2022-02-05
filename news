@@ -58,8 +58,8 @@ http://62.210.152.92:25461/kanale2/Ass/8
 #EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Bang Bang 
 http://93.157.62.180/BangBang/index.m3u8
 
-#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Tring World
-http://93.157.62.180/TringWorld/index.m3u8
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",Tring Cufo
+http://93.157.62.180/TringCufo/index.m3u8
 
 #EXTINF:0 tvg-id="PeaceTV.uk" group-title="Channels",
 http://us.bestvideostreaming.is/8803/
