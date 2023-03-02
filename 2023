@@ -1,75 +1,505 @@
-#EXTINF:-1,ALB: 24 Kitchen
-http://moontools.me:8080/chino28/4guQTT7nqg/1175600
-#EXTINF:-1,ALB: A-Mol TV
-http://moontools.me:8080/chino28/4guQTT7nqg/1175601
-#EXTINF:-1,ALB: A1 Shqiptare
-http://moontools.me:8080/chino28/4guQTT7nqg/1175602
-#EXTINF:-1,ALB: A1 report
-http://moontools.me:8080/chino28/4guQTT7nqg/1175603
-#EXTINF:-1,ALB: A2  CNN
-http://moontools.me:8080/chino28/4guQTT7nqg/1175604
-#EXTINF:-1,ALB: ALB UK
-http://moontools.me:8080/chino28/4guQTT7nqg/1175605
-#EXTINF:-1,ALB: ARTA news
-http://moontools.me:8080/chino28/4guQTT7nqg/1175606
-#EXTINF:-1,ALB: Abc News
-http://moontools.me:8080/chino28/4guQTT7nqg/1175607
-#EXTINF:-1,ALB: Alb swiss
-http://moontools.me:8080/chino28/4guQTT7nqg/1175608
-#EXTINF:-1,ALB: Alsat M 4K
-http://moontools.me:8080/chino28/4guQTT7nqg/1175609
-#EXTINF:-1,ALB: Alsat M HD
-http://moontools.me:8080/chino28/4guQTT7nqg/1175610
-#EXTINF:-1,ALB: Alsat M sd
-http://moontools.me:8080/chino28/4guQTT7nqg/1175611
-#EXTINF:-1,ALB: Animal Planet
-http://moontools.me:8080/chino28/4guQTT7nqg/1175612
-#EXTINF:-1,ALB: Art Doku 1 HD
-http://moontools.me:8080/chino28/4guQTT7nqg/1175613
-#EXTINF:-1,ALB: Art Doku 2 HD
-http://moontools.me:8080/chino28/4guQTT7nqg/1175614
-#EXTINF:-1,ALB: Art Kino 1 HD
-http://moontools.me:8080/chino28/4guQTT7nqg/1175615
-#EXTINF:-1,ALB: Art Kino 2 HD
-http://moontools.me:8080/chino28/4guQTT7nqg/1175616
-#EXTINF:-1,ALB: Art Kino 3 HD
-http://moontools.me:8080/chino28/4guQTT7nqg/1175617
-#EXTINF:-1,ALB: Art Sport 1 HD
-http://moontools.me:8080/chino28/4guQTT7nqg/1175618
-#EXTINF:-1,ALB: Art Sport 2 HD
-http://moontools.me:8080/chino28/4guQTT7nqg/1175619
-#EXTINF:-1,ALB: Art Sport 3 HD
-http://moontools.me:8080/chino28/4guQTT7nqg/1175620
-#EXTINF:-1,ALB: BBF
-http://moontools.me:8080/chino28/4guQTT7nqg/1175621
-#EXTINF:-1,ALB: BBF Music
-http://moontools.me:8080/chino28/4guQTT7nqg/1175622
-#EXTINF:-1,ALB: Baby Tv
-http://moontools.me:8080/chino28/4guQTT7nqg/1175623
-#EXTINF:-1,ALB: Baby bus
-http://moontools.me:8080/chino28/4guQTT7nqg/1175624
-#EXTINF:-1,ALB: Balkan Tv
-http://moontools.me:8080/chino28/4guQTT7nqg/1175625
-#EXTINF:-1,ALB: Ballkanika
-http://moontools.me:8080/chino28/4guQTT7nqg/1175626
-#EXTINF:-1,ALB: Bang Bang
-http://moontools.me:8080/chino28/4guQTT7nqg/1175627
-#EXTINF:-1,ALB: Blue Sky TV HD
-http://moontools.me:8080/chino28/4guQTT7nqg/1175628
-#EXTINF:-1,ALB: Boin TV
-http://moontools.me:8080/chino28/4guQTT7nqg/1175629
-#EXTINF:-1,ALB: Boomerang
-http://moontools.me:8080/chino28/4guQTT7nqg/1175630
-#EXTINF:-1,ALB: Cartoon Network
-http://moontools.me:8080/chino28/4guQTT7nqg/1175631
-#EXTINF:-1,ALB: KTV  telekom
-http://moontools.me:8080/chino28/4guQTT7nqg/1175632
-#EXTINF:-1,ALB: Cufo
-http://moontools.me:8080/chino28/4guQTT7nqg/1175633
-#EXTINF:-1,ALB: DIASPORA TV
-http://moontools.me:8080/chino28/4guQTT7nqg/1175634
-#EXTINF:-1,ALB: Dasma
-http://moontools.me:8080/chino28/4guQTT7nqg/1175635
-#EXTINF:-1,ALB: Discovery Channel
-http://moontools.me:8080/chino28/4guQTT7nqg/1175636
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MaximumTv " tvg-logo="" group-title="SHQIPTARE",MaximumTv 
+http://brutus.biz:2082/anic/anic/885
+#EXTINF:-1 tvg-id="493c25a6ed17cbf1e529392caa0c59a7" tvg-name="Top Channel HD" tvg-logo="" group-title="SHQIPTARE",Top Channel HD
+http://brutus.biz:2082/anic/anic/184
+#EXTINF:-1 tvg-id="33d8851a1b51a4ed5eac1dc1cedce2e2" tvg-name="Klan HD" tvg-logo="" group-title="SHQIPTARE",Klan HD
+http://brutus.biz:2082/anic/anic/185
+#EXTINF:-1 tvg-id="86f3b7288e077243bcc011d22e8a7b28" tvg-name="Abc News HD" tvg-logo="" group-title="SHQIPTARE",Abc News HD
+http://brutus.biz:2082/anic/anic/186
+#EXTINF:-1 tvg-id="fcba3e81918046ea83d9957eaec93897" tvg-name="VizionPlus HD" tvg-logo="" group-title="SHQIPTARE",VizionPlus HD
+http://brutus.biz:2082/anic/anic/188
+#EXTINF:-1 tvg-id="9e106317ee9c28eed1a67a221b3db5c6" tvg-name="Top News" tvg-logo="" group-title="SHQIPTARE",Top News
+http://brutus.biz:2082/anic/anic/193
+#EXTINF:-1 tvg-id="" tvg-name="INFO 24 HD" tvg-logo="" group-title="SHQIPTARE",INFO 24 HD
+http://brutus.biz:2082/anic/anic/882
+#EXTINF:-1 tvg-id="0f71d3339bbb04be57e3d22263f8726c" tvg-name="Klan News" tvg-logo="" group-title="SHQIPTARE",Klan News
+http://brutus.biz:2082/anic/anic/196
+#EXTINF:-1 tvg-id="0f321b300cfacf6e96db364e99bc314f" tvg-name="News 24" tvg-logo="" group-title="SHQIPTARE",News 24
+http://brutus.biz:2082/anic/anic/214
+#EXTINF:-1 tvg-id="b59a8d1d3ace3d09820241888d01e206" tvg-name="SYRI HD" tvg-logo="" group-title="SHQIPTARE",SYRI HD
+http://brutus.biz:2082/anic/anic/192
+#EXTINF:-1 tvg-id="2bef157934afef38bcabe120618955ac" tvg-name="Ora News" tvg-logo="" group-title="SHQIPTARE",Ora News
+http://brutus.biz:2082/anic/anic/212
+#EXTINF:-1 tvg-id="8638ee37a2bdb562b2487468483e460b" tvg-name="EURONEWS ALBANIA HD" tvg-logo="" group-title="SHQIPTARE",EURONEWS ALBANIA HD
+http://brutus.biz:2082/anic/anic/191
+#EXTINF:-1 tvg-id="aeaa8695451ba3e1159c56cb69ce2e9c" tvg-name="RTV Ora" tvg-logo="" group-title="SHQIPTARE",RTV Ora
+http://brutus.biz:2082/anic/anic/213
+#EXTINF:-1 tvg-id="42b92aaa2d5ef7893afd4c28a194dd6c" tvg-name="Report TV" tvg-logo="" group-title="SHQIPTARE",Report TV
+http://brutus.biz:2082/anic/anic/210
+#EXTINF:-1 tvg-id="" tvg-name="MCN Tv" tvg-logo="" group-title="SHQIPTARE",MCN Tv
+http://brutus.biz:2082/anic/anic/548
+#EXTINF:-1 tvg-id="64703021d121ed9997e5d1a1ab15f633" tvg-name="SCAN" tvg-logo="" group-title="SHQIPTARE",SCAN
+http://brutus.biz:2082/anic/anic/190
+#EXTINF:-1 tvg-id="99517c92a76b8da249ae964617523b4b" tvg-name="Klan Plus HD" tvg-logo="" group-title="SHQIPTARE",Klan Plus HD
+http://brutus.biz:2082/anic/anic/187
+#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD" tvg-logo="" group-title="SHQIPTARE",Klan Kosova HD
+http://brutus.biz:2082/anic/anic/425
+#EXTINF:-1 tvg-id="d00cd82b571495e72fc362f9ac4ba670" tvg-name="KLAN MACEDONIA" tvg-logo="" group-title="SHQIPTARE",KLAN MACEDONIA
+http://brutus.biz:2082/anic/anic/194
+#EXTINF:-1 tvg-id="f0d985301c62cdffe97f3a9e1edbbb62" tvg-name="RTSH HD" tvg-logo="" group-title="SHQIPTARE",RTSH HD
+http://brutus.biz:2082/anic/anic/197
+#EXTINF:-1 tvg-id="f19201dd3a522717df7d71795f5a3632" tvg-name="RTSH 2 HD" tvg-logo="" group-title="SHQIPTARE",RTSH 2 HD
+http://brutus.biz:2082/anic/anic/198
+#EXTINF:-1 tvg-id="4e73f9bc66069cc4725533764d3e54f6" tvg-name="RTSH 3" tvg-logo="" group-title="SHQIPTARE",RTSH 3
+http://brutus.biz:2082/anic/anic/199
+#EXTINF:-1 tvg-id="ed145532400964cafdedde6c45f9f623" tvg-name="RTSH Sport HD" tvg-logo="" group-title="SHQIPTARE",RTSH Sport HD
+http://brutus.biz:2082/anic/anic/200
+#EXTINF:-1 tvg-id="83f116c9ff289c81b3006a91bad49708" tvg-name="RTSH Shqip" tvg-logo="" group-title="SHQIPTARE",RTSH Shqip
+http://brutus.biz:2082/anic/anic/201
+#EXTINF:-1 tvg-id="b1caf1cdc8e7c30986c8d637f4eb459c" tvg-name="RTSH Muzike" tvg-logo="" group-title="SHQIPTARE",RTSH Muzike
+http://brutus.biz:2082/anic/anic/202
+#EXTINF:-1 tvg-id="fcba3e81918046ea83d9957eaec93897" tvg-name="RTSH Film" tvg-logo="" group-title="SHQIPTARE",RTSH Film
+http://brutus.biz:2082/anic/anic/203
+#EXTINF:-1 tvg-id="773fd24b5a0ee1fe7885850fed809858" tvg-name="RTSH Femije" tvg-logo="" group-title="SHQIPTARE",RTSH Femije
+http://brutus.biz:2082/anic/anic/204
+#EXTINF:-1 tvg-id="f294b1893bf382daed722100a1d254c0" tvg-name="RTSH Shkolle" tvg-logo="" group-title="SHQIPTARE",RTSH Shkolle
+http://brutus.biz:2082/anic/anic/205
+#EXTINF:-1 tvg-id="25a5f35e6b7fbde7c3c76a56b83b21ff" tvg-name="RTSH 24 HD" tvg-logo="" group-title="SHQIPTARE",RTSH 24 HD
+http://brutus.biz:2082/anic/anic/206
+#EXTINF:-1 tvg-id="" tvg-name="SITI Shqip" tvg-logo="" group-title="SHQIPTARE",SITI Shqip
+http://brutus.biz:2082/anic/anic/877
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="" group-title="SHQIPTARE",CITY TV
+http://brutus.biz:2082/anic/anic/878
+#EXTINF:-1 tvg-id="" tvg-name="Folklorit TV" tvg-logo="" group-title="SHQIPTARE",Folklorit TV
+http://brutus.biz:2082/anic/anic/879
+#EXTINF:-1 tvg-id="3e14bb6d7d06402a6a4220e5972ff413" tvg-name="Klan Music" tvg-logo="" group-title="SHQIPTARE",Klan Music
+http://brutus.biz:2082/anic/anic/195
+#EXTINF:-1 tvg-id="278e6768483f31d73cc9662f262183f2" tvg-name="SUPERSONIC TV" tvg-logo="" group-title="SHQIPTARE",SUPERSONIC TV
+http://brutus.biz:2082/anic/anic/416
+#EXTINF:-1 tvg-id="f475a47ef5f5f6ec38ff715385644e08" tvg-name="STV Folk" tvg-logo="" group-title="SHQIPTARE",STV Folk
+http://brutus.biz:2082/anic/anic/417
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sky Music TV" tvg-logo="" group-title="SHQIPTARE",Blue Sky Music TV
+http://brutus.biz:2082/anic/anic/876
+#EXTINF:-1 tvg-id="43c7265d902ab9914383e438fccac2af" tvg-name="MELODY TV" tvg-logo="" group-title="SHQIPTARE",MELODY TV
+http://brutus.biz:2082/anic/anic/418
+#EXTINF:-1 tvg-id="" tvg-name="BBF" tvg-logo="" group-title="SHQIPTARE",BBF
+http://brutus.biz:2082/anic/anic/889
+#EXTINF:-1 tvg-id="" tvg-name="Folk+" tvg-logo="" group-title="SHQIPTARE",Folk+
+http://brutus.biz:2082/anic/anic/890
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV" tvg-logo="" group-title="SHQIPTARE",Elrodi TV
+http://brutus.biz:2082/anic/anic/891
+#EXTINF:-1 tvg-id="" tvg-name="Click TV" tvg-logo="" group-title="SHQIPTARE",Click TV
+http://brutus.biz:2082/anic/anic/892
+#EXTINF:-1 tvg-id="" tvg-name="TV Kopliku" tvg-logo="" group-title="SHQIPTARE",TV Kopliku
+http://brutus.biz:2082/anic/anic/845
+#EXTINF:-1 tvg-id="RTK 1" tvg-name="RTK 1" tvg-logo="" group-title="SHQIPTARE",RTK 1
+http://brutus.biz:2082/anic/anic/339
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="" group-title="SHQIPTARE",RTK 2
+http://brutus.biz:2082/anic/anic/340
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3" tvg-logo="" group-title="SHQIPTARE",RTK 3
+http://brutus.biz:2082/anic/anic/341
+#EXTINF:-1 tvg-id="" tvg-name="DUKAGJINI TV" tvg-logo="" group-title="SHQIPTARE",DUKAGJINI TV
+http://brutus.biz:2082/anic/anic/426
+#EXTINF:-1 tvg-id="" tvg-name="ALSAT M" tvg-logo="" group-title="SHQIPTARE",ALSAT M
+http://brutus.biz:2082/anic/anic/338
+#EXTINF:-1 tvg-id="KTV" tvg-name="KTV" tvg-logo="" group-title="SHQIPTARE",KTV
+http://brutus.biz:2082/anic/anic/343
+#EXTINF:-1 tvg-id="" tvg-name="ATV KOSOVA" tvg-logo="" group-title="SHQIPTARE",ATV KOSOVA
+http://brutus.biz:2082/anic/anic/512
+#EXTINF:-1 tvg-id="5295bf816d51c4a3b3bc6cc1562a135b" tvg-name="T7" tvg-logo="" group-title="SHQIPTARE",T7
+http://brutus.biz:2082/anic/anic/427
+#EXTINF:-1 tvg-id="RTV 21" tvg-name="RTV 21" tvg-logo="" group-title="SHQIPTARE",RTV 21
+http://brutus.biz:2082/anic/anic/344
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Maqedoni" tvg-logo="" group-title="SHQIPTARE",RTV 21 Maqedoni
+http://brutus.biz:2082/anic/anic/451
+#EXTINF:-1 tvg-id="21 Junior" tvg-name="RTV 21 HD JUNIOR" tvg-logo="" group-title="SHQIPTARE",RTV 21 HD JUNIOR
+http://brutus.biz:2082/anic/anic/345
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 MIX" tvg-logo="" group-title="SHQIPTARE",RTV 21 MIX
+http://brutus.biz:2082/anic/anic/347
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus" tvg-logo="" group-title="SHQIPTARE",RTV 21 Plus
+http://brutus.biz:2082/anic/anic/349
+#EXTINF:-1 tvg-id="21 Popullore" tvg-name="RTV 21 POPULLORE" tvg-logo="" group-title="SHQIPTARE",RTV 21 POPULLORE
+http://brutus.biz:2082/anic/anic/350
+#EXTINF:-1 tvg-id="" tvg-name="TV Mitrovica" tvg-logo="" group-title="SHQIPTARE",TV Mitrovica
+http://brutus.biz:2082/anic/anic/537
+#EXTINF:-1 tvg-id="" tvg-name="Peace  TV" tvg-logo="" group-title="SHQIPTARE",Peace  TV
+http://brutus.biz:2082/anic/anic/543
+#EXTINF:-1 tvg-id="3cd7d5856f8fbde771813109bfc51620" tvg-name="Top Channel USA" tvg-logo="http://51.158.145.100/picons/logos/topchannel.png" group-title="SHQIPTARE",Top Channel USA
+http://brutus.biz:2082/anic/anic/439
+#EXTINF:-1 tvg-id="dc6c02fcdd54e84946576c444af015f0" tvg-name="Klan HD USA" tvg-logo="" group-title="SHQIPTARE",Klan HD USA
+http://brutus.biz:2082/anic/anic/440
+#EXTINF:-1 tvg-id="dc2f8042045cde0471d99436a59b231d" tvg-name="ABC News USA" tvg-logo="" group-title="SHQIPTARE",ABC News USA
+http://brutus.biz:2082/anic/anic/443
+#EXTINF:-1 tvg-id="67fc312da8472d7f557167fd8bec3193" tvg-name="Vizion Plus HD USA" tvg-logo="" group-title="SHQIPTARE",Vizion Plus HD USA
+http://brutus.biz:2082/anic/anic/441
+#EXTINF:-1 tvg-id="2bef157934afef38bcabe120618955ac" tvg-name="ORA News USA" tvg-logo="" group-title="SHQIPTARE",ORA News USA
+http://brutus.biz:2082/anic/anic/444
+#EXTINF:-1 tvg-id="0f321b300cfacf6e96db364e99bc314f" tvg-name="News 24 USA" tvg-logo="" group-title="SHQIPTARE",News 24 USA
+http://brutus.biz:2082/anic/anic/442
+#EXTINF:-1 tvg-id="" tvg-name="DUKAGJINI TV USA" tvg-logo="" group-title="SHQIPTARE",DUKAGJINI TV USA
+http://brutus.biz:2082/anic/anic/454
+#EXTINF:-1 tvg-id="" tvg-name="T7 USA" tvg-logo="" group-title="SHQIPTARE",T7 USA
+http://brutus.biz:2082/anic/anic/453
+#EXTINF:-1 tvg-id="" tvg-name="KTV USA" tvg-logo="" group-title="SHQIPTARE",KTV USA
+http://brutus.biz:2082/anic/anic/452
+#EXTINF:-1 tvg-id="b5adb86dc98ef87dfadbce9a1ecff69d" tvg-name="GOLD HD" tvg-logo="" group-title="DIGITALB",GOLD HD
+http://brutus.biz:2082/anic/anic/216
+#EXTINF:-1 tvg-id="77759684cdaa4e8f8d49a4accb3ec4d9" tvg-name="MAX HD" tvg-logo="" group-title="DIGITALB",MAX HD
+http://brutus.biz:2082/anic/anic/217
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Albania 1" tvg-logo="" group-title="DIGITALB",Big Brother Albania 1
+http://brutus.biz:2082/anic/anic/908
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Albania 2" tvg-logo="" group-title="DIGITALB",Big Brother Albania 2
+http://brutus.biz:2082/anic/anic/909
+#EXTINF:-1 tvg-id="461874297b0c716c863f98514a8f770c" tvg-name="Family HD" tvg-logo="" group-title="DIGITALB",Family HD
+http://brutus.biz:2082/anic/anic/218
+#EXTINF:-1 tvg-id="8887f839c20fc11d7a7fa44625d86427" tvg-name="T HD" tvg-logo="" group-title="DIGITALB",T HD
+http://brutus.biz:2082/anic/anic/219
+#EXTINF:-1 tvg-id="fcba3e81918046ea83d9957eaec93897" tvg-name="TDC" tvg-logo="" group-title="DIGITALB",TDC
+http://brutus.biz:2082/anic/anic/511
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="DIGITALB",TLC
+http://brutus.biz:2082/anic/anic/671
+#EXTINF:-1 tvg-id="b99bd399741df422b8f9f0fff0fece42" tvg-name="My Music" tvg-logo="" group-title="DIGITALB",My Music
+http://brutus.biz:2082/anic/anic/857
+#EXTINF:-1 tvg-id="d1ed13e9c9c0fd686c32053f786bc0c2" tvg-name="EuroFilm" tvg-logo="" group-title="DIGITALB",EuroFilm
+http://brutus.biz:2082/anic/anic/220
+#EXTINF:-1 tvg-id="744860bf8db9770506e4be55bfd0d742" tvg-name="Stinet" tvg-logo="" group-title="DIGITALB",Stinet
+http://brutus.biz:2082/anic/anic/221
+#EXTINF:-1 tvg-id="fcba3e81918046ea83d9957eaec93897" tvg-name="Film Autor" tvg-logo="" group-title="DIGITALB",Film Autor
+http://brutus.biz:2082/anic/anic/222
+#EXTINF:-1 tvg-id="e3c17fbe94df67fa014004d7ed6b630f" tvg-name="Film Hits HD" tvg-logo="" group-title="DIGITALB",Film Hits HD
+http://brutus.biz:2082/anic/anic/223
+#EXTINF:-1 tvg-id="4c2239670b090d94f0fd7947c3407f05" tvg-name="Film Thriller" tvg-logo="" group-title="DIGITALB",Film Thriller
+http://brutus.biz:2082/anic/anic/224
+#EXTINF:-1 tvg-id="8cd375f0dce69dfbcc2c4fa3f63c3e17" tvg-name="Film Drame" tvg-logo="" group-title="DIGITALB",Film Drame
+http://brutus.biz:2082/anic/anic/225
+#EXTINF:-1 tvg-id="31ea8358e76501f88e4dd8f9a608b8c5" tvg-name="Film Aksion HD" tvg-logo="" group-title="DIGITALB",Film Aksion HD
+http://brutus.biz:2082/anic/anic/226
+#EXTINF:-1 tvg-id="db4c9c15b13cd63148727d946fb92803" tvg-name="Film Komedi" tvg-logo="" group-title="DIGITALB",Film Komedi
+http://brutus.biz:2082/anic/anic/227
+#EXTINF:-1 tvg-id="210b074f2114aef185ae684e71042552" tvg-name="Bang Bang" tvg-logo="" group-title="DIGITALB",Bang Bang
+http://brutus.biz:2082/anic/anic/228
+#EXTINF:-1 tvg-id="bd90429cbb14d272be4c891baf6088b7" tvg-name="Cufo TV" tvg-logo="" group-title="DIGITALB",Cufo TV
+http://brutus.biz:2082/anic/anic/229
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="DIGITALB",Baby TV
+http://brutus.biz:2082/anic/anic/670
+#EXTINF:-1 tvg-id="b7798388bda732a557a6435482f78c5a" tvg-name="Junior TV" tvg-logo="" group-title="DIGITALB",Junior TV
+http://brutus.biz:2082/anic/anic/230
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="DIGITALB",Nickelodeon HD
+http://brutus.biz:2082/anic/anic/862
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="" group-title="DIGITALB",Nicktoons
+http://brutus.biz:2082/anic/anic/863
+#EXTINF:-1 tvg-id="40a8b39db83926a6c911ab95ab541cc1" tvg-name="24 Kitchen" tvg-logo="" group-title="DIGITALB",24 Kitchen
+http://brutus.biz:2082/anic/anic/419
+#EXTINF:-1 tvg-id="f855366f1c4d7282ab6d95fe64729d94" tvg-name="FOX" tvg-logo="" group-title="DIGITALB",FOX
+http://brutus.biz:2082/anic/anic/420
+#EXTINF:-1 tvg-id="b4c635d52cd14bbd90a92781e2f57f6e" tvg-name="Discovery Channel HD" tvg-logo="" group-title="DIGITALB",Discovery Channel HD
+http://brutus.biz:2082/anic/anic/858
+#EXTINF:-1 tvg-id="540aaf55a34250c855fee00d848d2541" tvg-name="Discovery Science HD" tvg-logo="" group-title="DIGITALB",Discovery Science HD
+http://brutus.biz:2082/anic/anic/859
+#EXTINF:-1 tvg-id="dd145e626902c0194ca678dd09906f09" tvg-name="Discovery Turbo Xtra" tvg-logo="" group-title="DIGITALB",Discovery Turbo Xtra
+http://brutus.biz:2082/anic/anic/860
+#EXTINF:-1 tvg-id="b5170555b2f978573d18199a613cfed3" tvg-name="Travel Channel HD" tvg-logo="" group-title="DIGITALB",Travel Channel HD
+http://brutus.biz:2082/anic/anic/861
+#EXTINF:-1 tvg-id="18eb226f17a353ecc9eb084d1f1071a0" tvg-name="Kanal 10" tvg-logo="" group-title="DIGITALB",Kanal 10
+http://brutus.biz:2082/anic/anic/422
+#EXTINF:-1 tvg-id="24222fd3262ed502fc380bc60ebd27c0" tvg-name="EXP shkence" tvg-logo="" group-title="DIGITALB",EXP shkence
+http://brutus.biz:2082/anic/anic/236
+#EXTINF:-1 tvg-id="3597196d96f779a7332f765c80571dce" tvg-name="EXP histori" tvg-logo="" group-title="DIGITALB",EXP histori
+http://brutus.biz:2082/anic/anic/237
+#EXTINF:-1 tvg-id="6dc28e6fceb84a041af7613b0a94d3b7" tvg-name="EXP natyra" tvg-logo="" group-title="DIGITALB",EXP natyra
+http://brutus.biz:2082/anic/anic/238
+#EXTINF:-1 tvg-id="fcba3e81918046ea83d9957eaec93897" tvg-name="MTV Live HD" tvg-logo="" group-title="DIGITALB",MTV Live HD
+http://brutus.biz:2082/anic/anic/245
+#EXTINF:-1 tvg-id="" tvg-name="Kanali 7" tvg-logo="" group-title="TRING",Kanali 7
+http://brutus.biz:2082/anic/anic/507
+#EXTINF:-1 tvg-id="ab273e8842bbba74f35a8732030f40b4" tvg-name="Tring Shqip" tvg-logo="" group-title="TRING",Tring Shqip
+http://brutus.biz:2082/anic/anic/247
+#EXTINF:-1 tvg-id="8de7a27a8576365eb91dae7ac40f778e" tvg-name="Tring Super HD" tvg-logo="" group-title="TRING",Tring Super HD
+http://brutus.biz:2082/anic/anic/248
+#EXTINF:-1 tvg-id="1e8b4bad36e56a41470361a3a2c1ec78" tvg-name="Tring Life HD" tvg-logo="" group-title="TRING",Tring Life HD
+http://brutus.biz:2082/anic/anic/504
+#EXTINF:-1 tvg-id="604a2751b868f79b88e31616278e2015" tvg-name="Tring Fantasy" tvg-logo="" group-title="TRING",Tring Fantasy
+http://brutus.biz:2082/anic/anic/284
+#EXTINF:-1 tvg-id="15bd110b803a59977be9fca6b6301228" tvg-name="Tring Comedy" tvg-logo="" group-title="TRING",Tring Comedy
+http://brutus.biz:2082/anic/anic/505
+#EXTINF:-1 tvg-id="6f3d15b29132ce67312a820aa3463ba5" tvg-name="Tring Action HD" tvg-logo="" group-title="TRING",Tring Action HD
+http://brutus.biz:2082/anic/anic/249
+#EXTINF:-1 tvg-id="0c590b3f7384f1c81bc8ebfc0f5280aa" tvg-name="Jolly HD" tvg-logo="" group-title="TRING",Jolly HD
+http://brutus.biz:2082/anic/anic/283
+#EXTINF:-1 tvg-id="521f77fb9db91793c5634e1773ed4514" tvg-name="Living HD" tvg-logo="" group-title="TRING",Living HD
+http://brutus.biz:2082/anic/anic/431
+#EXTINF:-1 tvg-id="8906715f846ff7d1f65ec0e8bd0e7a63" tvg-name="KANAL D DRAMA" tvg-logo="" group-title="TRING",KANAL D DRAMA
+http://brutus.biz:2082/anic/anic/437
+#EXTINF:-1 tvg-id="699cbdba04400acea999ff8bc0559d81" tvg-name="3 Plus" tvg-logo="" group-title="TRING",3 Plus
+http://brutus.biz:2082/anic/anic/286
+#EXTINF:-1 tvg-id="" tvg-name="Tring Novelas" tvg-logo="" group-title="TRING",Tring Novelas
+http://brutus.biz:2082/anic/anic/888
+#EXTINF:-1 tvg-id="" tvg-name="Tring Collecton" tvg-logo="" group-title="TRING",Tring Collecton
+http://brutus.biz:2082/anic/anic/893
+#EXTINF:-1 tvg-id="" tvg-name="Tring Classic" tvg-logo="" group-title="TRING",Tring Classic
+http://brutus.biz:2082/anic/anic/894
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="" group-title="TRING",Fox Crime
+http://brutus.biz:2082/anic/anic/895
+#EXTINF:-1 tvg-id="" tvg-name="Tring Smile" tvg-logo="" group-title="TRING",Tring Smile
+http://brutus.biz:2082/anic/anic/896
+#EXTINF:-1 tvg-id="" tvg-name="Muse" tvg-logo="" group-title="TRING",Muse
+http://brutus.biz:2082/anic/anic/898
+#EXTINF:-1 tvg-id="0f538163b3391098cdb032aa1906c4cd" tvg-name="Tring Planet" tvg-logo="" group-title="TRING",Tring Planet
+http://brutus.biz:2082/anic/anic/254
+#EXTINF:-1 tvg-id="039eafd0adbae8c98ca7e947789c642f" tvg-name="Tring World" tvg-logo="" group-title="TRING",Tring World
+http://brutus.biz:2082/anic/anic/255
+#EXTINF:-1 tvg-id="c9425aee1d7fd05c55f779d36f5ca1a0" tvg-name="Tring Tring" tvg-logo="" group-title="TRING",Tring Tring
+http://brutus.biz:2082/anic/anic/251
+#EXTINF:-1 tvg-id="3a4bf0362dbb3841846c64bf92dc3b4d" tvg-name="Tip TV" tvg-logo="" group-title="TRING",Tip TV
+http://brutus.biz:2082/anic/anic/503
+#EXTINF:-1 tvg-id="6b1eb32b14d73d304cd8b10b35125414" tvg-name="SUPER SPORT 1" tvg-logo="" group-title="SPORT",SUPER SPORT 1
+http://brutus.biz:2082/anic/anic/256
+#EXTINF:-1 tvg-id="c1aa04e42f86d8cc3b855cd89737ca72" tvg-name="SUPER SPORT 2" tvg-logo="" group-title="SPORT",SUPER SPORT 2
+http://brutus.biz:2082/anic/anic/257
+#EXTINF:-1 tvg-id="5167f52a1ddb31c3a24c544ca60a3ead" tvg-name="SUPER SPORT 3" tvg-logo="" group-title="SPORT",SUPER SPORT 3
+http://brutus.biz:2082/anic/anic/258
+#EXTINF:-1 tvg-id="7ec07fe52350a5f9c1b38b9b330a05c8" tvg-name="SUPER SPORT 4" tvg-logo="" group-title="SPORT",SUPER SPORT 4
+http://brutus.biz:2082/anic/anic/259
+#EXTINF:-1 tvg-id="eccc33fd34e1f4c7b166f208b89d70c6" tvg-name="SUPER SPORT 5" tvg-logo="" group-title="SPORT",SUPER SPORT 5
+http://brutus.biz:2082/anic/anic/260
+#EXTINF:-1 tvg-id="b14aecfbfebb4fea4df9cac46903fd5c" tvg-name="SUPER SPORT 6" tvg-logo="" group-title="SPORT",SUPER SPORT 6
+http://brutus.biz:2082/anic/anic/261
+#EXTINF:-1 tvg-id="41418d1f3f4abfb5eed041d86e20d0f1" tvg-name="SUPER SPORT 7" tvg-logo="" group-title="SPORT",SUPER SPORT 7
+http://brutus.biz:2082/anic/anic/262
+#EXTINF:-1 tvg-id="e0ca547ba229f86d9dcb302cee0fa1c1" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="SPORT",EUROSPORT 1 HD
+http://brutus.biz:2082/anic/anic/435
+#EXTINF:-1 tvg-id="ffa4c20c4f55f3c9a43667bce47c5d53" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="SPORT",EUROSPORT 2 HD
+http://brutus.biz:2082/anic/anic/436
+#EXTINF:-1 tvg-id="" tvg-name="SUPERLIGA SHQIPTARE 1" tvg-logo="" group-title="SPORT",SUPERLIGA SHQIPTARE 1
+http://brutus.biz:2082/anic/anic/903
+#EXTINF:-1 tvg-id="80404a1572422dc1b1a4797dff7ba625" tvg-name="TRING SPORT 1" tvg-logo="" group-title="SPORT",TRING SPORT 1
+http://brutus.biz:2082/anic/anic/263
+#EXTINF:-1 tvg-id="41d9dc1869fb3a6ff0b96c9e3f632191" tvg-name="TRING SPORT 2" tvg-logo="" group-title="SPORT",TRING SPORT 2
+http://brutus.biz:2082/anic/anic/264
+#EXTINF:-1 tvg-id="1d26355e58cbe672f35d7590af1a5758" tvg-name="TRING SPORT 3" tvg-logo="" group-title="SPORT",TRING SPORT 3
+http://brutus.biz:2082/anic/anic/265
+#EXTINF:-1 tvg-id="53409ae72a521aa8a47ff57e0a7c55f7" tvg-name="TRING SPORT 4" tvg-logo="" group-title="SPORT",TRING SPORT 4
+http://brutus.biz:2082/anic/anic/266
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 1" tvg-logo="" group-title="SPORT",Kujtesa Sport 1
+http://brutus.biz:2082/anic/anic/351
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 2" tvg-logo="" group-title="SPORT",Kujtesa Sport 2
+http://brutus.biz:2082/anic/anic/352
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 3" tvg-logo="" group-title="SPORT",Kujtesa Sport 3
+http://brutus.biz:2082/anic/anic/353
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 4" tvg-logo="" group-title="SPORT",Kujtesa Sport 4
+http://brutus.biz:2082/anic/anic/354
+#EXTINF:-1 tvg-id="" tvg-name="ART Sport 1" tvg-logo="" group-title="SPORT",ART Sport 1
+http://brutus.biz:2082/anic/anic/355
+#EXTINF:-1 tvg-id="" tvg-name="ART Sport 2" tvg-logo="" group-title="SPORT",ART Sport 2
+http://brutus.biz:2082/anic/anic/356
+#EXTINF:-1 tvg-id="" tvg-name="ART Sport 3" tvg-logo="" group-title="SPORT",ART Sport 3
+http://brutus.biz:2082/anic/anic/357
+#EXTINF:-1 tvg-id="" tvg-name="ART Sport 4" tvg-logo="" group-title="SPORT",ART Sport 4
+http://brutus.biz:2082/anic/anic/865
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB  1" tvg-logo="" group-title="SPORT",SPORT KLUB  1
+http://brutus.biz:2082/anic/anic/5
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB  2" tvg-logo="" group-title="SPORT",SPORT KLUB  2
+http://brutus.biz:2082/anic/anic/6
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB  3" tvg-logo="" group-title="SPORT",SPORT KLUB  3
+http://brutus.biz:2082/anic/anic/7
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="" group-title="SPORT",Arena Sport 1
+http://brutus.biz:2082/anic/anic/9
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="" group-title="SPORT",Arena Sport 2
+http://brutus.biz:2082/anic/anic/10
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="" group-title="SPORT",Arena Sport 3
+http://brutus.biz:2082/anic/anic/11
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="" group-title="SPORT",Arena Sport 4
+http://brutus.biz:2082/anic/anic/867
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5" tvg-logo="" group-title="SPORT",Arena Sport 5
+http://brutus.biz:2082/anic/anic/868
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 1" tvg-logo="" group-title="SPORT",Polsat Sport Premium 1
+http://brutus.biz:2082/anic/anic/13
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2" tvg-logo="" group-title="SPORT",Polsat Sport Premium 2
+http://brutus.biz:2082/anic/anic/14
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="SPORT",ELEVEN SPORTS 1
+http://brutus.biz:2082/anic/anic/846
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="SPORT",ELEVEN SPORTS 2
+http://brutus.biz:2082/anic/anic/847
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport FIGHT" tvg-logo="" group-title="SPORT",Polsat Sport FIGHT
+http://brutus.biz:2082/anic/anic/18
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT Network" tvg-logo="" group-title="SPORT",FIGHT Network
+http://brutus.biz:2082/anic/anic/19
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT klub" tvg-logo="" group-title="SPORT",FIGHT klub
+http://brutus.biz:2082/anic/anic/21
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Sport" tvg-logo="" group-title="SPORT",CANAL+ Sport
+http://brutus.biz:2082/anic/anic/23
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Select" tvg-logo="" group-title="SPORT",ZIGGO Select
+http://brutus.biz:2082/anic/anic/25
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO RACING" tvg-logo="" group-title="SPORT",ZIGGO RACING
+http://brutus.biz:2082/anic/anic/26
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO GOLF" tvg-logo="" group-title="SPORT",ZIGGO GOLF
+http://brutus.biz:2082/anic/anic/27
+#EXTINF:-1 tvg-id="" tvg-name="XTREME SPORTS" tvg-logo="" group-title="SPORT",XTREME SPORTS
+http://brutus.biz:2082/anic/anic/28
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 TR" tvg-logo="" group-title="SPORT",beIN Sports 1 TR
+http://brutus.biz:2082/anic/anic/31
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 TR" tvg-logo="" group-title="SPORT",beIN Sports 2 TR
+http://brutus.biz:2082/anic/anic/32
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 TR" tvg-logo="" group-title="SPORT",beIN Sports 3 TR
+http://brutus.biz:2082/anic/anic/33
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 TR" tvg-logo="" group-title="SPORT",beIN Sports 4 TR
+http://brutus.biz:2082/anic/anic/34
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1" tvg-logo="" group-title="SPORT",RMC SPORT 1
+http://brutus.biz:2082/anic/anic/35
+#EXTINF:-1 tvg-id="" tvg-name="RMC PORTS 2" tvg-logo="" group-title="SPORT",RMC PORTS 2
+http://brutus.biz:2082/anic/anic/36
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="SPORT",FOX SPORTS 2
+http://brutus.biz:2082/anic/anic/39
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Polska HD" tvg-logo="" group-title="SPORT",Canal+ Polska HD
+http://brutus.biz:2082/anic/anic/851
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1" tvg-logo="" group-title="SPORT",Sky Sport Bundesliga 1
+http://brutus.biz:2082/anic/anic/43
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="" group-title="SPORT",Sky Sports F1
+http://brutus.biz:2082/anic/anic/44
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="" group-title="SPORT",ESPN 1
+http://brutus.biz:2082/anic/anic/45
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="SPORT",ESPN 2
+http://brutus.biz:2082/anic/anic/46
+#EXTINF:-1 tvg-id="723f4c0e24dad05e223c79659f64c693" tvg-name="Alpha HD" tvg-logo="" group-title="GREKE",Alpha HD
+http://brutus.biz:2082/anic/anic/364
+#EXTINF:-1 tvg-id="60a304ae9baf1b4d722a2d77799df6ce" tvg-name="MEGA HD" tvg-logo="" group-title="GREKE",MEGA HD
+http://brutus.biz:2082/anic/anic/378
+#EXTINF:-1 tvg-id="94a54219eeaaf235ae28c4b620d7c70f" tvg-name="ANTENA 1" tvg-logo="" group-title="GREKE",ANTENA 1
+http://brutus.biz:2082/anic/anic/363
+#EXTINF:-1 tvg-id="0e1818c36370535d8b568b6ff7b8af35" tvg-name="SKAI HD" tvg-logo="" group-title="GREKE",SKAI HD
+http://brutus.biz:2082/anic/anic/423
+#EXTINF:-1 tvg-id="436a18550dd5c04db63a01e35c51dcce" tvg-name="Makedonia.tv" tvg-logo="" group-title="GREKE",Makedonia.tv
+http://brutus.biz:2082/anic/anic/455
+#EXTINF:-1 tvg-id="cb1624f0720694e4a351a066d0218b64" tvg-name="Open HD" tvg-logo="" group-title="GREKE",Open HD
+http://brutus.biz:2082/anic/anic/430
+#EXTINF:-1 tvg-id="54032c77b01533d739d86872e924b77d" tvg-name="STAR HD" tvg-logo="" group-title="GREKE",STAR HD
+http://brutus.biz:2082/anic/anic/429
+#EXTINF:-1 tvg-id="" tvg-name="ERT 1 HD" tvg-logo="" group-title="GREKE",ERT 1 HD
+http://brutus.biz:2082/anic/anic/374
+#EXTINF:-1 tvg-id="" tvg-name="ERT 2 HD" tvg-logo="" group-title="GREKE",ERT 2 HD
+http://brutus.biz:2082/anic/anic/375
+#EXTINF:-1 tvg-id="" tvg-name="Rai 1" tvg-logo="" group-title="ITALIANE",Rai 1
+http://brutus.biz:2082/anic/anic/400
+#EXTINF:-1 tvg-id="" tvg-name="Rai 2" tvg-logo="" group-title="ITALIANE",Rai 2
+http://brutus.biz:2082/anic/anic/401
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="ITALIANE",Rai 3
+http://brutus.biz:2082/anic/anic/402
+#EXTINF:-1 tvg-id="" tvg-name="Rai Movie" tvg-logo="" group-title="ITALIANE",Rai Movie
+http://brutus.biz:2082/anic/anic/403
+#EXTINF:-1 tvg-id="" tvg-name="Rai News24" tvg-logo="" group-title="ITALIANE",Rai News24
+http://brutus.biz:2082/anic/anic/404
+#EXTINF:-1 tvg-id="" tvg-name="Rai Premium" tvg-logo="" group-title="ITALIANE",Rai Premium
+http://brutus.biz:2082/anic/anic/405
+#EXTINF:-1 tvg-id="" tvg-name="Rai Yoyo" tvg-logo="" group-title="ITALIANE",Rai Yoyo
+http://brutus.biz:2082/anic/anic/408
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5" tvg-logo="" group-title="ITALIANE",Canale 5
+http://brutus.biz:2082/anic/anic/409
+#EXTINF:-1 tvg-id="" tvg-name="Italia 1" tvg-logo="" group-title="ITALIANE",Italia 1
+http://brutus.biz:2082/anic/anic/547
+#EXTINF:-1 tvg-id="" tvg-name="Rete 4" tvg-logo="" group-title="ITALIANE",Rete 4
+http://brutus.biz:2082/anic/anic/410
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset 20" tvg-logo="" group-title="ITALIANE",Mediaset 20
+http://brutus.biz:2082/anic/anic/411
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra" tvg-logo="" group-title="ITALIANE",Mediaset Extra
+http://brutus.biz:2082/anic/anic/412
+#EXTINF:-1 tvg-id="" tvg-name="Iris Mediaset" tvg-logo="" group-title="ITALIANE",Iris Mediaset
+http://brutus.biz:2082/anic/anic/413
+#EXTINF:-1 tvg-id="" tvg-name="Top Crime Mediaset" tvg-logo="" group-title="ITALIANE",Top Crime Mediaset
+http://brutus.biz:2082/anic/anic/574
+#EXTINF:-1 tvg-id="" tvg-name="ABC News HD" tvg-logo="" group-title="INFORMATIVE",ABC News HD
+http://brutus.biz:2082/anic/anic/48
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD" tvg-logo="" group-title="INFORMATIVE",FOX NEWS HD
+http://brutus.biz:2082/anic/anic/49
+#EXTINF:-1 tvg-id="" tvg-name="CNN News HD" tvg-logo="" group-title="INFORMATIVE",CNN News HD
+http://brutus.biz:2082/anic/anic/51
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA HD" tvg-logo="" group-title="INFORMATIVE",AL JAZEERA HD
+http://brutus.biz:2082/anic/anic/52
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco Spain" tvg-logo="" group-title="INFORMATIVE",Telecinco Spain
+http://brutus.biz:2082/anic/anic/881
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 NEWS" tvg-logo="" group-title="INFORMATIVE",FRANCE 24 NEWS
+http://brutus.biz:2082/anic/anic/54
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HD" tvg-logo="" group-title="INFORMATIVE",Bloomberg HD
+http://brutus.biz:2082/anic/anic/55
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT EXPLORE" tvg-logo="" group-title="SUEDEZE",VIASAT EXPLORE
+http://brutus.biz:2082/anic/anic/88
+#EXTINF:-1 tvg-id="" tvg-name="Viasat History" tvg-logo="" group-title="SUEDEZE",Viasat History
+http://brutus.biz:2082/anic/anic/89
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Family" tvg-logo="" group-title="SUEDEZE",Viasat Film Family
+http://brutus.biz:2082/anic/anic/90
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Hits" tvg-logo="" group-title="SUEDEZE",Viasat Film Hits
+http://brutus.biz:2082/anic/anic/91
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Premiere" tvg-logo="" group-title="SUEDEZE",Viasat Film Premiere
+http://brutus.biz:2082/anic/anic/92
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="SUEDEZE",FOX
+http://brutus.biz:2082/anic/anic/93
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="SUEDEZE",Discovery Channel
+http://brutus.biz:2082/anic/anic/95
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="SUEDEZE",Disney Channel
+http://brutus.biz:2082/anic/anic/96
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD" tvg-logo="" group-title="TURKE",TRT 1 FHD
+http://brutus.biz:2082/anic/anic/97
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2 FHD" tvg-logo="" group-title="TURKE",TRT 2 FHD
+http://brutus.biz:2082/anic/anic/98
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV FHD" tvg-logo="" group-title="TURKE",SHOW TV FHD
+http://brutus.biz:2082/anic/anic/101
+#EXTINF:-1 tvg-id="" tvg-name="Star Tv HD" tvg-logo="" group-title="TURKE",Star Tv HD
+http://brutus.biz:2082/anic/anic/549
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 FHD" tvg-logo="" group-title="TURKE",KANAL 7 FHD
+http://brutus.biz:2082/anic/anic/102
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 24 FHD" tvg-logo="" group-title="TURKE",Kanal 24 FHD
+http://brutus.biz:2082/anic/anic/103
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D FHD" tvg-logo="" group-title="TURKE",KANAL D FHD
+http://brutus.biz:2082/anic/anic/104
+#EXTINF:-1 tvg-id="" tvg-name="ABC HD" tvg-logo="" group-title="USA",ABC HD
+http://brutus.biz:2082/anic/anic/105
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="USA",AMC HD
+http://brutus.biz:2082/anic/anic/106
+#EXTINF:-1 tvg-id="" tvg-name="BTN HD" tvg-logo="" group-title="USA",BTN HD
+http://brutus.biz:2082/anic/anic/107
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD" tvg-logo="" group-title="USA",ESPN 1 HD
+http://brutus.biz:2082/anic/anic/108
+#EXTINF:-1 tvg-id="" tvg-name="OWN FHD" tvg-logo="" group-title="USA",OWN FHD
+http://brutus.biz:2082/anic/anic/112
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen HD" tvg-logo="" group-title="USA",Oxygen HD
+http://brutus.biz:2082/anic/anic/113
+#EXTINF:-1 tvg-id="" tvg-name="ART DOKU 1" tvg-logo="" group-title="KINEMA",ART DOKU 1
+http://brutus.biz:2082/anic/anic/358
+#EXTINF:-1 tvg-id="" tvg-name="ART KINO 2" tvg-logo="" group-title="KINEMA",ART KINO 2
+http://brutus.biz:2082/anic/anic/361
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Arthouse" tvg-logo="" group-title="KINEMA",FilmBox Arthouse
+http://brutus.biz:2082/anic/anic/515
+#EXTINF:-1 tvg-id="" tvg-name="DocuBox HD" tvg-logo="" group-title="KINEMA",DocuBox HD
+http://brutus.biz:2082/anic/anic/516
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Arthouse AFR" tvg-logo="" group-title="KINEMA",FilmBox Arthouse AFR
+http://brutus.biz:2082/anic/anic/517
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Plus" tvg-logo="" group-title="KINEMA",FilmBox Plus
+http://brutus.biz:2082/anic/anic/518
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox" tvg-logo="" group-title="KINEMA",FilmBox
+http://brutus.biz:2082/anic/anic/520
+#EXTINF:-1 tvg-id="" tvg-name="FashionBox" tvg-logo="" group-title="KINEMA",FashionBox
+http://brutus.biz:2082/anic/anic/522
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Family" tvg-logo="" group-title="KINEMA",FilmBox Family
+http://brutus.biz:2082/anic/anic/523
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Baltic" tvg-logo="" group-title="KINEMA",FilmBox Baltic
+http://brutus.biz:2082/anic/anic/524
+#EXTINF:-1 tvg-id="" tvg-name="FightBox HD" tvg-logo="" group-title="SPORT",FightBox HD
+http://brutus.biz:2082/anic/anic/525
+#EXTINF:-1 tvg-id="" tvg-name="CineStar Premier 1" tvg-logo="" group-title="KINEMA",CineStar Premier 1
+http://brutus.biz:2082/anic/anic/873
+#EXTINF:-1 tvg-id="" tvg-name="CineStar Action" tvg-logo="" group-title="KINEMA",CineStar Action
+http://brutus.biz:2082/anic/anic/875
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="" group-title="GJERMANE",RTL
+http://brutus.biz:2082/anic/anic/392
+#EXTINF:-1 tvg-id="" tvg-name="Super RTL" tvg-logo="" group-title="GJERMANE",Super RTL
+http://brutus.biz:2082/anic/anic/445
+#EXTINF:-1 tvg-id="" tvg-name="Pro7" tvg-logo="" group-title="GJERMANE",Pro7
+http://brutus.biz:2082/anic/anic/393
+#EXTINF:-1 tvg-id="" tvg-name="VOX" tvg-logo="" group-title="GJERMANE",VOX
+http://brutus.biz:2082/anic/anic/394
+#EXTINF:-1 tvg-id="" tvg-name="Sat 1 Gold" tvg-logo="" group-title="GJERMANE",Sat 1 Gold
+http://brutus.biz:2082/anic/anic/396
+#EXTINF:-1 tvg-id="" tvg-name="PRO 7 MAX" tvg-logo="" group-title="GJERMANE",PRO 7 MAX
+http://brutus.biz:2082/anic/anic/397
+#EXTINF:-1 tvg-id="" tvg-name="ZDF" tvg-logo="" group-title="GJERMANE",ZDF
+http://brutus.biz:2082/anic/anic/398
+#EXTINF:-1 tvg-id="" tvg-name="KIKA" tvg-logo="" group-title="GJERMANE",KIKA
+http://brutus.biz:2082/anic/anic/399
+#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="" group-title="SHQIPTARE",test
+http://brutus.biz:2082/anic/anic/904
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport PL" tvg-logo="" group-title="SPORT",Canal+ Sport PL
+http://brutus.biz:2082/anic/anic/905
+#EXTINF:-1 tvg-id="" tvg-name="BigBrother Vip Kosova 1" tvg-logo="" group-title="SHQIPTARE",BigBrother Vip Kosova 1
+http://brutus.biz:2082/anic/anic/906
+#EXTINF:-1 tvg-id="" tvg-name="BigBrother Vip Kosova 2" tvg-logo="" group-title="SHQIPTARE",BigBrother Vip Kosova 2
+http://brutus.biz:2082/anic/anic/907
