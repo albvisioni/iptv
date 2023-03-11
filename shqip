@@ -7,7 +7,6 @@ http://brutus.biz:2082/anic/anic/184
 http://brutus.biz:2082/anic/anic/185
 #EXTINF:-1 tvg-id="" tvg-name="ALSAT M" tvg-logo="" group-title="SHQIPTARE",ALSAT M
 http://brutus.biz:2082/anic/anic/338
-
 #EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD" tvg-logo="" group-title="SHQIPTARE",Klan Kosova HD
 http://brutus.biz:2082/anic/anic/425
 #EXTINF:-1 tvg-id="86f3b7288e077243bcc011d22e8a7b28" tvg-name="Abc News HD" tvg-logo="" group-title="SHQIPTARE",Abc News HD
@@ -38,8 +37,6 @@ http://brutus.biz:2082/anic/anic/548
 http://brutus.biz:2082/anic/anic/190
 #EXTINF:-1 tvg-id="99517c92a76b8da249ae964617523b4b" tvg-name="Klan Plus HD" tvg-logo="" group-title="SHQIPTARE",Klan Plus HD
 http://brutus.biz:2082/anic/anic/187
-#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD" tvg-logo="" group-title="SHQIPTARE",Klan Kosova HD
-http://brutus.biz:2082/anic/anic/425
 #EXTINF:-1 tvg-id="d00cd82b571495e72fc362f9ac4ba670" tvg-name="KLAN MACEDONIA" tvg-logo="" group-title="SHQIPTARE",KLAN MACEDONIA
 http://brutus.biz:2082/anic/anic/194
 #EXTINF:-1 tvg-id="f0d985301c62cdffe97f3a9e1edbbb62" tvg-name="RTSH HD" tvg-logo="" group-title="SHQIPTARE",RTSH HD
