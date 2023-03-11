@@ -7,6 +7,9 @@ http://brutus.biz:2082/anic/anic/184
 http://brutus.biz:2082/anic/anic/185
 #EXTINF:-1 tvg-id="" tvg-name="ALSAT M" tvg-logo="" group-title="SHQIPTARE",ALSAT M
 http://brutus.biz:2082/anic/anic/338
+
+#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD" tvg-logo="" group-title="SHQIPTARE",Klan Kosova HD
+http://brutus.biz:2082/anic/anic/425
 #EXTINF:-1 tvg-id="86f3b7288e077243bcc011d22e8a7b28" tvg-name="Abc News HD" tvg-logo="" group-title="SHQIPTARE",Abc News HD
 http://brutus.biz:2082/anic/anic/186
 #EXTINF:-1 tvg-id="fcba3e81918046ea83d9957eaec93897" tvg-name="VizionPlus HD" tvg-logo="" group-title="SHQIPTARE",VizionPlus HD
