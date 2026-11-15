@@ -1,0 +1,57 @@
+#EXTM3U
+#PLAYLIST:My IPTV Selection - CODECS.COM
+
+#EXTINF:-1 tvg-id="VizionPlus.al@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/960px-Vizion_Plus.svg.png" group-title="General",Vizion Plus (1080p)
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+
+#EXTINF:-1 tvg-id="Syri.al@SD" tvg-logo="https://i.imgur.com/EEHyKdL.jpeg" group-title="News",Syri (720p)
+https://stream.syritv.al/live/syritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OraNews.al@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/960px-Ora_News_%28Albania%29.svg.png" group-title="News",Ora News (720p)
+https://live1.mediadesk.al/oranews.m3u8
+
+#EXTINF:-1 tvg-id="News24.al@SD" tvg-logo="https://i.imgur.com/eG33jue.png" group-title="News",News 24 (Albania) (392p)
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al@HD" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Music",AlbKanale Music TV HD (1080p)
+https://albportal.net/albkanalemusic.m3u8
+
+#EXTINF:-1 tvg-id="T7.xk@SD" tvg-logo="https://i.imgur.com/b7FvSJj.png",T7 (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCTravel.us@Germany" tvg-logo="https://i.imgur.com/QiuYWs9.png" group-title="Lifestyle",BBC Travel
+https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+
+#EXTINF:-1 tvg-id="KiKA.de@SD" tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="Kids",KiKA (1080p) [Not 24/7]
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+
+#EXTINF:-1 tvg-id="OneMusicTelevision.de@SD" tvg-logo="https://i.imgur.com/dLgoKJ0.png" group-title="Music",One Music Television
+https://oneapp.b-cdn.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="OneAdria.de@SD" tvg-logo="https://i.imgur.com/NYkMamU.png" group-title="Music",One Adria
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="ProSieben.de@SD" tvg-logo="https://i.imgur.com/zZOk3nh.png",ProSieben (1080p)
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RAN1.de@SD" tvg-logo="https://i.imgur.com/zRg2BEa.png",RAN1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTL.de@SD" tvg-logo="https://i.imgur.com/94K94k2.png",RTL (Germany)
+https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLZwei.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png",RTL Zwei
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png",RTL Zwei HD (576p)
+https://s6.hopslan.com/rtl2q/index.m3u8
+
+#EXTINF:-1 tvg-id="RTLSuper.de@HD" tvg-logo="https://i.imgur.com/KbdK8t9.png",RTL Super HD (576p)
+https://s6.hopslan.com/superX/index.m3u8
+
+#EXTINF:-1 tvg-id="FolkTV.mk@SD" tvg-logo="https://i.imgur.com/4b9aZ9P.png" group-title="Music",Folk TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+
+#EXTINF:-1 tvg-id="SkyFolkTV.mk@SD" tvg-logo="https://i.imgur.com/ya5xpUL.png" group-title="Music",Sky Folk TV (720p) [Not 24/7]
+https://eu.live.skyfolk.mk/live.m3u8
+
